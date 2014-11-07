@@ -1,4 +1,4 @@
 tao-user-guide
 ==============
 
-User Guide for TAO
+This is the User Guide for TAO
