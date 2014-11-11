@@ -11,11 +11,12 @@
 
 ## Take a tour 
 
-*(explain the whole assessment cycle)*
- 
-## Interface Overview 
-
-*(describe the screen organization)*
+* Create your items
+* Build your test
+* Register your test-takers
+* Assign test-takers to groups
+* Publish and deliver your test
+* View your results.
 
 # The Basics 
 
