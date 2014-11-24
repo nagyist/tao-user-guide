@@ -1,1 +1,43 @@
 # Graphic Gap Interaction
+
+>The Graphic Gap item gives test-takers the opportunity to demonstrate knowledge about geographical regions, identify facts about portions of images (persons in a group photo, etc.), or show other similar capabilities in picture matching.
+
+>All graphic items can be found in the Graphic Interactions menu (the third bar down) in the Library Panel. All require dragging the appropriate icon, such as the Graphic Gap item icon, over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This will result in the results manager window coming up, through which the test-author will select a main question graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once this graphic is selected or uploaded, work may begin on the specific item.
+
+>For the Graphic Gap item, a new interaction-authoring window will appear with the graphic in the centre of the canvas. Above the graphic will be a field for writing in the question associated with this Item. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent associable hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
+
+>**Step 1:** Fill in the question field. 
+
+>This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this Item.
+
+>**Step 2: **Insert the Associable Hotspots onto the graphic.
+
+>To place a rectangle, click on one corner and drag across the intended area the Hotspot is supposed to cover. To place a circle or oval, select its centre and drag outward or inward until the Hotspot is at the right size. To place a polygon, begin at one corner, then click on each corner in succession until the Hotspot is completed. All the shapes can be edited, but if necessary, click on the problem Hotspot, then click the trash can to delete it, and then try again.
+
+>After the hotspots are added in, the answer graphics will then need to be entered in the gap match field below the main graphic.
+
+>**Step 3:** Click the plus sign (+) within the gap match field as many times as is needed to create the correct number of answer slots. 
+
+>Each time the plus-sign is clicked, a slot will be created for a single associable answer. After the correct number of square-shaped slots is set up, they will need to be populated. 
+
+>**Step 4:** Click anywhere on the first slot other than the trash can (clicking on that trash can icon will delete the slot). 
+
+>This will bring up the resource manager window. As during placement of the main graphic, the immediate choices will include all recently uploaded images. If the answer graphics are among these, then all that is required is simply selecting one graphic for each slot. If they are not, then they will need to be uploaded.
+
+>To prepare and upload new graphics to insert as answers, first identify on your computer the graphics that will be provided for the question. These should provide images that are roughly the same size. Ideally, this size would be appropriate for fitting into the main graphic, with a width of roughly one-sixth the width of the main graphic. If the selected graphics aren’t, they should be resized before uploading. Once all the images are the correct size, go back into the TAO program and click on the blue ‘Add file(s)’ button at the top of the list of available graphics, and then the blue ‘browse’ button that results. Find the place on your computer that you have stored the ready-to-upload files, and select these. Once all the desired files have been selected, click the green ‘Upload’ button below the list.
+
+>After the upload, select the first answer graphic for the first slot, and repeat for all subsequent slots.
+
+>**Step 5:** After the last slot is filled, click Response in the header bar to select answers.
+
+>The resulting screen will now allow the test-author to select the correct associations between the gap matches and the hotspots on the graphic. 
+
+>**Step 6:** By default, the Item will be set to require all answers to be correct before the interaction is marked correct (‘match correct’). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to ‘map response’.
+
+>Once the Response Processing is set to ‘map response’, selected association will be listed in a new window labelled ‘Pair Scoring’. Each association should be scored according to their importance. For instance, if all associations have the same weight, assigning each a score of 1 would be sufficient. Where some associations are of greater importance than others, the more important ones should be scored higher. The higher the score for an association, the more weighted that particular correct answer.
+
+>**Step 7:** Click the blue ‘Done’ button.
+
+>When this is done, you can preview what your Graphic Gap item looks like.
+
+>To do this, first go to the Actions Subheader line above the work canvas and find the ‘Save’ button on the far left of the segment above that canvas. You will want to click the ‘Preview’ button next to the ‘Save’ button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue ‘Save’ button. You’ll then be able to review the Item you’ve created as it will be viewed by the test-taker.
