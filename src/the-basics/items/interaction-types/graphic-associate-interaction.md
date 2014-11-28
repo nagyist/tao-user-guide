@@ -2,9 +2,9 @@
 
 >The Graphic Associate item gives test-takers the opportunity to depict routes on a map or other form of picture in a prescribed way. This can be used for such activities as drawing out historical military marches, route planning exercises, connecting the dots to form a missing piece of an image, etc. 
 
-All graphic items can be found in the Graphic Interactions menu (the third bar down) in the Library Panel. All require dragging the appropriate icon, such as the Graphic Associate item icon (the second row left option), over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This will result in a window coming up that asks the test-author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once the graphic is selected or uploaded, work may begin on the specific item.
+>All graphic items can be found in the Graphic Interactions menu (the third bar down) in the Library Panel. All require dragging the appropriate icon, such as the Graphic Associate item icon (the second row left option), over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This will result in a window coming up that asks the test-author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once the graphic is selected or uploaded, work may begin on the specific item.
 
-For the Graphic Associate item, a new interaction-authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this Item. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent Associable Hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. 
+>For the Graphic Associate item, a new interaction-authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this Item. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent Associable Hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. 
 
 **Step 1:** Fill in the question field. 
 
@@ -24,6 +24,4 @@ If modal feedback is desirable for this Item, it is possible to enter it at this
 
 **Step 4:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Associate item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You*ll then be able to review the Item you*ve created as it will be viewed by the test-taker.
+When this is done, you can preview what your Graphic Associate item looks like. For more on previewing, review its section.

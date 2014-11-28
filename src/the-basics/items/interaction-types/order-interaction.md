@@ -20,6 +20,4 @@ To do this, click the options in the correct order requested by the question fie
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Order item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You'll then be able to review the Item you've created as it will be viewed by the test-taker.
+When this is done, you can preview what your Order item looks like. For more on how to preview, review its section.

@@ -8,7 +8,7 @@ This opens a new Gap Match Interaction window. There will be a field for placing
 
 **Step 2:** Fill in the question field. 
 
-Typically this will be some variation on "fill in the gaps from the following word set".
+Typically this will be some variation on, "Fill in the gaps from the following word set."
 
 **Step 3:** Cut and paste, or type in, the text within which gaps will be presented. 
 
@@ -32,6 +32,4 @@ Fill all the gaps with their appropriate matches. If modal feedback is desirable
 
 **Step 8.** Click the blue *Done* button.
 
-When this is done, you can preview what your Gap Match item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You*ll then be able to review the Item you've created as it will be viewed by the test-taker.
+When this is done, you can preview what your Gap Match item looks like. For more on previewing, review its section.

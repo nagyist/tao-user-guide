@@ -8,7 +8,7 @@ This creates a new Hottext Interaction window. There will be a field for placing
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the test-taker ("find the mistakes", "pick the capital city", etc.).
+This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.).
 
 **Step 3:** Cut and paste, or type in, the text within which the Hottext choices will be presented. 
 
@@ -38,6 +38,4 @@ If modal feedback is desired for this Item, it is possible to enter it at this p
 
 **Step 8.** Click the blue *Done* button.
 
-When this is done, you can preview what your Hottext item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You'll then be able to review the Item you've created as it will be viewed by the test-taker.
+When this is done, you can preview what your Hottext item looks like. For more on how to preview, review its section.
