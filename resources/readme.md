@@ -1,0 +1,1 @@
+Photoshop files, generators, everything that is rather a tool than anything else
