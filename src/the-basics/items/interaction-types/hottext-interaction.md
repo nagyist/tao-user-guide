@@ -20,7 +20,7 @@ This will create a *magic wand* button that, if pressed, confirms that you want 
 
 **Step 5:** Once all the Hottext fields are activated, set in the Properties Panel to the left the minimum number of answers the test-taker can take, and the maximum.
 
-Setting the minimum to 0 allows the test-taker to not provide an answer. It is necessary to set the maximum to a number above zero to allow the test-taker to provide an answer.
+Setting the minimum to 0 allows the test-taker to skip the question. It is necessary to set the maximum to a number above zero to allow the test-taker to provide an answer.
 
 **Step 6:** Click Response in the blue Item header to select answers. 
 

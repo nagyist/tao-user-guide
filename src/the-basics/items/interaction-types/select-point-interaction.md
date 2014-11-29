@@ -29,7 +29,7 @@ This Item scores only using *Map Response* as a response processing method, whic
 
 Clicking on each Hotspot will bring up a small window asking what score should be assigned for selecting a point within it. Again, all potential sets of maximum scores should equal the maximum score for the item if the full score weight for each answer is to be taken into consideration. 
 
-If modal feedback is desired for this Item, it is possible to enter it at this point. For more details on how to do this, see the Modal Feedback section.
+If modal feedback is desired for this Item, enter it at this point. For more details on how to do this, see the Modal Feedback section.
 
 **Step 6:** Click the blue *Done* button.
 

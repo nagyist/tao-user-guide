@@ -4,7 +4,7 @@
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Extended Text* icon onto the blank Item and drop the resulting box in the blue field that appears when you drag the *Extended Text* element over it.
 
-This opens a new Extended Text Interaction window. By default, the window will begin on Question mode (rather than Response mode) and will show a question field and an 'extended text field'. 
+This opens a new Extended Text Interaction window. By default, the window will begin on Question mode (rather than Response mode) and will show a question field and an *extended text field*. 
 
 **Step 2:** Fill in the question field. 
 

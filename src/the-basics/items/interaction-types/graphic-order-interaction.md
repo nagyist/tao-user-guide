@@ -10,7 +10,7 @@
 
 This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this Item.
 
-**Step 2:** Insert the Associable Hotspots onto the graphic.
+**Step 2:** Insert the *Associable Hotspots* onto the graphic.
 
 To place a rectangle, click on one corner and drag across the intended area the Hotspot is supposed to cover. To place a circle or oval, select its center and drag outward or inward until the Hotspot is at the right size. To place a polygon, begin at one corner, then click on each corner in succession until the Hotspot is completed. All the shapes can be edited, but if necessary, click on the problem Hotspot, then click the trash can to delete it, and then try again. 
 
