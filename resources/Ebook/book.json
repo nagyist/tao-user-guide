@@ -13,7 +13,7 @@
         "path": "toc.ncx"
       },
       "style.css",
-      "*.md",
+      "*.md"
     ],
     "exclude": []
   },
