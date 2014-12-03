@@ -8,7 +8,7 @@ This creates a new Hottext Interaction window. There will be a field for placing
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the test-taker ("find the mistakes", "pick the capital city", etc.).
+This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.).
 
 **Step 3:** Cut and paste, or type in, the text within which the Hottext choices will be presented. 
 
@@ -20,7 +20,7 @@ This will create a *magic wand* button that, if pressed, confirms that you want 
 
 **Step 5:** Once all the Hottext fields are activated, set in the Properties Panel to the left the minimum number of answers the test-taker can take, and the maximum.
 
-Setting the minimum to 0 allows the test-taker to not provide an answer. It is necessary to set the maximum to a number above zero to allow the test-taker to provide an answer.
+Setting the minimum to 0 allows the test-taker to skip the question. It is necessary to set the maximum to a number above zero to allow the test-taker to provide an answer.
 
 **Step 6:** Click Response in the blue Item header to select answers. 
 
@@ -38,6 +38,4 @@ If modal feedback is desired for this Item, it is possible to enter it at this p
 
 **Step 8.** Click the blue *Done* button.
 
-When this is done, you can preview what your Hottext item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You'll then be able to review the Item you've created as it will be viewed by the test-taker.
+When this is done, you can preview what your Hottext item looks like. For more on how to preview, review its section.

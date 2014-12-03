@@ -26,10 +26,8 @@ First, select the type of Response Processing. If this will be *match correct*, 
 
 In order to make the most use of the score weighting, the total scores assigned should equal the maximum score in the Score Range. If the total scores are more than this, the maximum score value from the range will be applied. As noted in the dialogue window above the Item, the number of correct choices should be between the minimum and maximum number of answers required of the test-taker in Step 4.
 
-If modal feedback is desirable for this Item, it is possible to enter it at this point. For more details on how to do this, see the Modal Feedback section.
+If modal feedback is desirable for this interaction, enter it at this point. For more details on how to do this, see the Modal Feedback section.
 
 **Step 7:** Click the blue *Done* button.
 
-When this is done, you can preview what your Match item looks like.
-
-To do this, first go to the Action Bar line above the work canvas and find the *Save* button on the far left of the segment above that canvas. You will want to click the *Preview* button next to the *Save* button. This will bring up a dialog box that will ask you to save changes before previewing your work. Click the blue *Save* button. You*ll then be able to review the Item you've created as it will be viewed by the test-taker.
+When this is done, you can preview what your Match item looks like. For more on how to preview, review its section.
