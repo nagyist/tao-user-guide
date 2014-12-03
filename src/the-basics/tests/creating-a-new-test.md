@@ -16,10 +16,11 @@ This opens a three-part window: the Library contains available Items to place in
 
 Tests can be divided on two subordinated levels: Test parts, and sections. A test part is the first tier division of a test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. To add new sections, click on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
 
+At the start of any section, a *Rubric Block* or explanatory text can be entered in prior to insertion of interactions. To do this, click on the icon with the letter “A” in it, and then click on the blue *New Rubric Block* button that appears.
+
 Adding new items is almost as simple. In the Test Library, select the Item that will be needed, and then click on the light blue text block that reads *Add selected item(s) here*. Adding these in the order in which they are desired to appear on the delivered test is useful, but if an item is added out of order, the order can be corrected by clicking the upward or downward arrow buttons that appear after the properties icon behind the item. Unwanted items can be deleted by clicking on the trash can icon. (Applying test properties is covered in its own section.)
 
 **Step 4:** Adjust Property panel values as needed.
 
-The Identifier should, in general, be left alone, though this is editable. However, the Test Title can be renamed to make it easier for the test-taker to identify it.
+Suggested methods for setting these are described in the Tests Settings section.
 
-Time limits set for the test can be added at the Item level, or at the test level. To add a limit to the amount of time that the test-taker has to submit all answers to the test, open the *Time Limits* panel, and enter in the maximum duration (in hours, minutes, and seconds). If a late submission will be accepted, click on the appropriate check mark. If the duration is to be strictly enforced (no late submissions allowed), leave this unmarked.
