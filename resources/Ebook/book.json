@@ -1,0 +1,27 @@
+{
+  "id": "com.taotesting.manual",
+  "title": "Documentation Manual",
+  "language": "en",
+  "description": "Brief description of the book",
+  "subject": "Assessment, tests, taotesting, test",
+  "date": "2014-12-03",
+  "relation": "http://taotesting.com",
+  "files": {
+    "include": [
+      {
+        "id": "ncx",
+        "path": "toc.ncx"
+      },
+      "style.css",
+      "*.md"
+    ],
+    "exclude": []
+  },
+  "spine": {
+    "toc": "ncx",
+    "items": [
+      "|^c\\d{1,2}-.*$|",
+      "index"
+    ]
+  }
+}
