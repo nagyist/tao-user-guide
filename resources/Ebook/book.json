@@ -6,22 +6,25 @@
   "subject": "Assessment, tests, taotesting, test",
   "date": "2014-12-03",
   "relation": "http://taotesting.com",
+  "publisher": "OAT",
+  "rights": "Copyright (c) 2015, OAT",
   "files": {
     "include": [
-      {
-        "id": "ncx",
-        "path": "toc.ncx"
-      },
+      { "id":"ncx", "path":"toc.ncx" },
       "style.css",
       "*.md"
     ],
-    "exclude": []
+    "index": "0001-download-locations.html.md",
+    "exclude": [
+      "flat-link-map.md",
+      "nested-link-map.md"
+    ]
   },
+
   "spine": {
     "toc": "ncx",
     "items": [
-      "|^c\\d{1,2}-.*$|",
-      "index"
+      "*.md"
     ]
   }
 }
