@@ -2,10 +2,10 @@
 
 >Once any interaction item is completed, it can be previewed to determine if it performs as expected. Such performance testing is highly recommended for any interaction prior to its use in a test.
 
-Previewing typically takes place after clicking *Done* for the completed interaction. This will bring up the completed item on the work canvas. On the Actions Subheader bar above it will be a series of commands, including *Save*, *Preview*, and *Print*.
+Previewing typically takes place after clicking *Done* for the completed interaction. This will bring up the completed item on the work canvas. On the Actions Bar above it will be a series of commands, including *Save*, *Preview*, and *Print*.
 
 
-**Step 1:** On the Actions Subheader bar, click *Preview*.
+**Step 1:** On the Actions Bar, click *Preview*.
 
 Clicking *Save* before *Preview* is certainly good practice, but it’s not completely necessary as just before the preview beings, a pop-up window will appear reading that the item must be saved before being previewed (the window will appear whether the item has been saved already or not, just to ensure that the latest version of the interaction isn’t lost during testing).
 
