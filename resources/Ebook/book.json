@@ -14,7 +14,7 @@
       "style.css",
       "*.md"
     ],
-    "index": "0001-download-locations.html.md",
+    "index": "0001-download-locations.md",
     "exclude": [
       "flat-link-map.md",
       "nested-link-map.md"
@@ -24,7 +24,7 @@
   "spine": {
     "toc": "ncx",
     "items": [
-      "*.md"
+      "|^c\\d*.*$|"
     ]
   }
 }
