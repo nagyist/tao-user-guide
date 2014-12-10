@@ -62,4 +62,4 @@ Time dependence is useful for limiting the time in which a test-taker has to get
 You'll want to review your work at this point. You can edit the text already there by clicking on it. Again, click *Done* once you have finished editing.
 
 
-**Step 8.** To see what the test-taker will see click *Preview* in the Item Action Bar . 
+**Step 8.** To see what the test-taker will see click *Preview* in the Item Action Bar .
