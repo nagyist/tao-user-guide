@@ -1,0 +1,534 @@
+-
+    file: icons/add.png
+    id: icon_add
+-
+    file: icons/align-left.png
+    id: icon_align-left
+-
+    file: icons/align-right.png
+    id: icon_align-right
+-
+    file: icons/anchor.png
+    id: icon_anchor
+-
+    file: icons/associate.png
+    id: icon_associate
+-
+    file: icons/audio.png
+    id: icon_audio
+-
+    file: icons/background-color.png
+    id: icon_background-color
+-
+    file: icons/backward.png
+    id: icon_backward
+-
+    file: icons/bin.png
+    id: icon_bin
+-
+    file: icons/block-quote.png
+    id: icon_block-quote
+-
+    file: icons/bold.png
+    id: icon_bold
+-
+    file: icons/center.png
+    id: icon_center
+-
+    file: icons/checkbox-bg.png
+    id: icon_checkbox-bg
+-
+    file: icons/checkbox-checked.png
+    id: icon_checkbox-checked
+-
+    file: icons/checkbox-crossed.png
+    id: icon_checkbox-crossed
+-
+    file: icons/checkbox.png
+    id: icon_checkbox
+-
+    file: icons/choice.png
+    id: icon_choice
+-
+    file: icons/circle.png
+    id: icon_circle
+-
+    file: icons/clock.png
+    id: icon_clock
+-
+    file: icons/close.png
+    id: icon_close
+-
+    file: icons/column.png
+    id: icon_column
+-
+    file: icons/continue.png
+    id: icon_continue
+-
+    file: icons/copy.png
+    id: icon_copy
+-
+    file: icons/cut.png
+    id: icon_cut
+-
+    file: icons/decrease-indent.png
+    id: icon_decrease-indent
+-
+    file: icons/delivery-small.png
+    id: icon_delivery-small
+-
+    file: icons/delivery.png
+    id: icon_delivery
+-
+    file: icons/desktop-preview.png
+    id: icon_desktop-preview
+-
+    file: icons/div-container.png
+    id: icon_div-container
+-
+    file: icons/document.png
+    id: icon_document
+-
+    file: icons/down.png
+    id: icon_down
+-
+    file: icons/download.png
+    id: icon_download
+-
+    file: icons/edit.png
+    id: icon_edit
+-
+    file: icons/eject.png
+    id: icon_eject
+-
+    file: icons/ellipsis.png
+    id: icon_ellipsis
+-
+    file: icons/email.png
+    id: icon_email
+-
+    file: icons/eraser.png
+    id: icon_eraser
+-
+    file: icons/error.png
+    id: icon_error
+-
+    file: icons/export.png
+    id: icon_export
+-
+    file: icons/extended-text.png
+    id: icon_extended-text
+-
+    file: icons/extension.png
+    id: icon_extension
+-
+    file: icons/external.png
+    id: icon_external
+-
+    file: icons/eye-slash.png
+    id: icon_eye-slash
+-
+    file: icons/fast-backward.png
+    id: icon_fast-backward
+-
+    file: icons/fast-forward.png
+    id: icon_fast-forward
+-
+    file: icons/filter.png
+    id: icon_filter
+-
+    file: icons/find.png
+    id: icon_find
+-
+    file: icons/fix.png
+    id: icon_fix
+-
+    file: icons/folder-open.png
+    id: icon_folder-open
+-
+    file: icons/folder.png
+    id: icon_folder
+-
+    file: icons/font.png
+    id: icon_font
+-
+    file: icons/forward.png
+    id: icon_forward
+-
+    file: icons/free-form.png
+    id: icon_free-form
+-
+    file: icons/gap-match.png
+    id: icon_gap-match
+-
+    file: icons/graphic-associate.png
+    id: icon_graphic-associate
+-
+    file: icons/graphic-gap.png
+    id: icon_graphic-gap
+-
+    file: icons/graphic-order.png
+    id: icon_graphic-order
+-
+    file: icons/grip-h.png
+    id: icon_grip-h
+-
+    file: icons/grip.png
+    id: icon_grip
+-
+    file: icons/guide-arrow.png
+    id: icon_guide-arrow
+-
+    file: icons/help.png
+    id: icon_help
+-
+    file: icons/hotspot.png
+    id: icon_hotspot
+-
+    file: icons/hottext.png
+    id: icon_hottext
+-
+    file: icons/icon.png
+    id: icon_icon
+-
+    file: icons/image.png
+    id: icon_image
+-
+    file: icons/import.png
+    id: icon_import
+-
+    file: icons/increase-indent.png
+    id: icon_increase-indent
+-
+    file: icons/info.png
+    id: icon_info
+-
+    file: icons/inline-choice.png
+    id: icon_inline-choice
+-
+    file: icons/insert-horizontal-line.png
+    id: icon_insert-horizontal-line
+-
+    file: icons/italic.png
+    id: icon_italic
+-
+    file: icons/item.png
+    id: icon_item
+-
+    file: icons/justify.png
+    id: icon_justify
+-
+    file: icons/laptop.png
+    id: icon_laptop
+-
+    file: icons/larger.png
+    id: icon_larger
+-
+    file: icons/left-right.png
+    id: icon_left-right
+-
+    file: icons/left.png
+    id: icon_left
+-
+    file: icons/link.png
+    id: icon_link
+-
+    file: icons/lock.png
+    id: icon_lock
+-
+    file: icons/login.png
+    id: icon_login
+-
+    file: icons/logout.png
+    id: icon_logout
+-
+    file: icons/magicwand.png
+    id: icon_magicwand
+-
+    file: icons/match.png
+    id: icon_match
+-
+    file: icons/maths.png
+    id: icon_maths
+-
+    file: icons/media.png
+    id: icon_media
+-
+    file: icons/meta-data.png
+    id: icon_meta-data
+-
+    file: icons/mobile-menu.png
+    id: icon_mobile-menu
+-
+    file: icons/mobile-preview.png
+    id: icon_mobile-preview
+-
+    file: icons/move-item.png
+    id: icon_move-item
+-
+    file: icons/move.png
+    id: icon_move
+-
+    file: icons/new-page.png
+    id: icon_new-page
+-
+    file: icons/not-evaluated.png
+    id: icon_not-evaluated
+-
+    file: icons/ol.png
+    id: icon_ol
+-
+    file: icons/order.png
+    id: icon_order
+-
+    file: icons/ownership-transfer.png
+    id: icon_ownership-transfer
+-
+    file: icons/paste-text.png
+    id: icon_paste-text
+-
+    file: icons/paste-word.png
+    id: icon_paste-word
+-
+    file: icons/paste.png
+    id: icon_paste
+-
+    file: icons/pause.png
+    id: icon_pause
+-
+    file: icons/phone.png
+    id: icon_phone
+-
+    file: icons/pin.png
+    id: icon_pin
+-
+    file: icons/play.png
+    id: icon_play
+-
+    file: icons/polygon.png
+    id: icon_polygon
+-
+    file: icons/preview.png
+    id: icon_preview
+-
+    file: icons/print.png
+    id: icon_print
+-
+    file: icons/property-add.png
+    id: icon_property-add
+-
+    file: icons/property-advanced.png
+    id: icon_property-advanced
+-
+    file: icons/radio-bg.png
+    id: icon_radio-bg
+-
+    file: icons/radio-checked.png
+    id: icon_radio-checked
+-
+    file: icons/radio.png
+    id: icon_radio
+-
+    file: icons/range-slider-left.png
+    id: icon_range-slider-left
+-
+    file: icons/range-slider-right.png
+    id: icon_range-slider-right
+-
+    file: icons/rectangle.png
+    id: icon_rectangle
+-
+    file: icons/redo.png
+    id: icon_redo
+-
+    file: icons/remove.png
+    id: icon_remove
+-
+    file: icons/replace.png
+    id: icon_replace
+-
+    file: icons/repository-add.png
+    id: icon_repository-add
+-
+    file: icons/repository-remove.png
+    id: icon_repository-remove
+-
+    file: icons/repository.png
+    id: icon_repository
+-
+    file: icons/reset.png
+    id: icon_reset
+-
+    file: icons/resize-grid.png
+    id: icon_resize-grid
+-
+    file: icons/resize.png
+    id: icon_resize
+-
+    file: icons/result-nok.png
+    id: icon_result-nok
+-
+    file: icons/result-ok.png
+    id: icon_result-ok
+-
+    file: icons/result-server.png
+    id: icon_result-server
+-
+    file: icons/result-small.png
+    id: icon_result-small
+-
+    file: icons/result.png
+    id: icon_result
+-
+    file: icons/right-left.png
+    id: icon_right-left
+-
+    file: icons/right.png
+    id: icon_right
+-
+    file: icons/row.png
+    id: icon_row
+-
+    file: icons/rubric.png
+    id: icon_rubric
+-
+    file: icons/save.png
+    id: icon_save
+-
+    file: icons/screen.png
+    id: icon_screen
+-
+    file: icons/select-all.png
+    id: icon_select-all
+-
+    file: icons/select-point.png
+    id: icon_select-point
+-
+    file: icons/settings.png
+    id: icon_settings
+-
+    file: icons/shuffle.png
+    id: icon_shuffle
+-
+    file: icons/slider.png
+    id: icon_slider
+-
+    file: icons/smaller.png
+    id: icon_smaller
+-
+    file: icons/source.png
+    id: icon_source
+-
+    file: icons/special-character.png
+    id: icon_special-character
+-
+    file: icons/spell-check.png
+    id: icon_spell-check
+-
+    file: icons/sphere.png
+    id: icon_sphere
+-
+    file: icons/spinner.png
+    id: icon_spinner
+-
+    file: icons/step-backward.png
+    id: icon_step-backward
+-
+    file: icons/step-forward.png
+    id: icon_step-forward
+-
+    file: icons/stop.png
+    id: icon_stop
+-
+    file: icons/strike-through.png
+    id: icon_strike-through
+-
+    file: icons/style.png
+    id: icon_style
+-
+    file: icons/subscript.png
+    id: icon_subscript
+-
+    file: icons/success.png
+    id: icon_success
+-
+    file: icons/summary-report.png
+    id: icon_summary-report
+-
+    file: icons/superscript.png
+    id: icon_superscript
+-
+    file: icons/table.png
+    id: icon_table
+-
+    file: icons/tablet-preview.png
+    id: icon_tablet-preview
+-
+    file: icons/tablet.png
+    id: icon_tablet
+-
+    file: icons/tag.png
+    id: icon_tag
+-
+    file: icons/target.png
+    id: icon_target
+-
+    file: icons/templates.png
+    id: icon_templates
+-
+    file: icons/test-taker.png
+    id: icon_test-taker
+-
+    file: icons/test-takers.png
+    id: icon_test-takers
+-
+    file: icons/test.png
+    id: icon_test
+-
+    file: icons/text-color.png
+    id: icon_text-color
+-
+    file: icons/text-entry.png
+    id: icon_text-entry
+-
+    file: icons/time.png
+    id: icon_time
+-
+    file: icons/tools.png
+    id: icon_tools
+-
+    file: icons/translate.png
+    id: icon_translate
+-
+    file: icons/ul.png
+    id: icon_ul
+-
+    file: icons/underline.png
+    id: icon_underline
+-
+    file: icons/undo.png
+    id: icon_undo
+-
+    file: icons/unlink.png
+    id: icon_unlink
+-
+    file: icons/unlock.png
+    id: icon_unlock
+-
+    file: icons/up.png
+    id: icon_up
+-
+    file: icons/upload.png
+    id: icon_upload
+-
+    file: icons/user.png
+    id: icon_user
+-
+    file: icons/users.png
+    id: icon_users
+-
+    file: icons/video.png
+    id: icon_video
+-
+    file: icons/warning.png
+    id: icon_warning
