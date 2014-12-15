@@ -6,7 +6,7 @@
 
 This brings up in the Actions Bar, in addition to Properties, icons for new class, new test, export, and import exist. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
 
-**Step 2:** After clicking on the class within which the test is supposed to be stored, click New Test in the Action Bar to create a new.
+**Step 2:** After clicking on the class within which the test is supposed to be stored, click New Test in the Action Bar to create a new assessment.
 
 This brings up a *Test Properties* pane that provides a chance to rename the *label* (file name) of the test, and select between either the QTI 2.1 Test Driver or simple model (QTI is recommended). After completing test properties, hit *Save*. (It should be noted that at any time, the test assembly can be saved in order to preserve already completed work. Doing so every ten minutes is always a good habit.)
 

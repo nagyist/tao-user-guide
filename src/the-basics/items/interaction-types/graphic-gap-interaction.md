@@ -1,14 +1,14 @@
 # Graphic Gap Interaction
 
->The Graphic Gap item gives test-takers the opportunity to demonstrate knowledge about geographical regions, identify facts about portions of images (persons in a group photo, etc.), or show other similar capabilities in picture matching.
+>The Graphic Gap interaction gives Test-takers the opportunity to demonstrate knowledge about geographical regions, identify facts about portions of images (persons in a group photo, etc.), or show other similar capabilities in picture matching.
 
->All graphic items can be found in the Graphic Interactions menu (the third bar down) in the Library Panel. All require dragging the appropriate icon, such as the Graphic Gap item icon, over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This results in the results manager window coming up, through which the test-author will select a main question graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once this graphic is selected or uploaded, work may begin on the specific item.
+>All graphic interactions can be found in the Graphic Interactions menu (the third bar down) in the Library. All require dragging the appropriate icon, such as the Graphic Gap item icon, over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This causes the results manager window to open up, through which the test-author will select a main question graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once this graphic is selected or uploaded, work may begin on the specific item.
 
->For the Graphic Gap item, a new interaction-authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this Item. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent Associable Hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
+>For the Graphic Gap interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent Associable Hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
 **Step 1:** Fill in the question field. 
 
-This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this Item.
+This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this Item.
 
 **Step 2: **Insert the *Associable Hotspots* onto the graphic.
 
@@ -38,4 +38,4 @@ Once the Response Processing is set to *map response*, selected association will
 
 **Step 7:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Gap item looks like. For more on previewing, review its section.
+When this is done, you can preview what your Graphic Gap interaction looks like. For more on previewing, review its section.
