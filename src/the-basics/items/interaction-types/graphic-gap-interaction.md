@@ -1,14 +1,14 @@
 # Graphic Gap Interaction
 
->The Graphic Gap item gives test-takers the opportunity to demonstrate knowledge about geographical regions, identify facts about portions of images (persons in a group photo, etc.), or show other similar capabilities in picture matching.
+>The Graphic Gap interaction gives Test-takers the opportunity to demonstrate knowledge about geographical regions, identify facts about portions of images (persons in a group photo, etc.), or show other similar capabilities in picture matching.
 
->All graphic items can be found in the Graphic Interactions menu (the third bar down) in the Library Panel. All require dragging the appropriate icon, such as the Graphic Gap item icon, over the blank Item and dropping it on the blue block field that appears when the icon is passed over it. This results in the results manager window coming up, through which the test-author will select a main question graphic. A list of previously uploaded graphics will appear, above which is a blue button for selecting new graphics to upload. Once this graphic is selected or uploaded, work may begin on the specific item.
+>All graphic interactions can be found in the Graphic Interactions menu in the Library. All require dragging the appropriate icon, such as the Graphic Gap interaction icon, over the blank Item and dropping it on the blue block that appears when the icon is passed over it. This will result in the Resource Manager window appearing to request the test author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue *Add file(s)* and *browse* buttons to hunt down and add files to the resource manager by clicking the green *Upload* button. If uploading is not necessary, highlight the appropriate graphic in the resource manager list and click the green *Select* button to move toward the first step of setting up this interaction.
 
->For the Graphic Gap item, a new interaction-authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this Item. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent Associable Hotspots into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspots. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
+>For the Graphic Gap interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
 **Step 1:** Fill in the question field. 
 
-This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this Item.
+This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
 
 **Step 2: **Insert the *Associable Hotspots* onto the graphic.
 
@@ -32,10 +32,10 @@ After the upload, select the first answer graphic for the first slot, and repeat
 
 The resulting screen will now allow the test-author to select the correct associations between the gap matches and the Hotspots on the graphic. 
 
-**Step 6:** By default, the Item will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to *map response*.
+**Step 6:** By default, the interaction will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to *map response*.
 
 Once the Response Processing is set to *map response*, selected association will be listed in a new window labeled *Pair Scoring*. Each association should be scored according to their importance. For instance, if all associations have the same weight, assigning each a score of 1 would be sufficient. Where some associations are of greater importance than others, the more important ones should be scored higher. The higher the score for an association, the more weighted that particular correct answer.
 
 **Step 7:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Gap item looks like. For more on previewing, review its section.
+When this is done, you can preview what your Graphic Gap interaction looks like. For more on previewing, review its section.
