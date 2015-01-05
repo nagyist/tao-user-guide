@@ -4,11 +4,17 @@
 
 >All graphic interactions can be found in the Graphic Interactions menu in the Library. All require dragging the appropriate icon, such as the Graphic Gap interaction icon, over the blank Item and dropping it on the blue block that appears when the icon is passed over it. This will result in the Resource Manager window appearing to request the test author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue *Add file(s)* and *browse* buttons to hunt down and add files to the resource manager by clicking the green *Upload* button. If uploading is not necessary, highlight the appropriate graphic in the resource manager list and click the green *Select* button to move toward the first step of setting up this interaction.
 
+![Graphic Associate Step 0][bma034]
+
 >For the Graphic Gap interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
+
+![Graphic Associate Step 1][bma035]
 
 **Step 1:** Fill in the question field. 
 
 This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
+
+![Graphic Associate Step 2][bma036]
 
 **Step 2: **Insert the *Associable Hotspots* onto the graphic.
 
@@ -16,9 +22,13 @@ To place a rectangle, click on one corner and drag across the intended area the 
 
 After the Hotspots are added in, the answer graphics will then need to be entered in the gap match field below the main graphic.
 
+![Graphic Associate Step 3][bma037]
+
 **Step 3:** Click the plus sign (+) within the gap match field as many times as is needed to create the correct number of answer slots. 
 
 Clicking the plus-sign creates a new slot for a single associable answer. After the correct number of square-shaped slots is set up, populate these. 
+
+![Graphic Associate Step 4][bma038]
 
 **Step 4:** Click anywhere on the first slot other than the trash can (clicking on that trash can icon will delete the slot). 
 
@@ -28,13 +38,19 @@ To prepare and upload new graphics to insert as answers, first identify on your 
 
 After the upload, select the first answer graphic for the first slot, and repeat for all subsequent slots.
 
+![Graphic Associate Step 5][bma039]
+
 **Step 5:** After the last slot is filled, click *Response* in the header bar to select answers.
 
 The resulting screen will now allow the test-author to select the correct associations between the gap matches and the Hotspots on the graphic. 
 
+![Graphic Associate Step 6][bma040]
+
 **Step 6:** By default, the interaction will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to *map response*.
 
 Once the Response Processing is set to *map response*, selected association will be listed in a new window labeled *Pair Scoring*. Each association should be scored according to their importance. For instance, if all associations have the same weight, assigning each a score of 1 would be sufficient. Where some associations are of greater importance than others, the more important ones should be scored higher. The higher the score for an association, the more weighted that particular correct answer.
+
+![Graphic Associate Step 7][bma041]
 
 **Step 7:** Click the blue *Done* button.
 

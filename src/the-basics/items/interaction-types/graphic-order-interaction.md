@@ -6,7 +6,6 @@
 
 >For the Graphic Order interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
-
 **Step 1:** Fill in the question field. 
 
 This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
