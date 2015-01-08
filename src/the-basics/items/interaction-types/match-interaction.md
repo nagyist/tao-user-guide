@@ -26,11 +26,13 @@ If necessary, add as many rows and columns as will be needed to cover all the as
 
 Determine if the row and column options should be shuffled (recommended if the order of presentation of either sets of elements is not important), and the minimum and maximum number of answers that will be required of the test-taker. 
 
-![Match Step 5+6][bma066]
+![Match Step 5][bma066]
 
 **Step 5:** In the blue item header, hit Response, and then address the Response Properties Panel (on the left).
 
 First, select the type of Response Processing. If this will be *match correct*, nothing more will need to be addressed in this panel other than Modal Feedback (if desired). If the processing will be *map response*, then the next property to address is the Score Range; determine the minimum score that will be assigned the student (for getting everything wrong), and the maximum score (for getting everything right), as well as the mapping default (the contribution to the score resulting from selecting the wrong answer). *Define Correct Response* should be checked in most cases. 
+
+![Match Step 6][bma067]
 
 **Step 6:** Select correct responses and assign scores (if using *map response* processing).
 
@@ -38,7 +40,7 @@ In order to make the most use of the score weighting, the total scores assigned 
 
 If modal feedback is desirable for this interaction, enter it at this point. For more details on how to do this, see the Modal Feedback section.
 
-![Match Step 7][bma067]
+![Match Step 7][bma068]
 
 **Step 7:** Click the blue *Done* button.
 
