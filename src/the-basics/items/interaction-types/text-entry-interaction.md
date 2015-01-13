@@ -16,7 +16,7 @@ This creates a pop-up window showing the blank to be adjusted. In the default Qu
 
 **Step 2:** Click Response in the pop-up header.
 
-This opens the response entry window, in which you can enter in the correct answer. Note that the test author will need to produce an answer that the test-taker will be expected to exactly match, character-for-character, including spaces. The maximum size of an answer that can be entered into a single field is X characters.
+This opens the response entry window, in which you can enter in the correct answer. Note that the test author will need to produce an answer that the test-taker will be expected to exactly match, character-for-character, including spaces. The maximum size of an answer that can be entered into a single field is X characters. Repeat steps 1 and 2 until all the desired text entry blanks have been inserted into the text.
 
 ![Text Entry Step 3][bma094]
 
