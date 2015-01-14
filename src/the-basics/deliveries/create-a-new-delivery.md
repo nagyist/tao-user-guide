@@ -2,13 +2,19 @@
 
 >Assembled deliveries provide the means of publishing and administering tests. These govern when and how long a test will be taken by selected individual or groups of test-takers. As such, putting together a delivery can take place only after creation of interaction items, assembly of the test to be delivered, creation of test-taker profiles, and collection of test-takers into formal groups. All these play a part in putting together a delivery.
 
-**Step 1:** In the Assessment Builder Bar, select Deliveries (fifth from the left). In the Deliveries Library, click on a desired class, or on the Assembled Delivery folder itself.
+![New Delivery Step 1][bma112]
 
-This brings up in the Actions Bar, in addition to Properties, icons for new classes and new deliveries. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
+**Step 1:** In the Assessment Builder Bar, select Deliveries. In the Deliveries Library, click on a desired class, or on the Assembled Delivery folder itself.
+
+This brings up in the Actions Bar, in addition to Properties, icons for *New Class* and *New Delivery*. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
+
+![New Delivery Step 2][bma113]
 
 **Step 2:** After clicking on the class within which the delivery is supposed to be stored, click New Delivery in the Action Bar to create a new delivery.
 
 This brings up a *Create a New Delivery* pane that asks for a test selection. From the pull-down menu, select the test that is to be sent to test-takers in this delivery. Once selected, click *Publish*.
+
+![New Delivery Step 3][bma114]
 
 **Step 3:** Set delivery properties in the Properties pane.
 
@@ -19,6 +25,8 @@ Maximum number of executions: if left unfilled, test-takers may take the test an
 Start date and end date establishes the earliest date and time and latest date and time that the exam can be open. The format to use is to provide the date and time in the following order: year, month, day, and 24-hour time (YYYY-MM-DD HH:MM)
 
 Lastly, choose where the results should be stored (this defaults to TAO Results Server 2.5, or DB storage).
+
+![New Delivery Step 4][bma115]
 
 **Step 4:** Assign the test to a group of test-takers in the panes below the Properties pane.
 
