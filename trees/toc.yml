@@ -85,6 +85,7 @@
     - { title: 'Add an extension', id: 'i_0059'}
     - { title: 'Ontology', id: 'i_0060'}
     - { title: 'Creating Branching Tests', id: 'i_0069'}
+    - { title: 'Deliver a test using LTI', id: 'i_0070'}
 
 'FAQ':
     - { title: 'Installation', id: 'i_0061'}
