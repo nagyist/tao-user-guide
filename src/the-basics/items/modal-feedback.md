@@ -2,13 +2,13 @@
 
 >Modal feedback is defined as material presented externally of an Item's text when the Test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the Test-taker ("Good job!" "Nailed it!" etc.), or maybe give a hint, etc.
 
-![Modal Feedback Step 1][bma106]
+![Modal Feedback Step 1][media_bma106]
 
 **Step 1:** In many of the interaction types, the option to select *Modal Feedback* will show itself in the Properties Panel. Where it does, click on the *Add a Modal Feedback* text.
 
 This results in the opening of a modal feedback panel that sets an initial conditional "if-then-else" statement.
 
-![Modal Feedback Step 2][bma107]
+![Modal Feedback Step 2][media_bma107]
 
 **Step 2:** Populate the Modal Feedback "if-then-else" statement.
 
@@ -18,7 +18,7 @@ After that, fill in the then-statement by first clicking on the blue *Feedback* 
 
 If an alternative feedback for the opposite condition is required, click the *Feedback* button for the else-statement, and follow the same procedure used to set up the initial feedback.
 
-![Modal Feedback Step 3][bma108]
+![Modal Feedback Step 3][media_bma108]
 
 **Step 3:** If additional modal feedback is required, then click the *Add a Modal Feedback* hypertext below and enter in the conditions as done in the first Modal Feedback message.
 

@@ -2,7 +2,7 @@
 
 >The Media item allows the test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction item.
 
-![Media Step 1][bma086]
+![Media Step 1][media_bma086]
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Media* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
@@ -10,25 +10,25 @@ This creates a Resource Manager upload window, through which the test author may
 
 Once a video or audio file is uploaded from the resource window, that window will close out by itself and the Item with the Media Interaction will come to the forefront. At the top, there will be a field for placing in a question at the top, and the media element below that.
 
-![Media Step 2][bma087]
+![Media Step 2][media_bma087]
 
 **Step 2:** Fill in the question field. 
 
 This will describe the task given to the test-taker ("View carefully the following film", "Listen to the inflections in the following sound bite", etc.).
 
-![Media Step 3][bma088]
+![Media Step 3][media_bma088]
 
 **Step 3:** In the Properties Panel, determine the size of the screen on which the video or audio will play, select if the media device should *autostart* (begin playing on opening the item), *loop* (play over and over again), and be allowed to pause, and if looped, how many times it should play through before stopping. 
 
 These property options will affect how the test-taker views the media object while it is playing.
 
-![Media Step 4][bma089]
+![Media Step 4][media_bma089]
 
 **Step 4:** If desired, add a further interaction below the media item.
 
 Usually, a media item is used to present a film or sound clip, from which a series of questions may be added. To do this, drag the appropriate other Item from the Interactions menu on the right.
 
-![Media Step 5][bma090]
+![Media Step 5][media_bma090]
 
 **Step 5:** Click the blue *Done* button.
 

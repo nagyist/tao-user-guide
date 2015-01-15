@@ -5,13 +5,13 @@
 Previewing typically takes place after clicking *Done* for the completed interaction. This will bring up the completed item on the work canvas. On the Actions Bar above it will be a series of commands, including *Save*, *Preview*, and *Print*.
 
 
-![Preview Step 1][bma109]
+![Preview Step 1][media_bma109]
 
 **Step 1:** On the Actions Bar, click *Preview*.
 
 Clicking *Save* before *Preview* is certainly good practice, but it’s not completely necessary as just before the preview beings, a pop-up window will appear reading that the item must be saved before being previewed (the window will appear whether the item has been saved already or not, just to ensure that the latest version of the interaction isn’t lost during testing).
 
-![Preview Step 2][bma110]
+![Preview Step 2][media_bma110]
 
 **Step 2:** Click the blue *Save* button in the pop-up window.
 
@@ -19,7 +19,7 @@ This brings up the interaction as it will appear to the test-taker. The test-aut
 
 One example of an effective testing method begins with a review of the interaction’s performance if the test-taker answers the question correctly. This will then be followed by various ways in which the test-taker might answer incorrectly. If the Item uses *Map Response* scoring, it is recommended to test ways not only to get the answer completely correct and completely incorrect, but also the various ways in which partial credit may be applied.
 
-![Preview Step 3][bma111]
+![Preview Step 3][media_bma111]
 
 **Step 3:** Once testing is completed, click the *Close* button at the top of the page.
 

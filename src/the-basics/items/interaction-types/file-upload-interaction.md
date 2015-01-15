@@ -2,19 +2,19 @@
 
 >The File Upload interaction provides an interface in which test-takers can upload a pre-written essay, completed artwork, or other form of submission. 
 
-![File Upload Step 1][bma018]
+![File Upload Step 1][media_bma018]
 
 **Step 1:** From the Common Interactions menu in the Library, drag the *File Upload* icon onto the blank Item and drop the resulting box in the blue field.
 
 This opens a new Upload Interaction window. There will be a field for placing in a question or other form of prompt to send the desired submission.
 
-![File Upload Step 2][bma019]
+![File Upload Step 2][media_bma019]
 
 **Step 2:** Fill in the question field. 
 
 This could be anything like *Upload document*, or any variation of instruction for the test-taker to submit work through this interface.
 
-![File Upload Step 3][bma020]
+![File Upload Step 3][media_bma020]
 
 **Step 3:** In the Properties Panel, select within Interaction Properties the Multipurpose Internet Mail Extension (MIME) type desired for the submission, if applicable.
 

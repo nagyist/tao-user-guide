@@ -78,6 +78,7 @@
 'Advanced features':
     - { title: 'Author advanced items', id: 'i_0053'}
     - { title: 'The CSS SDK', id: 'i_0054'}
+    - { title: 'Item Skinning The Css SDK', id: 'i_0071'}
     - { title: 'Create branching tests', id: 'i_0055'}
     - { title: 'User Management', id: 'i_0056'}
     - { title: 'Role Management', id: 'i_0057'}

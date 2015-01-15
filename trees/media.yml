@@ -532,3 +532,369 @@
 -
     file: icons/warning.png
     id: icon_warning
+-
+    file: clips/bma001.wmv
+    id: media_bma001
+-
+    file: clips/bma002.wmv
+    id: media_bma002
+-
+    file: clips/bma003.wmv
+    id: media_bma003
+-
+    file: clips/bma004.wmv
+    id: media_bma004
+-
+    file: clips/bma005.wmv
+    id: media_bma005
+-
+    file: clips/bma006.wmv
+    id: media_bma006
+-
+    file: clips/bma007.wmv
+    id: media_bma007
+-
+    file: clips/bma008.wmv
+    id: media_bma008
+-
+    file: clips/bma009.wmv
+    id: media_bma009
+-
+    file: clips/bma010.wmv
+    id: media_bma010
+-
+    file: clips/bma011.wmv
+    id: media_bma011
+-
+    file: clips/bma012.wmv
+    id: media_bma012
+-
+    file: clips/bma013.wmv
+    id: media_bma013
+-
+    file: clips/bma014.wmv
+    id: media_bma014
+-
+    file: clips/bma015.wmv
+    id: media_bma015
+-
+    file: clips/bma016.wmv
+    id: media_bma016
+-
+    file: clips/bma017.wmv
+    id: media_bma017
+-
+    file: clips/bma018.wmv
+    id: media_bma018
+-
+    file: clips/bma019.wmv
+    id: media_bma019
+-
+    file: clips/bma020.wmv
+    id: media_bma020
+-
+    file: clips/bma021.wmv
+    id: media_bma021
+-
+    file: clips/bma022.wmv
+    id: media_bma022
+-
+    file: clips/bma023.wmv
+    id: media_bma023
+-
+    file: clips/bma024.wmv
+    id: media_bma024
+-
+    file: clips/bma025.wmv
+    id: media_bma025
+-
+    file: clips/bma026.wmv
+    id: media_bma026
+-
+    file: clips/bma027.wmv
+    id: media_bma027
+-
+    file: clips/bma028.wmv
+    id: media_bma028
+-
+    file: clips/bma029.wmv
+    id: media_bma029
+-
+    file: clips/bma030.wmv
+    id: media_bma030
+-
+    file: clips/bma031.wmv
+    id: media_bma031
+-
+    file: clips/bma032.wmv
+    id: media_bma032
+-
+    file: clips/bma033.wmv
+    id: media_bma033
+-
+    file: clips/bma034.wmv
+    id: media_bma034
+-
+    file: clips/bma035.wmv
+    id: media_bma035
+-
+    file: clips/bma036.wmv
+    id: media_bma036
+-
+    file: clips/bma037.wmv
+    id: media_bma037
+-
+    file: clips/bma038.wmv
+    id: media_bma038
+-
+    file: clips/bma039.wmv
+    id: media_bma039
+-
+    file: clips/bma040.wmv
+    id: media_bma040
+-
+    file: clips/bma041.wmv
+    id: media_bma041
+-
+    file: clips/bma042.wmv
+    id: media_bma042
+-
+    file: clips/bma043.wmv
+    id: media_bma043
+-
+    file: clips/bma044.wmv
+    id: media_bma044
+-
+    file: clips/bma045.wmv
+    id: media_bma045
+-
+    file: clips/bma046.wmv
+    id: media_bma046
+-
+    file: clips/bma047.wmv
+    id: media_bma047
+-
+    file: clips/bma048.wmv
+    id: media_bma048
+-
+    file: clips/bma049.wmv
+    id: media_bma049
+-
+    file: clips/bma050.wmv
+    id: media_bma050
+-
+    file: clips/bma051.wmv
+    id: media_bma051
+-
+    file: clips/bma052.wmv
+    id: media_bma052
+-
+    file: clips/bma053.wmv
+    id: media_bma053
+-
+    file: clips/bma054.wmv
+    id: media_bma054
+-
+    file: clips/bma055.wmv
+    id: media_bma055
+-
+    file: clips/bma056.wmv
+    id: media_bma056
+-
+    file: clips/bma057.wmv
+    id: media_bma057
+-
+    file: clips/bma058.wmv
+    id: media_bma058
+-
+    file: clips/bma059.wmv
+    id: media_bma059
+-
+    file: clips/bma060.wmv
+    id: media_bma060
+-
+    file: clips/bma061.wmv
+    id: media_bma061
+-
+    file: clips/bma062.wmv
+    id: media_bma062
+-
+    file: clips/bma063.wmv
+    id: media_bma063
+-
+    file: clips/bma064.wmv
+    id: media_bma064
+-
+    file: clips/bma065.wmv
+    id: media_bma065
+-
+    file: clips/bma066.wmv
+    id: media_bma066
+-
+    file: clips/bma067.wmv
+    id: media_bma067
+-
+    file: clips/bma068.wmv
+    id: media_bma068
+-
+    file: clips/bma069.wmv
+    id: media_bma069
+-
+    file: clips/bma070.wmv
+    id: media_bma070
+-
+    file: clips/bma071.wmv
+    id: media_bma071
+-
+    file: clips/bma072.wmv
+    id: media_bma072
+-
+    file: clips/bma073.wmv
+    id: media_bma073
+-
+    file: clips/bma074.wmv
+    id: media_bma074
+-
+    file: clips/bma075.wmv
+    id: media_bma075
+-
+    file: clips/bma076.wmv
+    id: media_bma076
+-
+    file: clips/bma077.wmv
+    id: media_bma077
+-
+    file: clips/bma078.wmv
+    id: media_bma078
+-
+    file: clips/bma079.wmv
+    id: media_bma079
+-
+    file: clips/bma080.wmv
+    id: media_bma080
+-
+    file: clips/bma081.wmv
+    id: media_bma081
+-
+    file: clips/bma082.wmv
+    id: media_bma082
+-
+    file: clips/bma083.wmv
+    id: media_bma083
+-
+    file: clips/bma084.wmv
+    id: media_bma084
+-
+    file: clips/bma085.wmv
+    id: media_bma085
+-
+    file: clips/bma086.wmv
+    id: media_bma086
+-
+    file: clips/bma087.wmv
+    id: media_bma087
+-
+    file: clips/bma088.wmv
+    id: media_bma088
+-
+    file: clips/bma089.wmv
+    id: media_bma089
+-
+    file: clips/bma090.wmv
+    id: media_bma090
+-
+    file: clips/bma091.wmv
+    id: media_bma091
+-
+    file: clips/bma092.wmv
+    id: media_bma092
+-
+    file: clips/bma093.wmv
+    id: media_bma093
+-
+    file: clips/bma094.wmv
+    id: media_bma094
+-
+    file: clips/bma095.wmv
+    id: media_bma095
+-
+    file: clips/bma096.wmv
+    id: media_bma096
+-
+    file: clips/bma097.wmv
+    id: media_bma097
+-
+    file: clips/bma098.wmv
+    id: media_bma098
+-
+    file: clips/bma099.wmv
+    id: media_bma099
+-
+    file: clips/bma100.wmv
+    id: media_bma100
+-
+    file: clips/bma101.wmv
+    id: media_bma101
+-
+    file: clips/bma102.wmv
+    id: media_bma102
+-
+    file: clips/bma103.wmv
+    id: media_bma103
+-
+    file: clips/bma104.wmv
+    id: media_bma104
+-
+    file: clips/bma105.wmv
+    id: media_bma105
+-
+    file: clips/bma106.wmv
+    id: media_bma106
+-
+    file: clips/bma107.wmv
+    id: media_bma107
+-
+    file: clips/bma108.wmv
+    id: media_bma108
+-
+    file: clips/bma109.wmv
+    id: media_bma109
+-
+    file: clips/bma110.wmv
+    id: media_bma110
+-
+    file: clips/bma111.wmv
+    id: media_bma111
+-
+    file: clips/bma112.wmv
+    id: media_bma112
+-
+    file: clips/bma113.wmv
+    id: media_bma113
+-
+    file: clips/bma114.wmv
+    id: media_bma114
+-
+    file: clips/bma115.wmv
+    id: media_bma115
+-
+    file: clips/bma116.wmv
+    id: media_bma116
+-
+    file: clips/bma117.wmv
+    id: media_bma117
+-
+    file: clips/bma118.wmv
+    id: media_bma118
+-
+    file: clips/bma119.wmv
+    id: media_bma119
+-
+    file: clips/bma120.wmv
+    id: media_bma120
+-
+    file: clips/bma121.wmv
+    id: media_bma121
+-
+    file: clips/bma122.wmv
+    id: media_bma122
