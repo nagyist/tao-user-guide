@@ -22,6 +22,8 @@
 
 **C**
 
+![Glossary 1][bma193]
+
 **Candidate Session:** The time during which the candidate is interacting with an Assessment Item as part of an Attempt. An attempt may extend across more than one candidate session (such as when a test-taker terminates one candidate session to move on from a difficult-to-answer question to do other Items first, effectively suspending the Attempt, and then comes back to start another candidate session in order to finish that Attempt before the exam ends).
 
 **Cloning Engine:** A system for creating multiple similar items (or Item Clones) from an Item Template. TAO uses a cloning engine to assist users in authoring Items.
@@ -73,6 +75,8 @@
 **M**
 
 **Material:** All static text, image, or media objects that are intended for the test-taker rather than for being interpreted by a processing system. Interactions are not considered as material.
+
+![Glossary 2][bma194]
 
 **Modal Feedback:** Feedback that is not integrated into an Item's body during presentation to the test-taker.
 
@@ -129,6 +133,8 @@
 **Test Report:** A report describing a Test Session.
 
 **Test Session:** The interaction of a candidate with a Test and the items it contains.
+
+![Glossary 3][bma194]
 
 **Test-taker (or Candidate):** A person that participates in a test, assessment or exam by answering questions.
 
