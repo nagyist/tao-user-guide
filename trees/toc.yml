@@ -1,101 +1,85 @@
-
-'Getting Started':
-    -
-        'Installing TAO':
-            - { title: 'Download locations', id: 'i_0001'}
-            - { title: 'The installation screens', id: 'i_0002'}
-    -
-        'Terminology':
-            - { title: 'What is an item?', id: 'i_0003'}
-            - { title: 'What is an interaction?', id: 'i_0004'}
-            - { title: 'What is a test?', id: 'i_0005'}
-            - { title: 'What is a delivery?', id: 'i_0006'}
-    -
-        'Take a tour':
-            - { title: 'Create your items', id: 'i_0007'}
-            - { title: 'Build your test', id: 'i_0008'}
-            - { title: 'Register your test-takers', id: 'i_0009'}
-            - { title: 'Assign test-takers to groups', id: 'i_0010'}
-            - { title: 'Publish and deliver your test', id: 'i_0011'}
-            - { title: 'View your results', id: 'i_0012'}
-
-'The Basics':
-    -
-        'Items':
-            - { title: 'Creating a new item', id: 'i_0013'}
-            - { title: 'Importing items', id: 'i_0014'}
-            - { title: 'Exporting items', id: 'i_0015'}
-            - { title: 'Adding images, videos or sounds', id: 'i_0016'}
-            -
-                'Interaction types':
-                    - { title: 'Choice Interaction', id: 'i_0017'}
-                    - { title: 'Order Interaction', id: 'i_0018'}
-                    - { title: 'Associate Interaction', id: 'i_0019'}
-                    - { title: 'Match Interaction', id: 'i_0020'}
-                    - { title: 'Hottext Interaction', id: 'i_0021'}
-                    - { title: 'Gap Match Interaction', id: 'i_0022'}
-                    - { title: 'Slider Interaction', id: 'i_0023'}
-                    - { title: 'Extended Text Interaction', id: 'i_0024'}
-                    - { title: 'File Upload Interaction', id: 'i_0025'}
-                    - { title: 'Media Interaction', id: 'i_0026'}
-                    - { title: 'Inline Choice Interaction', id: 'i_0027'}
-                    - { title: 'Text Entry Interaction', id: 'i_0028'}
-                    - { title: 'Hotspot Interaction', id: 'i_0029'}
-                    - { title: 'Graphic Order Interaction', id: 'i_0030'}
-                    - { title: 'Graphic Associate Interaction', id: 'i_0031'}
-                    - { title: 'Graphic Gap Interaction', id: 'i_0032'}
-                    - { title: 'Select Point Interaction', id: 'i_0033'}
-            - { title: 'Item scoring rules', id: 'i_0034'}
-            - { title: 'Modal feedback', id: 'i_0035'}
-            - { title: 'Preview', id: 'i_0036'}
-            - { title: 'Customizing the item layout', id: 'i_0037'}
-            - { title: 'Control user access', id: 'i_0038'}
-    -
-        'Tests':
-            - { title: 'Creating a new test', id: 'i_0039'}
-            - { title: 'Importing a test', id: 'i_0040'}
-            - { title: 'Exporting tests', id: 'i_0041'}
-            - { title: 'Tests settings', id: 'i_0042'}
-    -
-        'Test-takers':
-            - { title: 'Creating test-taker', id: 'i_0043'}
-            - { title: 'Importing test-takers', id: 'i_0044'}
-            - { title: 'Exporting test-takers', id: 'i_0045'}
-    -
-        'Groups':
-            - { title: 'Creating a new group', id: 'i_0046'}
-            - { title: 'Importing groups', id: 'i_0047'}
-            - { title: 'Exporting groups', id: 'i_0048'}
-    -
-        'Deliveries':
-            - { title: 'Create a new delivery', id: 'i_0049'}
-            - { title: 'Exporting deliveries', id: 'i_0050'}
-    -
-        'Results':
-            - { title: 'Exporting Results', id: 'i_0051'}
-            - { title: 'Generate Reports', id: 'i_0052'}
-
+'Introduction':
+    - { title: 'What is TAO', id: 'i_0001'}
+    - { title: 'Downloading TAO', id: 'i_0002'}
+    - { title: 'Installing TAO', id: 'i_0003'}
+'Terminology':
+    - { title: 'What is an item?', id: 'i_0004'}
+    - { title: 'What is an interaction?', id: 'i_0005'}
+    - { title: 'What is a test?', id: 'i_0006'}
+    - { title: 'What is a delivery?', id: 'i_0007'}
+'Take a tour':
+    - { title: 'Create your items', id: 'i_0008'}
+    - { title: 'Build your test', id: 'i_0009'}
+    - { title: 'Register your test-takers', id: 'i_0010'}
+    - { title: 'Assign test-takers to groups', id: 'i_0011'}
+    - { title: 'Publish and deliver your test', id: 'i_0012'}
+    - { title: 'View your results', id: 'i_0013'}
+'Items':
+    - { title: 'Creating a new item', id: 'i_0014'}
+    - { title: 'Importing items', id: 'i_0015'}
+    - { title: 'Exporting items', id: 'i_0016'}
+    - { title: 'Adding images, videos or sounds', id: 'i_0017'}
+    - { title: 'Item scoring rules', id: 'i_0018'}
+    - { title: 'Modal feedback', id: 'i_0019'}
+    - { title: 'Preview', id: 'i_0020'}
+    - { title: 'Customizing the item layout', id: 'i_0021'}
+    - { title: 'Control user access', id: 'i_0022'}
+    - { title: 'Style Editor', id: 'i_0023'}
+    - { title: 'Applying themes', id: 'i_0024'}
+'Interactions':
+    - { title: 'Choice Interaction', id: 'i_0025'}
+    - { title: 'Order Interaction', id: 'i_0026'}
+    - { title: 'Associate Interaction', id: 'i_0027'}
+    - { title: 'Match Interaction', id: 'i_0028'}
+    - { title: 'Hottext Interaction', id: 'i_0029'}
+    - { title: 'Gap Match Interaction', id: 'i_0030'}
+    - { title: 'Slider Interaction', id: 'i_0031'}
+    - { title: 'Extended Text Interaction', id: 'i_0032'}
+    - { title: 'File Upload Interaction', id: 'i_0033'}
+    - { title: 'Media Interaction', id: 'i_0034'}
+    - { title: 'Inline Choice Interaction', id: 'i_0035'}
+    - { title: 'Text Entry Interaction', id: 'i_0036'}
+    - { title: 'Hotspot Interaction', id: 'i_0037'}
+    - { title: 'Graphic Order Interaction', id: 'i_0038'}
+    - { title: 'Graphic Associate Interaction', id: 'i_0039'}
+    - { title: 'Graphic Gap Interaction', id: 'i_0040'}
+    - { title: 'Select Point Interaction', id: 'i_0041'}
+'Tests':
+    - { title: 'Creating a new test', id: 'i_0042'}
+    - { title: 'Importing a test', id: 'i_0043'}
+    - { title: 'Exporting tests', id: 'i_0044'}
+    - { title: 'Tests settings', id: 'i_0045'}
+'Test-takers':
+    - { title: 'Creating test-taker', id: 'i_0046'}
+    - { title: 'Importing test-takers', id: 'i_0047'}
+    - { title: 'Exporting test-takers', id: 'i_0048'}
+'Groups':
+    - { title: 'Creating a new group', id: 'i_0049'}
+    - { title: 'Importing groups', id: 'i_0050'}
+    - { title: 'Exporting groups', id: 'i_0051'}
+'Deliveries':
+    - { title: 'Create a new delivery', id: 'i_0052'}
+    - { title: 'Exporting deliveries', id: 'i_0053'}
+'Results':
+    - { title: 'Exporting Results', id: 'i_0054'}
+    - { title: 'Generate Reports', id: 'i_0055'}
 'Advanced features':
-    - { title: 'Author advanced items', id: 'i_0053'}
-    - { title: 'The CSS SDK', id: 'i_0054'}
-    - { title: 'Item Skinning The Css SDK', id: 'i_0071'}
-    - { title: 'Create branching tests', id: 'i_0055'}
-    - { title: 'User Management', id: 'i_0056'}
-    - { title: 'Role Management', id: 'i_0057'}
-    - { title: 'Control user access', id: 'i_0058'}
-    - { title: 'Add an extension', id: 'i_0059'}
-    - { title: 'Ontology', id: 'i_0060'}
-    - { title: 'Creating Branching Tests', id: 'i_0069'}
-    - { title: 'Deliver a test using LTI', id: 'i_0070'}
-
+    - { title: 'Advanced items', id: 'i_0056'}
+    - { title: 'Creating themes', id: 'i_0057'}
+    - { title: 'Create branching tests', id: 'i_0058'}
+    - { title: 'User Management', id: 'i_0059'}
+    - { title: 'Role Management', id: 'i_0060'}
+    - { title: 'Control user access', id: 'i_0061'}
+    - { title: 'Add an extension', id: 'i_0062'}
+    - { title: 'Ontology', id: 'i_0063'}
+    - { title: 'Branching Tests', id: 'i_0064'}
 'FAQ':
-    - { title: 'Installation', id: 'i_0061'}
-    - { title: 'Items', id: 'i_0062'}
-    - { title: 'Tests', id: 'i_0063'}
-    - { title: 'Test-takers', id: 'i_0064'}
-    - { title: 'Groups', id: 'i_0065'}
-    - { title: 'Deliveries', id: 'i_0066'}
-    - { title: 'Results', id: 'i_0067'}
-
+    - { title: 'Installation', id: 'i_0065'}
+    - { title: 'Items', id: 'i_0066'}
+    - { title: 'Tests', id: 'i_0067'}
+    - { title: 'Test-takers', id: 'i_0068'}
+    - { title: 'Groups', id: 'i_0069'}
+    - { title: 'Deliveries', id: 'i_0070'}
+    - { title: 'Results', id: 'i_0071'}
 'Appendix':
-    - { title: 'Glossary', id: 'i_0068'}
+    - { title: 'Glossary', id: 'i_0072'}
