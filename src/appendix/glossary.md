@@ -22,7 +22,7 @@
 
 **C**
 
-![Glossary 1][bma193]
+![Glossary 1][bma189]
 
 **Candidate Session:** The time during which the candidate is interacting with an Assessment Item as part of an Attempt. An attempt may extend across more than one candidate session (such as when a test-taker terminates one candidate session to move on from a difficult-to-answer question to do other Items first, effectively suspending the Attempt, and then comes back to start another candidate session in order to finish that Attempt before the exam ends).
 
@@ -76,7 +76,7 @@
 
 **Material:** All static text, image, or media objects that are intended for the test-taker rather than for being interpreted by a processing system. Interactions are not considered as material.
 
-![Glossary 2][bma194]
+![Glossary 2][bma190]
 
 **Modal Feedback:** Feedback that is not integrated into an Item's body during presentation to the test-taker.
 
@@ -134,7 +134,7 @@
 
 **Test Session:** The interaction of a candidate with a Test and the items it contains.
 
-![Glossary 3][bma194]
+![Glossary 3][PhotobyJuanAndracaSanchezWikimediaCommons]
 
 **Test-taker (or Candidate):** A person that participates in a test, assessment or exam by answering questions.
 
