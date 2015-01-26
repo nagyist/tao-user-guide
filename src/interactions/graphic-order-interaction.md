@@ -6,9 +6,13 @@
 
 >For the Graphic Order interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
+![Graphic Order 1][bma199]
+
 **Step 1:** Fill in the question field. 
 
 This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
+
+![Graphic Order 2][bma200]
 
 **Step 2:** Insert the *Associable Hotspots* onto the graphic.
 
@@ -16,13 +20,19 @@ To place a rectangle, click on one corner and drag across the intended area the 
 
 After the Hotspots are added in, the minimum and maximum number of choices that a test-taker can provide will need to be entered in the field located at the bottom of the Properties Panel. A minimum above zero requires that the Test-taker provide an answer to the question before moving off the interaction, while the maximum should be above zero in order that the Test-taker can provide at least one answer to the question.
 
+![Graphic Order 3][bma201]
+
 **Step 3:** Click Response in the header bar to set the hot spots in the order required by the question.
 
 This will bring up the same screen, but it is now possible to associate the numeric order with the hot spots selected.
 
+![Graphic Order 4][bma202]
+
 **Step 4:** Associate the order numbers with the appropriate Hotspot.
 
 To do this, click on the number, then the Hotspot. Repeat until all the numbers are assigned a Hotspot.
+
+![Graphic Order 5][bma203]
 
 **Step 5:** Click the blue *Done* button.
 
