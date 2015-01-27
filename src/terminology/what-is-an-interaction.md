@@ -2,7 +2,7 @@
 
 *"Interactions allow the candidate to interact with the item. Through an interaction, the candidate selects or constructs a response. The candidate's responses are stored in the response variables. Each interaction is associated with (at least) one response variable."* - Question and Test Interoperability standard, published by IMS Global
 
-![Term Interaction][bma182]
+![Term Interaction][media_bma182]
 
 >Interactions serve as a basic unit of test-taker response. Items may be made up of one interaction or more than one related interactions. As such, the term *interaction* should not be considered interchangeable with *item*. 
 

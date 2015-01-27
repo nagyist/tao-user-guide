@@ -2,13 +2,13 @@
 
 >Results Tables may be set up on almost any computer that has access to TAO. However, there will be situations in which posting Results on another system will be useful. The ability to transmit Results Tables becomes essential in just such a situation. Doing this takes only a few easy steps.
 
-![Export Results Step 1][bma185]
+![Export Results Step 1][media_bma185]
 
 **Step 1:** Upon opening *Results* from the Assessment Builder Bar, either click on the desired Results Table. 
 
 This will bring up the Test Results associated with a given Delivery. Typically, this should be done only after the submission deadline has passed, so that all the Results can be compiled onto one table.
 
-![Export Results Step 2][bma186]
+![Export Results Step 2][media_bma186]
 
 **Step 2:** Next, find at the bottom of the Results Table the blue button marked *Export Table*. Click this button.
 
@@ -16,13 +16,13 @@ This brings up the names of all Test-takers who are associated with the Results 
 
 Below the Results Table is a blue button that allows the user to continue with the export.
 
-![Export Results Step 3][bma187]
+![Export Results Step 3][media_bma187]
 
 **Step 3:** Click the *Export CSV File* button.
 
 This creates a *character separated value* file formatted for Microsoft Excel that can be translated into score information. Once the button is clicked, a window comes up to ask where you would like the file to be saved to. This can be a special folder, the desktop, etc.
 
-![Export Results Step 4][bma188]
+![Export Results Step 4][media_bma188]
 
 **Step 4:** Select the location on which to export your Results, and then *Save*.
 

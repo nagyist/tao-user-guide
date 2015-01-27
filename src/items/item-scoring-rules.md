@@ -2,7 +2,7 @@
 
 >Naturally, the first question that a Test-taker has after completing a Test is, "What score did I get?" Scores are generated through performance in the various interactions that make up the Items, that themselves compose the Test. Interactions will generate score numbers, which will determine what the Item provides, and each item will be tallied to produce the final Test result. Knowing how to set up scoring within an interaction is therefore useful for determining the grade achieved by the Test-taker from the Test.
 
-![Item Scoring Rules 1][bma192]
+![Item Scoring Rules 1][media_bma192]
 
 **Step 1:** While selecting responses (answers) for an interaction, look within the Response Properties panel for a pull-down choice box offering the two options of *Response Processing*: Match Correct and Map Response.
 
@@ -10,19 +10,19 @@
 
 *Map Response:* This refers to the processing option where getting part of the response correct. This is useful for questions where the answer is given in multiple parts. A singular part can be weighed more heavily than other parts in this option.
 
-![Item Scoring Rules 2][bma193]
+![Item Scoring Rules 2][media_bma193]
 
 **Step 2:** Select the Response Property that is appropriate for the question.
 
 This is going to depend in large part on the preference of the test author, particularly with respect to partial credit.
 
-![Item Scoring Rules 3][bma194]
+![Item Scoring Rules 3][media_bma194]
 
 **Step 3:** If Match Correct is selected, stop here - scoring for this interaction is complete. If Map Response is selected, review the responses in the interaction and determine the scores to be assigned to potential responses.
 
 This is where partial credit is given. Find within the interaction displayed in the Item Canvas the boxes where scores are assigned, and assign these according to relative importance. 
 
-![Item Scoring Rules 4][bma195]
+![Item Scoring Rules 4][media_bma195]
 
 **Step 4:** Within the Response Properties, review the Score Range fields.
 

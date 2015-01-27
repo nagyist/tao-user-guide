@@ -3,7 +3,7 @@
 
 *"A delivery is the process that coordinates the rendering and delivery of tests and the evaluation of responses to interactions to produce scores and feedback."* - Based on the Question and Test Interoperability standard, published by IMS Global
 
-![Term Delivery][bma181]
+![Term Delivery][media_bma181]
 
 >A delivery is the assembly of all information required to assign and send out tests to selected test-takers. This includes such information as the exact test to be delivered, the exact group of test-takers to receive the test, and the circumstances (in particular the time frame) in which the test may be taken.
 
