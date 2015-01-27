@@ -28,10 +28,42 @@
         });
     }
 
+    function initSearch() {
+        var $searchBox = $('.search-area'),
+            $content = $('.guide-content'),
+            $form = $searchBox.find('form');
+
+        $.ajax({
+            url: $form.attr('action'),
+            success: function(){
+                $searchBox.show();
+            }
+        });
+
+        $form.on('submit', search);
+
+        function search() {
+
+            $.get($form.attr('action'), $form.serialize(), function (result) {
+                $content.html($('<h1/>').text('Search results'));
+                $.each(result,function(i,e){
+                    var $result = $('<div />');
+                    $('<h2/>').append($('<a />', {href: e.href, text: e.name})).appendTo($result);
+                    $('<div />').html(e.preview).appendTo($result);
+                    $result.appendTo($content);
+                });
+                if (!result.length){
+                    $content.append($('<h2/>').text('Nothing to display'));
+                }
+            });
+            return false;
+        }
+    }
+
 
     hamburgerInit();
     navHeightInit();
-
+    initSearch();
     $window.on('resize orientationchange', navHeightInit);
 
     $window.on('resize orientationchange', navHeightInit);

@@ -1073,10 +1073,10 @@
     file: clips/bma176.wmv
     id: media_bma176
 358:
-    file: clips/bma181.JPG
+    file: images/bma181.JPG
     id: media_bma181
 359:
-    file: clips/bma182.JPG
+    file: images/bma182.JPG
     id: media_bma182
 360:
     file: forest-bg.jpg
@@ -1088,10 +1088,10 @@
     file: oat-header-logo.png
     id: media_oat-header-logo
 364:
-    file: clips/bma183.JPG
+    file: images/bma183.JPG
     id: media_bma183
 365:
-    file: clips/bma184.JPG
+    file: images/bma184.JPG
     id: media_bma184
 366:
     file: clips/bma185.wmv
@@ -1106,10 +1106,10 @@
     file: clips/bma188.wmv
     id: media_bma188
 370:
-    file: clips/bma189.JPG
+    file: images/bma189.JPG
     id: media_bma189
 371:
-    file: clips/bma190.JPG
+    file: images/bma190.JPG
     id: media_bma190
 372:
     file: clips/bma192.wmv
@@ -1124,7 +1124,7 @@
     file: clips/bma195.wmv
     id: media_bma195
 376:
-    file: clips/PhotobyJuanAndracaSanchezWikimediaCommons.JPG
+    file: images/PhotobyJuanAndracaSanchezWikimediaCommons.JPG
     id: PhotobyJuanAndracaSanchezWikimediaCommons
 377:
     file: clips/bma196.wmv
