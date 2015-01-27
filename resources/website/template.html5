@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html$if(lang)$ lang="$lang$"$endif$>
+<html$if(lang)$ lang="$lang$"$endif$ class="no-js">
 <head>
   <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-$for(author-meta)$
+  <meta name="generator" content="tao-doc">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  $for(author-meta)$
   <meta name="author" content="$author-meta$">
 $endfor$
 $if(date-meta)$
@@ -14,11 +15,15 @@ $endif$
   <style type="text/css">code{white-space: pre;}</style>
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+    <![endif]-->
+  <script>var h = document.documentElement;
+  h.className = h.className.replace('no-js', 'js')</script>
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
-$if(highlighting-css)$
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300|Roboto' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../assets/css/website.css">
+  $if(highlighting-css)$
   <style type="text/css">
 $highlighting-css$
   </style>
@@ -34,31 +39,54 @@ $for(header-includes)$
 $endfor$
 </head>
 <body>
-$for(include-before)$
-$include-before$
-$endfor$
-$if(title)$
-<header>
-<h1 class="title">$title$</h1>
-$if(subtitle)$
-<h1 class="subtitle">$subtitle$</h1>
-$endif$
-$for(author)$
-<h2 class="author">$author$</h2>
-$endfor$
-$if(date)$
-<h3 class="date">$date$</h3>
-$endif$
-</header>
-$endif$
-$if(toc)$
-<nav id="$idprefix$TOC">
-$toc$
-</nav>
-$endif$
-$body$
+<div class="wrapper content-wrap">
+
+  <header class="flex-area">
+    <a href="/" class="block sidebar">
+      <h1>
+        <span class="viewport-hidden">Open Assessment Technologies - TAO User Guide</span>
+        <img src="../assets/img/oat-header-logo.png" alt="Open Assessment Technologies - TAO User Guide"/>
+      </h1>
+    </a>
+
+    <div class="search-area">
+      <form class="rgt" action="/search">
+        <input type="search" name="q" placeholder="Search the User Guide" />
+        <button type="submit"><span class="icon-search"></span>Search</button>
+      </form>
+    </div>
+
+  </header>
+
+
+
+  <div class="clearfix flex-area">
+    $for(include-before)$
+    $include-before$
+    $endfor$
+    <main>
+
+<div class="guide-content">
+  $body$
+</div>
 $for(include-after)$
 $include-after$
 $endfor$
+    </main>
+  </div>
+
+</div>
+<footer class="wrapper">
+
+  <div class="flt-col-5"> </div>
+
+  <div class="flt-col-4"> </div>
+
+  <div class="flt-col-3 memberships"></div>
+  <script src="../assets/js/vendor/jquery.1.10.2.min.js"></script>
+  <script src="../assets/js/main.js"></script>
+
+</footer>
+
 </body>
 </html>
