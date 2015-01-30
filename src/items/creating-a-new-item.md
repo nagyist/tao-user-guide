@@ -9,7 +9,6 @@ There are more than 17 types of interactions that TAO will allow test-authors to
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fF5eJjUOOhU" frameborder="0" allowfullscreen></iframe>
-![New Item Step 1][icon_audio]
 
 **Step 1:** Click the *Items* icon.
 

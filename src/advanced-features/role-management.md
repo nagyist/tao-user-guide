@@ -12,19 +12,19 @@ Other roles are specific to a particular function (such as LTI) or customized.
 
 The following steps are applicable to the assignment of managerial roles required by the *back office*.
 
-![Role Management 1][bma203]
+![Role Management 1][media_bma203]
 
 **Step 1:** Within the Assessment Builder Bar, select the icon for Users settings (two heads side-by-side). A pull-down menu will appear. Select *Manage Roles*.
 
 Within the canvas, there will be two panels sitting side-by-side. The left panel shows a list of roles appropriate for your system settings. The right panel shows a list of users that are entered in your system, including Test-takers.
 
-![Role Management 2][bma204]
+![Role Management 2][media_bma204]
 
 **Step 2:** In the left panel, select either a single role, or a combination of roles intended to be grouped together. In the latter case, create a label (name) for this combination that is easy to remember. Ensure that this single role, or combination, as desired, is selected.
 
 This chooses the role to be assigned to the individual(s) who will be selected in the next step. If creating a combination role, click *Save* at the bottom to continue.
 
-![Role Management 3][bma205]
+![Role Management 3][media_bma205]
 
 **Step 3:** In the right panel, select users who will be assigned to this selected role. When all the desired users are selected, click *Save*.
 
