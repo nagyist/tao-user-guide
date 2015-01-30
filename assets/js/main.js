@@ -61,6 +61,11 @@
     }
 
 
+    function hideFallbackVideo() {
+        $('.hidden-video').hide();
+    }
+
+    hideFallbackVideo();
     hamburgerInit();
     navHeightInit();
     initSearch();
