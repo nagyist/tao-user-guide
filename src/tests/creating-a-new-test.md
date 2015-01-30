@@ -2,19 +2,31 @@
 
 >TAO defines a test as a collection of items designed to assess the academic progress of a test-taker. The approach allows for rapid assembly of tests administered across computer networks. If all you have is 30 minutes to create a 10-question quiz for your 8th grade class, TAO can help.
 
-![New Test Step 1][media_bma123]
+<div class="hidden-video">
+[![New Test Step 1](http://img.youtube.com/vi/BagqFfj0Q5E/0.jpg)](http://www.youtube.com/watch?v=BagqFfj0Q5E)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BagqFfj0Q5E" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** In the Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
 This brings up in the Actions Bar, in addition to Properties, icons for new class, new test, export, and import exist. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
 
-![New Test Step 2][media_bma124]
+<div class="hidden-video">
+[![New Test Step 2](http://img.youtube.com/vi/H8FECg4LT4A/0.jpg)](http://www.youtube.com/watch?v=H8FECg4LT4A)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H8FECg4LT4A" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** After clicking on the class within which the test is supposed to be stored, click New Test in the Action Bar to create a new.
 
 This brings up a *Test Properties* pane that provides a chance to rename the *label* (file name) of the test, and select between either the QTI 2.1 Test Driver or simple model (QTI is recommended). After completing test properties, hit *Save*. (It should be noted that at any time, the test assembly can be saved in order to preserve already completed work. Doing so every ten minutes is always a good habit.)
 
-![New Test Step 3][media_bma125]
+<div class="hidden-video">
+[![New Test Step 3](http://img.youtube.com/vi/MZk5Dwoz5FA/0.jpg)](http://www.youtube.com/watch?v=MZk5Dwoz5FA)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZk5Dwoz5FA" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** Click *Authoring* to insert Items into Test.
 
@@ -26,7 +38,11 @@ At the start of any section, a *Rubric Block* or explanatory text can be entered
 
 Adding new items is almost as simple. In the Test Library, select the Item that will be needed, and then click on the light blue text block that reads *Add selected item(s) here*. Adding these in the order in which they are desired to appear on the delivered test is useful, but if an item is added out of order, the order can be corrected by clicking the upward or downward arrow buttons that appear after the properties icon behind the item. Unwanted items can be deleted by clicking on the trash can icon. (Applying test properties is covered in its own section.)
 
-![New Test Step 4][media_bma126]
+<div class="hidden-video">
+[![New Test Step 4](http://img.youtube.com/vi/jFny7GKpW68/0.jpg)](http://www.youtube.com/watch?v=jFny7GKpW68)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFny7GKpW68" frameborder="0" allowfullscreen></iframe>
 
 **Step 4:** Adjust Property panel values as needed.
 

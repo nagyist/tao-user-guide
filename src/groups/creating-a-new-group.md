@@ -2,19 +2,31 @@
 
 >Groups are organized collections of test-takers who will be taking the same assessments throughout the duration of a course of study. Examples of a group include Laboratory Sections, Discussion Groups, or just about any cohort or subdivision of students that will be assessed using the same examinations, the same test administrators, and the same grading criteria as others within their group. Since a group is made up of individual test-takers, it is necessary to have each test-taker’s meta-data entered in already before assigning them.
 
-![New Group Step 1][media_bma116]
+<div class="hidden-video">
+[![New Group Step 1](http://img.youtube.com/vi/ewgPpeRW2Ys/0.jpg)](http://www.youtube.com/watch?v=ewgPpeRW2Ys)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewgPpeRW2Ys" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** In the Assessment Builder Bar, select Groups (fourth from the left). In the Groups Library, click on a desired class, or on the Groups folder itself.
 
 This brings up in the Actions Bar, in addition to Properties, icons for new classes, new deliveries, export, and import. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly (do not get class confused with group – *class* in this instance means a folder, while a *group* can mean a class, section, or any other desired cohort of students). Otherwise, continue to the next step.
 
-![New Group Step 2][media_bma117]
+<div class="hidden-video">
+[![New Group Step 2](http://img.youtube.com/vi/yOaz102i9KA/0.jpg)](http://www.youtube.com/watch?v=yOaz102i9KA)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOaz102i9KA" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** After clicking on the class within which the group is supposed to be stored, click New Group to create it.
 
 This brings up an *Edit Group* pane for a newly created group. Rename the group through the *Label* field, if desired, and then hit the blue *Save* button
 
-![New Group Step 3][media_bma118]
+<div class="hidden-video">
+[![New Group Step 3](http://img.youtube.com/vi/tcX0UZYN6G0/0.jpg)](http://www.youtube.com/watch?v=tcX0UZYN6G0)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tcX0UZYN6G0" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** Populate the group
 

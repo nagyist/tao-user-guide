@@ -2,25 +2,41 @@
 
 >The kids are somewhat shaky in their understanding of what you've spent the last couple days teaching, and you aren't sure if they are ready to move on to new material. So what do you do? That's right, give them a pop-quiz! TAO lets instructors do this in very short order.
 
-![Tour Build Test Step 1][media_bma146]
+<div class="hidden-video">
+[![Tour Build Test Step 1](http://img.youtube.com/vi/tFXuuS5yljU/0.jpg)](http://www.youtube.com/watch?v=tFXuuS5yljU)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFXuuS5yljU" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** In TAO's Assessment Builder Bar, select Items and examine the test Items that are available for your pop-quiz.
 
 If you do not have enough ready-to-go Items, then you will need to create new ones. Items are the building blocks of Tests assembled in TAO, but as with anything you assemble, there has to be enough of them, and they must cover everything you want to cover. Fortunately, TAO has plenty of easily-authored Item templates to work with. 
 
-![Tour Build Test Step 2][media_bma147]
+<div class="hidden-video">
+[![Tour Build Test Step 2](http://img.youtube.com/vi/xDbWs9ROr8A/0.jpg)](http://www.youtube.com/watch?v=xDbWs9ROr8A)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDbWs9ROr8A" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** Going back to TAO's Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
 This brings up in the blue Actions Bar, among other icons, an icon to create a new test.
 
-![Tour Build Test Step 3][media_bma148]
+<div class="hidden-video">
+[![Tour Build Test Step 3](http://img.youtube.com/vi/ptcB7ik--BI/0.jpg)](http://www.youtube.com/watch?v=ptcB7ik--BI)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ptcB7ik--BI" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** Click New Test in the Action Bar to create a new test.
 
 This brings up a *Test Properties* pane where you can rename the *label* (file name) of the test, and select between either the QTI 2.1 Test Driver or the alternative simple model (QTI is recommended). After completing test properties, hit *Save*. (It should be noted that at any time, the test assembly can be saved in order to preserve already completed work. Doing so every ten minutes is always a good habit.)
 
-![Tour Build Test Step 4][media_bma149]
+<div class="hidden-video">
+[![Tour Build Test Step 4](http://img.youtube.com/vi/J_bqV9gUJQw/0.jpg)](http://www.youtube.com/watch?v=J_bqV9gUJQw)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_bqV9gUJQw" frameborder="0" allowfullscreen></iframe>
 
 **Step 4:** Click *Authoring* to insert Items into Test.
 
@@ -28,7 +44,11 @@ This opens a three-part window: the Library contains available Items to place in
 
 Tip -> Tests can be divided on two subordinated levels: Test parts, and sections. A test part is the first tier division of a test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. 
 
-![Tour Build Test Step 5][media_bma150]
+<div class="hidden-video">
+[![Tour Build Test Step 5](http://img.youtube.com/vi/w666kCCH4ek/0.jpg)](http://www.youtube.com/watch?v=w666kCCH4ek)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w666kCCH4ek" frameborder="0" allowfullscreen></iframe>
 
 **Step 5:** Add new sections by clicking on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
 
@@ -36,7 +56,11 @@ In general, a pop-quiz is not going to be a full examination with test parts and
 
 Tip -> At the start of any section, a *Rubric Block* or explanatory text can be entered in prior to insertion of interactions. To do this, click on the icon with the letter “A” in it, and then click on the blue *New Rubric Block* button that appears.
 
-![Tour Build Test Step 6][media_bma151]
+<div class="hidden-video">
+[![Tour Build Test Step 6](http://img.youtube.com/vi/YQn1QCUdRP0/0.jpg)](http://www.youtube.com/watch?v=YQn1QCUdRP0)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQn1QCUdRP0" frameborder="0" allowfullscreen></iframe>
 
 **Step 6:** Add new items by selecting them from the Test Library.
 
@@ -46,13 +70,21 @@ Tip -> Adding these in the order in which they are desired to appear on the deli
 
 Unwanted items can be deleted by clicking on the trash can icon. (Applying test properties is covered in its own section.)
 
-![Tour Build Test Step 7][media_bma152]
+<div class="hidden-video">
+[![Tour Build Test Step 7](http://img.youtube.com/vi/F2A5F1qU7m0/0.jpg)](http://www.youtube.com/watch?v=F2A5F1qU7m0)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2A5F1qU7m0" frameborder="0" allowfullscreen></iframe>
 
 **Step 7:** Determine which properties will need to be adjusted.
 
 There are four levels in which properties may be assigned: Test level, Test part level, Section level, and Item level. These properties will appear in the Properties panel when the appropriate properties icon (depicted as three interacting gears) is clicked upon. The test level properties icon will be found within the test bar at the top of the canvas. Test part level properties icons will be found in each darker test part bar, while section level properties icons will be found on the same line as the section label. Item level properties icons will be found next to the interaction’s label.
 
-![Tour Build Test Step 8][media_bma153]
+<div class="hidden-video">
+[![Tour Build Test Step 8](http://img.youtube.com/vi/8it7dF7JTBw/0.jpg)](http://www.youtube.com/watch?v=8it7dF7JTBw)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8it7dF7JTBw" frameborder="0" allowfullscreen></iframe>
 
 **Step 8:** Click on the test level properties icon.
 
@@ -60,7 +92,11 @@ This brings up in the Properties panel two sections: one governing identifier an
 
 Time limits set for the test can be added at the Item level, or at the test level. To add a limit to the amount of time that the test-taker has to submit all answers to the test, open the *Time Limits* panel, and enter in the maximum duration (in hours, minutes, and seconds). If a late submission will be accepted, click on the appropriate check mark. If the duration is to be strictly enforced (no late submissions allowed), leave this unmarked.
 
-![Tour Build Test Step 9][media_bma154]
+<div class="hidden-video">
+[![Tour Build Test Step 9](http://img.youtube.com/vi/6fIC7NnxMs4/0.jpg)](http://www.youtube.com/watch?v=6fIC7NnxMs4)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6fIC7NnxMs4" frameborder="0" allowfullscreen></iframe>
 
 **Step 9:** Click on the test part level properties icon.
 
@@ -70,7 +106,11 @@ In the item control section, four properties will need to be addressed. *Max Att
 
 The time limits section is similar in nature to the time limits section for the test level properties, except that the answers apply to the test part.
 
-![Tour Build Test Step 10][media_bma155]
+<div class="hidden-video">
+[![Tour Build Test Step 10](http://img.youtube.com/vi/NavKeD9nWSk/0.jpg)](http://www.youtube.com/watch?v=NavKeD9nWSk)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NavKeD9nWSk" frameborder="0" allowfullscreen></iframe>
 
 **Step 10:** Click on the section level properties icon.
 
@@ -80,7 +120,11 @@ The selection portion initially asks if the delivered test section should includ
 
 Ordering contains only one property setting, and that is *Shuffle*, a function that sets the question order randomly like shuffling a deck of cards.
 
-![Tour Build Test Step 11][media_bma156]
+<div class="hidden-video">
+[![Tour Build Test Step 11](http://img.youtube.com/vi/gSVwXtd8Ehw/0.jpg)](http://www.youtube.com/watch?v=gSVwXtd8Ehw)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSVwXtd8Ehw" frameborder="0" allowfullscreen></iframe>
 
 **Step 11:** Click on the item level properties icon.
 
@@ -88,7 +132,11 @@ This brings up in the Properties panel three sections: general properties, item 
 
 Identifier and references generally do not require modification. Categories act as tag references which may be displayed to the test-taker. If the item is checked as required, then it will appear on the test, even if less than the total number of items appears on a given test (such as would be the case in a section where selection is enabled). If the item is fixed, it will appear in a particular order, even if the section ordering calls for shuffling.
 
-![Tour Build Test Step 12][media_bma157]
+<div class="hidden-video">
+[![Tour Build Test Step 12](http://img.youtube.com/vi/bhsAEpXGj54/0.jpg)](http://www.youtube.com/watch?v=bhsAEpXGj54)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bhsAEpXGj54" frameborder="0" allowfullscreen></iframe>
 
 **Step 12:** Give your Test a trial run.
 

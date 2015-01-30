@@ -2,13 +2,21 @@
 
 >Modal feedback is defined as material presented externally of an Item's text when the Test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the Test-taker ("Good job!" "Nailed it!" etc.), or maybe give a hint, etc.
 
-![Modal Feedback Step 1][media_bma106]
+<div class="hidden-video">
+[![Modal Feedback Step 1](http://img.youtube.com/vi/jeYTED8lvkE/0.jpg)](http://www.youtube.com/watch?v=jeYTED8lvkE)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeYTED8lvkE" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** In many of the interaction types, the option to select *Modal Feedback* will show itself in the Properties Panel. Where it does, click on the *Add a Modal Feedback* text.
 
 This results in the opening of a modal feedback panel that sets an initial conditional "if-then-else" statement.
 
-![Modal Feedback Step 2][media_bma107]
+<div class="hidden-video">
+[![Modal Feedback Step 2](http://img.youtube.com/vi/C82pHLPsJaQ/0.jpg)](http://www.youtube.com/watch?v=C82pHLPsJaQ)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C82pHLPsJaQ" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** Populate the Modal Feedback "if-then-else" statement.
 
@@ -18,7 +26,11 @@ After that, fill in the then-statement by first clicking on the blue *Feedback* 
 
 If an alternative feedback for the opposite condition is required, click the *Feedback* button for the else-statement, and follow the same procedure used to set up the initial feedback.
 
-![Modal Feedback Step 3][media_bma108]
+<div class="hidden-video">
+[![Modal Feedback Step 3](http://img.youtube.com/vi/U5YBwCoVCWU/0.jpg)](http://www.youtube.com/watch?v=U5YBwCoVCWU)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5YBwCoVCWU" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** If additional modal feedback is required, then click the *Add a Modal Feedback* hypertext below and enter in the conditions as done in the first Modal Feedback message.
 

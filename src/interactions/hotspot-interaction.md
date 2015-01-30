@@ -4,17 +4,29 @@
 
 >All graphic interactions can be found in the Graphic Interactions menu in the Library. All require dragging the appropriate icon, such as the Hotspot interaction icon, over the blank Item and dropping it on the blue block that appears when the icon is passed over it. This will result in the Resource Manager window appearing to request the test author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue *Add file(s)* and *browse* buttons to hunt down and add files to the resource manager by clicking the green *Upload* button. If uploading is not necessary, highlight the appropriate graphic in the resource manager list and click the green *Select* button to move toward the first step of setting up this interaction.
 
-![Hotspot Step 0][media_bma042]
+<div class="hidden-video">
+[![Hotspot Step 0](http://img.youtube.com/vi/wZbOP1maAaE/0.jpg)](http://www.youtube.com/watch?v=wZbOP1maAaE)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZbOP1maAaE" frameborder="0" allowfullscreen></iframe>
 
 >For the Hotspot interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
-![Hotspot Step 1][media_bma043]
+<div class="hidden-video">
+[![Hotspot Step 1](http://img.youtube.com/vi/dVmuYmAq7Pg/0.jpg)](http://www.youtube.com/watch?v=dVmuYmAq7Pg)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dVmuYmAq7Pg" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** Fill in the question field. 
 
 This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
 
-![Hotspot Step 2][media_bma044]
+<div class="hidden-video">
+[![Hotspot Step 2](http://img.youtube.com/vi/Mw5WgU5rC7U/0.jpg)](http://www.youtube.com/watch?v=Mw5WgU5rC7U)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mw5WgU5rC7U" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** Insert the Associable Hotspots onto the graphic.
 
@@ -22,13 +34,21 @@ To place a rectangle, click on one corner and drag across the intended area the 
 
 After the Hotspots are added in, the minimum and maximum number of choices that a Test-taker can provide will need to be entered in the field located at the bottom of the Properties Panel. A minimum above zero requires that the Test-taker provide an answer to the question before moving off the interaction, while the maximum should be above zero in order that the Test-taker can provide at least one answer to the question.
 
-![Hotspot Step 3][media_bma045]
+<div class="hidden-video">
+[![Hotspot Step 3](http://img.youtube.com/vi/MQKgCL3uDTM/0.jpg)](http://www.youtube.com/watch?v=MQKgCL3uDTM)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQKgCL3uDTM" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** Click Response in the header bar to set the hot spots in the order required by the question.
 
 This will bring up the same screen, but the Hotspots are now able to be assigned scores.
 
-![Hotspot Step 4][media_bma046]
+<div class="hidden-video">
+[![Hotspot Step 4](http://img.youtube.com/vi/7Qdv7SIb7DI/0.jpg)](http://www.youtube.com/watch?v=7Qdv7SIb7DI)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Qdv7SIb7DI" frameborder="0" allowfullscreen></iframe>
 
 **Step 4:** Based on the number of responses that the Test-taker can answer, assign scores or correct answers.
 
@@ -38,7 +58,11 @@ A minimum score that the Test-taker can receive (default is 0) must be selected,
 
 To assign scores to Hotspots, click on those that are considered correct answers. For each, the check box defining the Hotspot as a correct answer should be checked, and the weighted score should be entered in. Again, all scores should equal the maximum score if the full score weights are to be taken into consideration. 
 
-![Hotspot Step 5][media_bma047]
+<div class="hidden-video">
+[![Hotspot Step 5](http://img.youtube.com/vi/XamLaZabONU/0.jpg)](http://www.youtube.com/watch?v=XamLaZabONU)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XamLaZabONU" frameborder="0" allowfullscreen></iframe>
 
 **Step 5:** Click the blue *Done* button.
 

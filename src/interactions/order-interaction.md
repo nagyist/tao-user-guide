@@ -2,31 +2,51 @@
 
 >The Order item gives test-takers the opportunity to demonstrate knowledge of a particular order of elements. These can include chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
-![Order Step 1][media_bma069]
+<div class="hidden-video">
+[![Order Step 1](http://img.youtube.com/vi/785fdX45DBU/0.jpg)](http://www.youtube.com/watch?v=785fdX45DBU)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/785fdX45DBU" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Order* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
 This creates a new Order Interaction window. There will be a field for placing in a question at the top, and two side-by-side panels, the left of which provides fields for the options to be placed in an appropriate order.
 
-![Order Step 2][media_bma070]
+<div class="hidden-video">
+[![Order Step 2](http://img.youtube.com/vi/lvNHkj4pDv8/0.jpg)](http://www.youtube.com/watch?v=lvNHkj4pDv8)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvNHkj4pDv8" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** Fill in the question field. 
 
 This will describe the task given to the test-taker ("Place the following in chronological order", etc.).
 
-![Order Step 3][media_bma071]
+<div class="hidden-video">
+[![Order Step 3](http://img.youtube.com/vi/TKxpisbMans/0.jpg)](http://www.youtube.com/watch?v=TKxpisbMans)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKxpisbMans" frameborder="0" allowfullscreen></iframe>
 
 **Step 3:** Fill in the options pertaining to the question.
 
 Options may be added by clicking the blue *Add choice* field if three options is not enough. If needed, these may be placed in a particular order, or they may be placed in any order and then shuffled (the latter is usually recommended). To shuffle, click *Shuffle choices* in the Interaction Properties panel.
 
-![Order Step 4][media_bma072]
+<div class="hidden-video">
+[![Order Step 4](http://img.youtube.com/vi/2EfixkGFrtc/0.jpg)](http://www.youtube.com/watch?v=2EfixkGFrtc)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EfixkGFrtc" frameborder="0" allowfullscreen></iframe>
 
 **Step 4:** Fill in the answers after clicking *Response* in the blue item header.
 
 To do this, click on each option in its correct order as requested by the question field.
 
-![Order Step 5][media_bma073]
+<div class="hidden-video">
+[![Order Step 5](http://img.youtube.com/vi/7Hn89pf1oKQ/0.jpg)](http://www.youtube.com/watch?v=7Hn89pf1oKQ)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Hn89pf1oKQ" frameborder="0" allowfullscreen></iframe>
 
 **Step 5:** Click the blue *Done* button.
 

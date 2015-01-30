@@ -2,7 +2,11 @@
 
 >After creating a new test, in most cases it will be necessary to set properties for the assessment and its parts. There are four levels in which properties may be assigned: Test level, Test part level, Section level, and Item level. These properties will appear in the Properties panel when the appropriate properties icon (depicted as three interacting gears) is clicked upon. The test level properties icon will be found within the test bar at the top of the canvas. Test part level properties icons will be found in each darker test part bar, while section level properties icons will be found on the same line as the section label. Item level properties icons will be found next to the interaction’s label.
 
-![Test Settings Step 1][media_bma131]
+<div class="hidden-video">
+[![Test Settings Step 1](http://img.youtube.com/vi/C0DVnJzN-e8/0.jpg)](http://www.youtube.com/watch?v=C0DVnJzN-e8)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0DVnJzN-e8" frameborder="0" allowfullscreen></iframe>
 
 **Step 1:** Click on the test level properties icon.
 
@@ -10,7 +14,11 @@ This brings up in the Properties panel two sections: one governing identifier an
 
 Time limits set for the test can be added at the Item level, or at the test level. To add a limit to the amount of time that the test-taker has to submit all answers to the test, open the *Time Limits* panel, and enter in the maximum duration (in hours, minutes, and seconds). If a late submission will be accepted, click on the appropriate check mark. If the duration is to be strictly enforced (no late submissions allowed), leave this unmarked.
 
-![Test Settings Step 2][media_bma132]
+<div class="hidden-video">
+[![Test Settings Step 2](http://img.youtube.com/vi/WOLid1SBDuI/0.jpg)](http://www.youtube.com/watch?v=WOLid1SBDuI)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOLid1SBDuI" frameborder="0" allowfullscreen></iframe>
 
 **Step 2:** Click on the test part level properties icon.
 
@@ -30,7 +38,11 @@ The selection portion initially asks if the delivered test section should includ
 
 Ordering contains only one property setting, and that is *Shuffle*, a function that sets the question order randomly like shuffling a deck of cards.
 
-![Test Settings Step 4][media_bma134]
+<div class="hidden-video">
+[![Test Settings Step 4](http://img.youtube.com/vi/is2-Dqhp-fE/0.jpg)](http://www.youtube.com/watch?v=is2-Dqhp-fE)
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/is2-Dqhp-fE" frameborder="0" allowfullscreen></iframe>
 
 **Step 4:** Click on the item level properties icon.
 
