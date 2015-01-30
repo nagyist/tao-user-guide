@@ -6,7 +6,7 @@
 [![Hottext Step 1](http://img.youtube.com/vi/ljpxTiU49EA/0.jpg)](http://www.youtube.com/watch?v=ljpxTiU49EA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ljpxTiU49EA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/ljpxTiU49EA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Hottext* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
@@ -16,7 +16,7 @@ This creates a new Hottext Interaction window. There will be a field for placing
 [![Hottext Step 2](http://img.youtube.com/vi/AFLHPXEQh1Y/0.jpg)](http://www.youtube.com/watch?v=AFLHPXEQh1Y)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AFLHPXEQh1Y" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/AFLHPXEQh1Y?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This will describe the task given to the test-taker ("Find the mistakes", "Pick 
 [![Hottext Step 3](http://img.youtube.com/vi/wM2_ayBg8bQ/0.jpg)](http://www.youtube.com/watch?v=wM2_ayBg8bQ)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wM2_ayBg8bQ" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/wM2_ayBg8bQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Cut and paste, or type in, the text within which the Hottext choices will be presented. 
 
@@ -36,7 +36,7 @@ It will be from these Hottext elements that the test-taker will choose the best 
 [![Hottext Step 4](http://img.youtube.com/vi/sJtpVxpfeCA/0.jpg)](http://www.youtube.com/watch?v=sJtpVxpfeCA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJtpVxpfeCA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/sJtpVxpfeCA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Select a word or phrase and highlight it. When the *magic wand* button comes up, click it to confirm selection of the word or phrase.
 
@@ -46,7 +46,7 @@ This will create a Hottext element within the text. Typically, there will be one
 [![Hottext Step 5](http://img.youtube.com/vi/c6c3PBDpzwg/0.jpg)](http://www.youtube.com/watch?v=c6c3PBDpzwg)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c6c3PBDpzwg" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/c6c3PBDpzwg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** Once all the Hottext fields are activated, set in the Properties Panel to the left the minimum number of answers the test-taker can take, and the maximum.
 
@@ -56,7 +56,7 @@ Setting the minimum to 0 allows the test-taker to skip the question. It is neces
 [![Hottext Step 6](http://img.youtube.com/vi/OJsyf0WXON4/0.jpg)](http://www.youtube.com/watch?v=OJsyf0WXON4)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OJsyf0WXON4" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/OJsyf0WXON4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 6:** Click Response in the blue Item header to select answers. 
 
@@ -66,7 +66,7 @@ This will produce the same window, but the test author will be given the option 
 [![Hottext Step 7](http://img.youtube.com/vi/jsullMQ1Os0/0.jpg)](http://www.youtube.com/watch?v=jsullMQ1Os0)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jsullMQ1Os0" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/jsullMQ1Os0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 7:** In the Properties Panel, select the Response Processing to be used for this Item.
 
@@ -82,7 +82,7 @@ If modal feedback is desired for this Item, it is possible to enter it at this p
 [![Hottext Step 8](http://img.youtube.com/vi/_EUwooalaHE/0.jpg)](http://www.youtube.com/watch?v=_EUwooalaHE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_EUwooalaHE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/_EUwooalaHE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 8.** Click the blue *Done* button.
 

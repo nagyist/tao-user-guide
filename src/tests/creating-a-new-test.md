@@ -6,7 +6,7 @@
 [![New Test Step 1](http://img.youtube.com/vi/BagqFfj0Q5E/0.jpg)](http://www.youtube.com/watch?v=BagqFfj0Q5E)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BagqFfj0Q5E" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/BagqFfj0Q5E?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** In the Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
@@ -16,7 +16,7 @@ This brings up in the Actions Bar, in addition to Properties, icons for new clas
 [![New Test Step 2](http://img.youtube.com/vi/H8FECg4LT4A/0.jpg)](http://www.youtube.com/watch?v=H8FECg4LT4A)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H8FECg4LT4A" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/H8FECg4LT4A?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** After clicking on the class within which the test is supposed to be stored, click New Test in the Action Bar to create a new.
 
@@ -26,7 +26,7 @@ This brings up a *Test Properties* pane that provides a chance to rename the *la
 [![New Test Step 3](http://img.youtube.com/vi/MZk5Dwoz5FA/0.jpg)](http://www.youtube.com/watch?v=MZk5Dwoz5FA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MZk5Dwoz5FA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/MZk5Dwoz5FA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Click *Authoring* to insert Items into Test.
 
@@ -42,7 +42,7 @@ Adding new items is almost as simple. In the Test Library, select the Item that 
 [![New Test Step 4](http://img.youtube.com/vi/jFny7GKpW68/0.jpg)](http://www.youtube.com/watch?v=jFny7GKpW68)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jFny7GKpW68" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/jFny7GKpW68?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Adjust Property panel values as needed.
 

@@ -6,7 +6,7 @@
 [![Match Step 1](http://img.youtube.com/vi/_ZomjMO_LTY/0.jpg)](http://www.youtube.com/watch?v=_ZomjMO_LTY)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZomjMO_LTY" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/_ZomjMO_LTY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Match* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
@@ -16,7 +16,7 @@ This creates a new Match Interaction window. There will be a field for placing i
 [![Match Step 2](http://img.youtube.com/vi/HQX6X6O2qsE/0.jpg)](http://www.youtube.com/watch?v=HQX6X6O2qsE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQX6X6O2qsE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/HQX6X6O2qsE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This should describe the match association task expected of the test-taker.
 [![Match Step 3](http://img.youtube.com/vi/Jm2SRmeBHkU/0.jpg)](http://www.youtube.com/watch?v=Jm2SRmeBHkU)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jm2SRmeBHkU" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Jm2SRmeBHkU?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Insert in the rows the first set of elements, and in the columns the second set of elements that are to be associated with the first.
 
@@ -36,7 +36,7 @@ If necessary, add as many rows and columns as will be needed to cover all the as
 [![Match Step 4](http://img.youtube.com/vi/aGCt7b27NcA/0.jpg)](http://www.youtube.com/watch?v=aGCt7b27NcA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aGCt7b27NcA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/aGCt7b27NcA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Address the Interaction Properties Panel (on the left).
 
@@ -46,7 +46,7 @@ Determine if the row and column options should be shuffled (recommended if the o
 [![Match Step 5](http://img.youtube.com/vi/PRQQmEJStWI/0.jpg)](http://www.youtube.com/watch?v=PRQQmEJStWI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRQQmEJStWI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/PRQQmEJStWI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** In the blue item header, hit Response, and then address the Response Properties Panel (on the left).
 
@@ -56,7 +56,7 @@ First, select the type of Response Processing. If this will be *match correct*, 
 [![Match Step 6](http://img.youtube.com/vi/qjLNOCNBfGc/0.jpg)](http://www.youtube.com/watch?v=qjLNOCNBfGc)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjLNOCNBfGc" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/qjLNOCNBfGc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 6:** Select correct responses and assign scores (if using *map response* processing).
 
@@ -68,7 +68,7 @@ If modal feedback is desirable for this interaction, enter it at this point. For
 [![Match Step 7](http://img.youtube.com/vi/bcbLQ5EAJMU/0.jpg)](http://www.youtube.com/watch?v=bcbLQ5EAJMU)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcbLQ5EAJMU" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/bcbLQ5EAJMU?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 7:** Click the blue *Done* button.
 

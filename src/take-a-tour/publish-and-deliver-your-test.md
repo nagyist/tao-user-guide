@@ -6,7 +6,7 @@
 [![Tour Deliver Test Step 1](http://img.youtube.com/vi/6q4bKuQc0b0/0.jpg)](http://www.youtube.com/watch?v=6q4bKuQc0b0)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6q4bKuQc0b0" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/6q4bKuQc0b0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:**  In the Assessment Builder Bar, select Deliveries. In the Deliveries Library, click on a desired class, or on the Assembled Delivery folder itself.
 
@@ -16,7 +16,7 @@ This brings up in the Actions Bar, in addition to Properties, icons for new clas
 [![Tour Deliver Test Step 2](http://img.youtube.com/vi/HHRbGBoaM3w/0.jpg)](http://www.youtube.com/watch?v=HHRbGBoaM3w)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHRbGBoaM3w" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/HHRbGBoaM3w?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** After clicking on the class that will store the delivery, click New Delivery in the Action Bar.
 
@@ -26,7 +26,7 @@ This brings up a *Create a New Delivery* pane that asks for a test selection. Fr
 [![Tour Deliver Test Step 3](http://img.youtube.com/vi/H-pHbyHDSBk/0.jpg)](http://www.youtube.com/watch?v=H-pHbyHDSBk)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H-pHbyHDSBk" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/H-pHbyHDSBk?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Set delivery properties in the Properties pane.
 
@@ -40,7 +40,7 @@ At the end, you will need to choose where the results should be stored (the defa
 [![Tour Deliver Test Step 4](http://img.youtube.com/vi/x0XCDzPg_3o/0.jpg)](http://www.youtube.com/watch?v=x0XCDzPg_3o)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x0XCDzPg_3o" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/x0XCDzPg_3o?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Assign the test to a group of test-takers in the panes adjacent to the Properties pane.
 
@@ -50,6 +50,6 @@ The *Assigned to* pane contains all available groups of test-takers. When a grou
 [![Tour Deliver Test Step 5](http://img.youtube.com/vi/B9EJ2i7VCxI/0.jpg)](http://www.youtube.com/watch?v=B9EJ2i7VCxI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9EJ2i7VCxI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/B9EJ2i7VCxI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** To complete the delivery, click save (or, alternatively, to halt the deliver, hit cancel) to close the pop-up window.

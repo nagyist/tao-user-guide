@@ -7,7 +7,7 @@
 [![Add Extension 1](http://img.youtube.com/vi/e5tvLa7JVZA/0.jpg)](http://www.youtube.com/watch?v=e5tvLa7JVZA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e5tvLa7JVZA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/e5tvLa7JVZA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1**: Click on the *Settings* icon to open the Extensions Manager.
 
@@ -17,7 +17,7 @@ This should open a screen that contains a series of tabs associated with the Set
 [![Add Extension 2](http://img.youtube.com/vi/xRdAidX1N1w/0.jpg)](http://www.youtube.com/watch?v=xRdAidX1N1w)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xRdAidX1N1w" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/xRdAidX1N1w?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2**: Review the *Installed Extensions* list and the *Available Extensions* list.
 
@@ -27,7 +27,7 @@ The Installed Extensions are those extensions that are active and ready for your
 [![Add Extension 3](http://img.youtube.com/vi/2O0aU3bqgCs/0.jpg)](http://www.youtube.com/watch?v=2O0aU3bqgCs)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2O0aU3bqgCs" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/2O0aU3bqgCs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3**: If an Available Extension is desired, click on the check box at the end of that extensions line. When all such extensions are selected, click *Install*.
 

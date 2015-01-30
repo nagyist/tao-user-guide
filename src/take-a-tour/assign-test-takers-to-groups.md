@@ -6,7 +6,7 @@
 [![Tour Assign Test-taker Step 1](http://img.youtube.com/vi/3921SmDM5vA/0.jpg)](http://www.youtube.com/watch?v=3921SmDM5vA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3921SmDM5vA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/3921SmDM5vA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Find Groups in the Assessment Builder Bar, and select that.
 
@@ -16,7 +16,7 @@ This opens the Groups window that focuses on the currently highlighted Group. It
 [![Tour Assign Test-taker Step 2](http://img.youtube.com/vi/TgB8BTLUbmI/0.jpg)](http://www.youtube.com/watch?v=TgB8BTLUbmI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TgB8BTLUbmI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/TgB8BTLUbmI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Within the Library, click on a desired *class* or on the Groups folder itself.
 
@@ -26,7 +26,7 @@ This brings up a new Actions Bar directly above the canvas that includes an icon
 [![Tour Assign Test-taker Step 3](http://img.youtube.com/vi/PBkzT5YNdcI/0.jpg)](http://www.youtube.com/watch?v=PBkzT5YNdcI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBkzT5YNdcI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/PBkzT5YNdcI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Rename the new group, if desired.
 
@@ -36,7 +36,7 @@ To do this, change the default name given in the Label field, and hit the blue *
 [![Tour Assign Test-taker Step 4](http://img.youtube.com/vi/Vd5QKf5e2rg/0.jpg)](http://www.youtube.com/watch?v=Vd5QKf5e2rg)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vd5QKf5e2rg" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Vd5QKf5e2rg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Populate the group in the Select Group Test-takers pane.
 

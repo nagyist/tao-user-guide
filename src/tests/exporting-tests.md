@@ -6,7 +6,7 @@
 [![Export Test Step 1](http://img.youtube.com/vi/Sm_zX9wciq8/0.jpg)](http://www.youtube.com/watch?v=Sm_zX9wciq8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm_zX9wciq8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Sm_zX9wciq8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Upon opening *Tests* from the Assessment Builder Bar, either click on an existing Test class (folder) in the Test Library panel, or click on the Test folder itself. In the Actions Bar, click New Class. 
 
@@ -16,7 +16,7 @@ Creating a new class, or a new folder, allows the user to place Tests in an orga
 [![Export Test Step 2](http://img.youtube.com/vi/5ZX8Hf3z-pI/0.jpg)](http://www.youtube.com/watch?v=5ZX8Hf3z-pI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZX8Hf3z-pI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/5ZX8Hf3z-pI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** In the Test Library, move the Tests to be transferred to the class.
 
@@ -26,7 +26,7 @@ This selects the Tests that will be exported.
 [![Export Test Step 3](http://img.youtube.com/vi/1mhVVcNF29s/0.jpg)](http://www.youtube.com/watch?v=1mhVVcNF29s)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1mhVVcNF29s" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/1mhVVcNF29s?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** After clicking on the class select from the Actions Bar *Export*.
 
@@ -38,7 +38,7 @@ The pane that comes up on the canvas will ask that you confirm that the folder h
 [![Export Test Step 4](http://img.youtube.com/vi/5xctK0VsKpg/0.jpg)](http://www.youtube.com/watch?v=5xctK0VsKpg)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5xctK0VsKpg" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/5xctK0VsKpg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Select the location on which to export your Test, and then save.
 

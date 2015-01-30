@@ -6,7 +6,7 @@
 [![New Delivery Step 1](http://img.youtube.com/vi/VAGn4nxlYkY/0.jpg)](http://www.youtube.com/watch?v=VAGn4nxlYkY)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VAGn4nxlYkY" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/VAGn4nxlYkY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** In the Assessment Builder Bar, select Deliveries. In the Deliveries Library, click on a desired class, or on the Assembled Delivery folder itself.
 
@@ -16,7 +16,7 @@ This brings up in the Actions Bar, in addition to Properties, icons for *New Cla
 [![New Delivery Step 2](http://img.youtube.com/vi/GwT2Jm_Y3Mg/0.jpg)](http://www.youtube.com/watch?v=GwT2Jm_Y3Mg)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GwT2Jm_Y3Mg" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/GwT2Jm_Y3Mg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** After clicking on the class within which the delivery is supposed to be stored, click New Delivery in the Action Bar to create a new delivery.
 
@@ -26,7 +26,7 @@ This brings up a *Create a New Delivery* pane that asks for a test selection. Fr
 [![New Delivery Step 3](http://img.youtube.com/vi/XV2PGDDry-k/0.jpg)](http://www.youtube.com/watch?v=XV2PGDDry-k)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XV2PGDDry-k" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/XV2PGDDry-k?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Set delivery properties in the Properties pane.
 
@@ -42,7 +42,7 @@ Lastly, choose where the results should be stored (this defaults to TAO Results 
 [![New Delivery Step 4](http://img.youtube.com/vi/rimw_QaTA5U/0.jpg)](http://www.youtube.com/watch?v=rimw_QaTA5U)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rimw_QaTA5U" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/rimw_QaTA5U?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Assign the test to a group of test-takers in the panes below the Properties pane.
 

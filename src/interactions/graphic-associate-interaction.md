@@ -8,7 +8,7 @@
 [![Graphic Associate Step 0](http://img.youtube.com/vi/Gi7gmNhw6WM/0.jpg)](http://www.youtube.com/watch?v=Gi7gmNhw6WM)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gi7gmNhw6WM" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Gi7gmNhw6WM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 >For the Graphic Associate interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. 
 
@@ -16,7 +16,7 @@
 [![Graphic Associate Step 1](http://img.youtube.com/vi/wIEH46x476Y/0.jpg)](http://www.youtube.com/watch?v=wIEH46x476Y)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIEH46x476Y" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/wIEH46x476Y?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This should cover such important information as what the graphic represents, and
 [![Graphic Associate Step 2](http://img.youtube.com/vi/CqoGbZoIOY8/0.jpg)](http://www.youtube.com/watch?v=CqoGbZoIOY8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CqoGbZoIOY8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/CqoGbZoIOY8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Insert the *Associable Hotspots* onto the graphic.
 
@@ -36,7 +36,7 @@ To place a rectangle, click on one corner and drag across the intended area the 
 [![Graphic Associate Step 3](http://img.youtube.com/vi/56cSgfT78E0/0.jpg)](http://www.youtube.com/watch?v=56cSgfT78E0)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56cSgfT78E0" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/56cSgfT78E0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Click *Response* to select associations between Hotspots (the answers)
 
@@ -50,7 +50,7 @@ If modal feedback is desirable for this interaction, it is possible to enter it 
 [![Graphic Associate Step 4](http://img.youtube.com/vi/vE0Pa4jmMf8/0.jpg)](http://www.youtube.com/watch?v=vE0Pa4jmMf8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vE0Pa4jmMf8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/vE0Pa4jmMf8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Click the blue *Done* button.
 

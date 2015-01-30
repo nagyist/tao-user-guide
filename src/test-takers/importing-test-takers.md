@@ -6,7 +6,7 @@
 [![Import Test-taker Step 1](http://img.youtube.com/vi/Frc0SgQQcAo/0.jpg)](http://www.youtube.com/watch?v=Frc0SgQQcAo)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Frc0SgQQcAo" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Frc0SgQQcAo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Upon opening *Test-takers* from the Assessment Builder Bar, click on the Test-taker class (folder) in its library. On the Actions Bar, click *Import*.
 
@@ -16,7 +16,7 @@ This opens a pane that asks, among the supported input formats (Question and Tes
 [![Import Test-taker Step 2](http://img.youtube.com/vi/r1J9p1wB4Q4/0.jpg)](http://www.youtube.com/watch?v=r1J9p1wB4Q4)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1J9p1wB4Q4" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/r1J9p1wB4Q4?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Once the test-taker is selected, hit the blue Import button.
 

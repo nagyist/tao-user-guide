@@ -6,7 +6,7 @@
 [![Media Step 1](http://img.youtube.com/vi/X6gkm0td-ZQ/0.jpg)](http://www.youtube.com/watch?v=X6gkm0td-ZQ)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6gkm0td-ZQ" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/X6gkm0td-ZQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Media* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
@@ -18,7 +18,7 @@ Once a video or audio file is uploaded from the resource window, that window wil
 [![Media Step 2](http://img.youtube.com/vi/PCoXgTEE0kI/0.jpg)](http://www.youtube.com/watch?v=PCoXgTEE0kI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PCoXgTEE0kI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/PCoXgTEE0kI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Fill in the question field. 
 
@@ -28,7 +28,7 @@ This will describe the task given to the test-taker ("View carefully the followi
 [![Media Step 3](http://img.youtube.com/vi/Ac1qOD6iejM/0.jpg)](http://www.youtube.com/watch?v=Ac1qOD6iejM)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ac1qOD6iejM" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Ac1qOD6iejM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** In the Properties Panel, determine the size of the screen on which the video or audio will play, select if the media device should *autostart* (begin playing on opening the item), *loop* (play over and over again), and be allowed to pause, and if looped, how many times it should play through before stopping. 
 
@@ -38,7 +38,7 @@ These property options will affect how the test-taker views the media object whi
 [![Media Step 4](http://img.youtube.com/vi/rFkJMNsaYwE/0.jpg)](http://www.youtube.com/watch?v=rFkJMNsaYwE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rFkJMNsaYwE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/rFkJMNsaYwE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** If desired, add a further interaction below the media item.
 
@@ -48,7 +48,7 @@ Usually, a media item is used to present a film or sound clip, from which a seri
 [![Media Step 5](http://img.youtube.com/vi/XSdtnWnAQLg/0.jpg)](http://www.youtube.com/watch?v=XSdtnWnAQLg)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XSdtnWnAQLg" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/XSdtnWnAQLg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** Click the blue *Done* button.
 

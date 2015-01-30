@@ -8,7 +8,7 @@
 [![Graphic Associate Step 0](http://img.youtube.com/vi/T8ZqpE_OmJc/0.jpg)](http://www.youtube.com/watch?v=T8ZqpE_OmJc)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T8ZqpE_OmJc" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/T8ZqpE_OmJc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 >For the Graphic Gap interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
@@ -16,7 +16,7 @@
 [![Graphic Associate Step 1](http://img.youtube.com/vi/j2nJUAhFhzM/0.jpg)](http://www.youtube.com/watch?v=j2nJUAhFhzM)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j2nJUAhFhzM" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/j2nJUAhFhzM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This should cover such important information as what the graphic represents, and
 [![Graphic Associate Step 2](http://img.youtube.com/vi/BLksb4EluwY/0.jpg)](http://www.youtube.com/watch?v=BLksb4EluwY)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BLksb4EluwY" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/BLksb4EluwY?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2: **Insert the *Associable Hotspots* onto the graphic.
 
@@ -38,7 +38,7 @@ After the Hotspots are added in, the answer graphics will then need to be entere
 [![Graphic Associate Step 3](http://img.youtube.com/vi/uhrAOF5HDio/0.jpg)](http://www.youtube.com/watch?v=uhrAOF5HDio)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uhrAOF5HDio" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/uhrAOF5HDio?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Click the plus sign (+) within the gap match field as many times as is needed to create the correct number of answer slots. 
 
@@ -48,7 +48,7 @@ Clicking the plus-sign creates a new slot for a single associable answer. After 
 [![Graphic Associate Step 4](http://img.youtube.com/vi/qx5aOf3ubow/0.jpg)](http://www.youtube.com/watch?v=qx5aOf3ubow)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qx5aOf3ubow" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/qx5aOf3ubow?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Click anywhere on the first slot other than the trash can (clicking on that trash can icon will delete the slot). 
 
@@ -62,7 +62,7 @@ After the upload, select the first answer graphic for the first slot, and repeat
 [![Graphic Associate Step 5](http://img.youtube.com/vi/gkms3jhI2fs/0.jpg)](http://www.youtube.com/watch?v=gkms3jhI2fs)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkms3jhI2fs" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/gkms3jhI2fs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** After the last slot is filled, click *Response* in the header bar to select answers.
 
@@ -72,7 +72,7 @@ The resulting screen will now allow the test-author to select the correct associ
 [![Graphic Associate Step 6](http://img.youtube.com/vi/zp6joaONSgE/0.jpg)](http://www.youtube.com/watch?v=zp6joaONSgE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zp6joaONSgE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/zp6joaONSgE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 6:** By default, the interaction will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to *map response*.
 
@@ -82,7 +82,7 @@ Once the Response Processing is set to *map response*, selected association will
 [![Graphic Associate Step 7](http://img.youtube.com/vi/Zs-LdTuGr3w/0.jpg)](http://www.youtube.com/watch?v=Zs-LdTuGr3w)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zs-LdTuGr3w" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Zs-LdTuGr3w?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 7:** Click the blue *Done* button.
 

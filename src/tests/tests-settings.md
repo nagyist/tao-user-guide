@@ -6,7 +6,7 @@
 [![Test Settings Step 1](http://img.youtube.com/vi/C0DVnJzN-e8/0.jpg)](http://www.youtube.com/watch?v=C0DVnJzN-e8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0DVnJzN-e8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/C0DVnJzN-e8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Click on the test level properties icon.
 
@@ -18,7 +18,7 @@ Time limits set for the test can be added at the Item level, or at the test leve
 [![Test Settings Step 2](http://img.youtube.com/vi/WOLid1SBDuI/0.jpg)](http://www.youtube.com/watch?v=WOLid1SBDuI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WOLid1SBDuI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/WOLid1SBDuI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Click on the test part level properties icon.
 
@@ -42,7 +42,7 @@ Ordering contains only one property setting, and that is *Shuffle*, a function t
 [![Test Settings Step 4](http://img.youtube.com/vi/is2-Dqhp-fE/0.jpg)](http://www.youtube.com/watch?v=is2-Dqhp-fE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/is2-Dqhp-fE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/is2-Dqhp-fE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Click on the item level properties icon.
 

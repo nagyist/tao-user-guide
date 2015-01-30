@@ -6,7 +6,7 @@
 [![Export Test-taker Step 1](http://img.youtube.com/vi/1dbM9bDMWc8/0.jpg)](http://www.youtube.com/watch?v=1dbM9bDMWc8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dbM9bDMWc8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/1dbM9bDMWc8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Upon opening *Test-takers* from the Assessment Builder Bar, either click on an existing test-taker class (folder) in the Test-taker Library panel, or click on the Test-taker folder itself. In the Actions Bar, click New Class. 
 
@@ -16,7 +16,7 @@ Creating a new class, or a new folder, allows the user to place un-organized gro
 [![Export Test-taker Step 2](http://img.youtube.com/vi/J6htgEmbQfI/0.jpg)](http://www.youtube.com/watch?v=J6htgEmbQfI)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J6htgEmbQfI" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/J6htgEmbQfI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** In the Test-taker Library, move the items to be transferred to the class.
 
@@ -26,7 +26,7 @@ This selects the test-takers that will be exported.
 [![Export Test-taker Step 3](http://img.youtube.com/vi/T-2IimFUFbo/0.jpg)](http://www.youtube.com/watch?v=T-2IimFUFbo)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-2IimFUFbo" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/T-2IimFUFbo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** After clicking on the class select from the Actions Bar *Export*.
 
@@ -38,7 +38,7 @@ The pane that comes up on the canvas will ask that you confirm that the folder o
 [![Export Test-taker Step 4](http://img.youtube.com/vi/kTWCva9kSOw/0.jpg)](http://www.youtube.com/watch?v=kTWCva9kSOw)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTWCva9kSOw" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/kTWCva9kSOw?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Select the location on which to export your test-taker file, and then save.
 

@@ -6,7 +6,7 @@
 [![Export Group Step 1](http://img.youtube.com/vi/yoqqeOh-1BA/0.jpg)](http://www.youtube.com/watch?v=yoqqeOh-1BA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yoqqeOh-1BA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/yoqqeOh-1BA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** Upon opening *Groups* from the Assessment Builder Bar, either click on an existing test-taker class (folder) in the Test-taker Library panel, or click on the Groups folder itself. In the Actions Bar, click New Class. 
 
@@ -16,7 +16,7 @@ Creating a new class, or a new folder, allows the user to place items in an orga
 [![Export Group Step 2](http://img.youtube.com/vi/PmT1DXY2Z3c/0.jpg)](http://www.youtube.com/watch?v=PmT1DXY2Z3c)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PmT1DXY2Z3c" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/PmT1DXY2Z3c?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** In the Group Library, move the items to be transferred to the class.
 
@@ -26,7 +26,7 @@ This selects the groups that will be exported.
 [![Export Group Step 3](http://img.youtube.com/vi/cClMCb_LI7Y/0.jpg)](http://www.youtube.com/watch?v=cClMCb_LI7Y)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cClMCb_LI7Y" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/cClMCb_LI7Y?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** After clicking on the class, select from the Actions Bar *Export* (fourth item from the left).
 
@@ -38,7 +38,7 @@ The pane that comes up on the canvas will ask that you confirm that the folder o
 [![Export Group Step 4](http://img.youtube.com/vi/naLtcBbb_Hs/0.jpg)](http://www.youtube.com/watch?v=naLtcBbb_Hs)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/naLtcBbb_Hs" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/naLtcBbb_Hs?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Select the location on which to export your group file, and then save.
 

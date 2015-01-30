@@ -6,7 +6,7 @@
 [![Slider Step 1](http://img.youtube.com/vi/91q02hwfssE/0.jpg)](http://www.youtube.com/watch?v=91q02hwfssE)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/91q02hwfssE" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/91q02hwfssE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Slider* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
 
@@ -16,7 +16,7 @@ This creates a new Slider Interaction window. There will be a field for placing 
 [![Slider Step 2](http://img.youtube.com/vi/J3mOb41xMYw/0.jpg)](http://www.youtube.com/watch?v=J3mOb41xMYw)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J3mOb41xMYw" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/J3mOb41xMYw?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 2:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This will describe the task given to the test-taker, typically a question involv
 [![Slider Step 3](http://img.youtube.com/vi/m_A2x-Y09aA/0.jpg)](http://www.youtube.com/watch?v=m_A2x-Y09aA)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m_A2x-Y09aA" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/m_A2x-Y09aA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 3:** Fill in the interaction properties in the Properties Panel. 
 
@@ -36,7 +36,7 @@ By default, the lower and upper bounds are set for an answer that involves perce
 [![Slider Step 4](http://img.youtube.com/vi/o6NvyT3O6gw/0.jpg)](http://www.youtube.com/watch?v=o6NvyT3O6gw)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o6NvyT3O6gw" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/o6NvyT3O6gw?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 4:** Click Response in the blue Item header.
 
@@ -48,7 +48,7 @@ Response properties are set to *Match Correct* only, but modal feedback can be s
 [![Slider Step 5](http://img.youtube.com/vi/xspzaY-yJM8/0.jpg)](http://www.youtube.com/watch?v=xspzaY-yJM8)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xspzaY-yJM8" frameborder="0" allowfullscreen></iframe>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/xspzaY-yJM8?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Step 5:** Click the blue *Done* button.
 
