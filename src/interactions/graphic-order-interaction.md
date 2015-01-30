@@ -1,18 +1,20 @@
 # Graphic Order Interaction
 
->The Graphic Order interaction gives test-takers the opportunity to demonstrate knowledge about chronological order, orders of importance, etc. as seen on a graphic (map, photo, other image).
+>The Graphic Order interaction gives Test-takers the opportunity to demonstrate knowledge about chronological order, orders of importance, etc. as seen on a graphic (map, photo, other image).
 
 >All graphic interactions can be found in the Graphic Interactions menu in the Library. All require dragging the appropriate icon, such as the Graphic Order interaction icon, over the blank Item and dropping it on the blue block that appears when the icon is passed over it. This will result in the Resource Manager window appearing to request the test author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue *Add file(s)* and *browse* buttons to hunt down and add files to the resource manager by clicking the green *Upload* button. If uploading is not necessary, highlight the appropriate graphic in the resource manager list and click the green *Select* button to move toward the first step of setting up this interaction.
 
+![Graphic Order 0][media_bma217]
+
 >For the Graphic Order interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
-![Graphic Order 1][media_bma199]
+![Graphic Order 1][media_bma218]
 
 **Step 1:** Fill in the question field. 
 
 This should cover such important information as what the graphic represents, and what the Test-taker is supposed to do in this interaction.
 
-![Graphic Order 2][media_bma200]
+![Graphic Order 2][media_bma219]
 
 **Step 2:** Insert the *Associable Hotspots* onto the graphic.
 
@@ -20,20 +22,20 @@ To place a rectangle, click on one corner and drag across the intended area the 
 
 After the Hotspots are added in, the minimum and maximum number of choices that a test-taker can provide will need to be entered in the field located at the bottom of the Properties Panel. A minimum above zero requires that the Test-taker provide an answer to the question before moving off the interaction, while the maximum should be above zero in order that the Test-taker can provide at least one answer to the question.
 
-![Graphic Order 3][media_bma201]
+![Graphic Order 3][media_bma220]
 
 **Step 3:** Click Response in the header bar to set the hot spots in the order required by the question.
 
 This will bring up the same screen, but it is now possible to associate the numeric order with the hot spots selected.
 
-![Graphic Order 4][media_bma202]
+![Graphic Order 4][media_bma221]
 
 **Step 4:** Associate the order numbers with the appropriate Hotspot.
 
 To do this, click on the number, then the Hotspot. Repeat until all the numbers are assigned a Hotspot.
 
-![Graphic Order 5][media_bma203]
+![Graphic Order 5][media_bma222]
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Order interactionite looks like. For more on previewing, review its section.
+When this is done, you can preview what your Graphic Order interaction looks like. For more on previewing, review its section.

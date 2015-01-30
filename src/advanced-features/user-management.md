@@ -26,4 +26,4 @@ The following are typical mini-procedures that involve User Management:
 
 ![User Management 4][media_bma202]
 
-*Customizing or editing access rights for different roles:* Click on the *Manage Access Rights* tab. In the resulting pull-down menu within the first column in the canvas area, select the role in which you wish to adjust. Review the Modules list in the second column. Check the appropriate boxes for those modules you want the role to access (or de-check those boxes you don't want the role to access any longer). 
+*Customizing or editing access rights for different roles:* Click on the *Manage Access Rights* tab. In the resulting menu within the first column in the canvas area, select the role in which you wish to adjust. Review the Modules list in the second column. Check the appropriate boxes for those modules you want the role to access (or de-check those boxes you don't want the role to access any longer). 
