@@ -73,13 +73,13 @@
     - { title: 'Add an extension', id: 'i_0062'}
     - { title: 'Ontology', id: 'i_0063'}
     - { title: 'Branching Tests', id: 'i_0064'}
-'FAQ':
-    - { title: 'Installation', id: 'i_0065'}
-    - { title: 'Items', id: 'i_0066'}
-    - { title: 'Tests', id: 'i_0067'}
-    - { title: 'Test-takers', id: 'i_0068'}
-    - { title: 'Groups', id: 'i_0069'}
-    - { title: 'Deliveries', id: 'i_0070'}
-    - { title: 'Results', id: 'i_0071'}
+#'FAQ':
+#    - { title: 'Installation', id: 'i_0065'}
+#    - { title: 'Items', id: 'i_0066'}
+#    - { title: 'Tests', id: 'i_0067'}
+#    - { title: 'Test-takers', id: 'i_0068'}
+#    - { title: 'Groups', id: 'i_0069'}
+#    - { title: 'Deliveries', id: 'i_0070'}
+#    - { title: 'Results', id: 'i_0071'}
 'Appendix':
     - { title: 'Glossary', id: 'i_0072'}
