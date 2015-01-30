@@ -2,7 +2,7 @@
 
 >Questions and other forms of *interaction* are considered *item* components of larger *tests*. These basic elements are first created, and then combined for use in assessing test-taker performance in acquiring understanding.
 
-There are more than 17 types of interactions that TAO will allow test-authors to create. Each interaction item, and the procedure used to create it, differs to some degree from the other, but there are certain steps that are held in common for authoring any interaction. These steps will be detailed here. 
+There are more than 17 types of interactions that TAO will allow test-authors to create. Each interaction, and the procedure used to create it, differs to some degree from the other, but there are certain steps that are held in common for authoring any interaction. These steps will be detailed here. 
 
 <div class="hidden-video">
 [![New Item Step 1](http://img.youtube.com/vi/fF5eJjUOOhU/0.jpg)](http://www.youtube.com/watch?v=fF5eJjUOOhU)
