@@ -26,6 +26,8 @@
     - { title: 'Control user access', id: 'i_0022'}
     - { title: 'Style Editor', id: 'i_0023'}
     - { title: 'Applying themes', id: 'i_0024'}
+    - { title: 'Lti admin', id: 'i_0073'}
+    - { title: 'Lti teacher', id: 'i_0074'}
 'Interactions':
     - { title: 'Choice Interaction', id: 'i_0025'}
     - { title: 'Order Interaction', id: 'i_0026'}

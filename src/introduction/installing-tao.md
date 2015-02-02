@@ -2,7 +2,7 @@
 
 >There are currently two TAO installation packages available on the OAT server, one for Automatic Installation, and the other for Manual Installation. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of control by the institution for the data that is generated. Automatic installation involves setting up a permanent connection to TAO's own server, and affords greater ease of operations, leaving all technical issues to OAT.
 
-![Install 1][bma228]
+![Install 1][media_bma228]
 
 **Step 1:** On the OAT download page, click on the package appropriate for the computer on which you'll be using TAO.
 
@@ -12,7 +12,12 @@ Manual Package, or *TAO 2.6.7 build*: Downloads a ZIP package 21.5 MB in size th
 
 Doing this step will initiate the download. Select on your computer where you want to find the installation file, and hit save.
 
-![Install 2][bma229]
+<div class="hidden-video">
+[![Install 2](http://img.youtube.com/vi/JROOkwVT9Rc/0.jpg)](http://www.youtube.com/watch?v=JROOkwVT9Rc)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/JROOkwVT9Rc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 **Step 2:** When the selected extractable is downloaded, double-click on it to begin the extraction.
 
@@ -22,7 +27,7 @@ For users installing the automatic package or the manual package on Windows, the
 
 For users installing the manual package on Linux, there are more steps.
 
-![Install 3][bma230]
+![Install 3][media_bma230]
 
 **Step 3:** (Linux only) Install the following applications: Apache 2 server (recommended version 2.2.17), PHP server configuration (version 5.3 or 5.5, or any version between), MySQL server configuration (greater than version 5.0), and PostgreSQL (greater than version 7.0).
 
