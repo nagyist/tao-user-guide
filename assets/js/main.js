@@ -30,7 +30,7 @@
 
     function initSearch() {
         var $searchBox = $('.search-area'),
-            $content = $('.guide-content'),
+            $guideContent = $('.guide-content'),
             $form = $searchBox.find('form');
 
         $.ajax({
@@ -45,16 +45,18 @@
         function search() {
 
             $.get($form.attr('action'), $form.serialize(), function (result) {
-                $content.html($('<h1/>').text('Search results'));
+                var $resultsContainer = $('<div id="search-results"/>');
+                $resultsContainer.html($('<h1/>').text('Search results'));
                 $.each(result,function(i,e){
                     var $result = $('<div />');
                     $('<h2/>').append($('<a />', {href: e.href, text: e.name})).appendTo($result);
                     $('<div />').html(e.preview).appendTo($result);
-                    $result.appendTo($content);
+                    $result.appendTo($resultsContainer);
                 });
                 if (!result.length){
-                    $content.append($('<h2/>').text('Nothing to display'));
+                    $resultsContainer.append($('<h2/>').text('Nothing to display'));
                 }
+                $guideContent.html($resultsContainer);
             });
             return false;
         }

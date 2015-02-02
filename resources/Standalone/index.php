@@ -26,12 +26,14 @@ if ($q) {
     $result = $search->find( $query );
 
     foreach ($result as $hit) {
+        $title = strtolower(str_replace( '-', ' ', $hit->name ));
+
         $resultUrl = "/static/" . $hit->fileName;
         $output[]  = [
             'href' => $resultUrl,
-            'name' => $hit->name,
+            'name' => ucfirst( $title ),
             'preview' => $query->htmlFragmentHighlightMatches(
-                substr( preg_replace( "/\s+/", " ", $hit->body ), 0, 300 ) . '...'
+                substr( preg_replace( "/\s+|$title/i", " ", $hit->body ), 0, 300 ) . '...'
             ),
         ];
     }
