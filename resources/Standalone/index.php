@@ -1,10 +1,9 @@
 <?php
-require 'php/vendor/autoload.php';
+require 'vendor/autoload.php';
 
 use ZendSearch\Lucene\Lucene;
 use ZendSearch\Lucene\MultiSearcher;
 use ZendSearch\Lucene\Search\QueryParser;
-
 
 $stem = function ( $e ) {
     return \Porter::Stem( $e );
@@ -15,22 +14,26 @@ $q = htmlentities( $q );
 $q = implode( '+', array_map( $stem, explode( ' ', $q ) ) );
 
 
-//echo nl2br( $q . PHP_EOL );
+header( 'Content-Type: application/json' );
+$output = array();
 
 if ($q) {
-    $indexer = Lucene::open( 'static/_index' );
-    $search = new MultiSearcher( [ $indexer ] );
-    $query = QueryParser::parse( $q );
+
+    $indexer = Lucene::open( '../static/_index' );
+    $search  = new MultiSearcher( [ $indexer ] );
+    $query   = QueryParser::parse( $q );
 
     $result = $search->find( $query );
-//    echo 'Total ' . count( $result ) . ' ';
 
     foreach ($result as $hit) {
-        $resultUrl = "static/" . $hit->fileName;
-//        echo 'Rank: <b>' . $hit->score . '</b>' . PHP_EOL;
-        echo "<a href='$resultUrl'  > $hit->name</a>";
-//        $highlightedHTML = $query->highlightMatches( file_get_contents( $resultUrl ) );
-//        echo $highlightedHTML;
-        echo '<br/>';
+        $resultUrl = "/static/" . $hit->fileName;
+        $output[]  = [
+            'href' => $resultUrl,
+            'name' => $hit->name,
+            'preview' => $query->htmlFragmentHighlightMatches(
+                substr( preg_replace( "/\s+/", " ", $hit->body ), 0, 300 ) . '...'
+            ),
+        ];
     }
 }
+echo json_encode( $output );
