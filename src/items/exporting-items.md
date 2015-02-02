@@ -6,7 +6,7 @@
 [![Export Item Step 1](http://img.youtube.com/vi/Omdt_EI-ZRw/0.jpg)](http://www.youtube.com/watch?v=Omdt_EI-ZRw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/Omdt_EI-ZRw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Omdt_EI-ZRw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** Upon opening *Items* from the Assessment Builder Bar, either click on an existing item class (folder) in the Item Library panel, or click on the Item folder itself. In the Actions Bar, click New Class. 
 
@@ -16,7 +16,7 @@ Creating a new class, or a new folder, allows the user to place items in an orga
 [![Export Item Step 2](http://img.youtube.com/vi/z1t9Vgme2us/0.jpg)](http://www.youtube.com/watch?v=z1t9Vgme2us)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/z1t9Vgme2us?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/z1t9Vgme2us?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** In the Item Library, move the items to be transferred to the class.
 
@@ -26,7 +26,7 @@ This selects the items that will be exported.
 [![Export Item Step 3](http://img.youtube.com/vi/zzth1GiOgpI/0.jpg)](http://www.youtube.com/watch?v=zzth1GiOgpI)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/zzth1GiOgpI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/zzth1GiOgpI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** After clicking on the class select from the Actions Bar *Export*.
 
@@ -38,7 +38,7 @@ The pane that comes up on the canvas will ask that you confirm that the folder h
 [![Export Item Step 4](http://img.youtube.com/vi/5G_uMfvJeE0/0.jpg)](http://www.youtube.com/watch?v=5G_uMfvJeE0)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/5G_uMfvJeE0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/5G_uMfvJeE0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Select the location on which to export your item, and then save.
 

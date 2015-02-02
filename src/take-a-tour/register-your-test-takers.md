@@ -6,7 +6,7 @@
 [![Tour Register Test-takers Step 1](http://img.youtube.com/vi/KMdQLAZBZus/0.jpg)](http://www.youtube.com/watch?v=KMdQLAZBZus)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/KMdQLAZBZus?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/KMdQLAZBZus?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** In the Assessment Builder Bar, select Test-takers. 
 
@@ -16,7 +16,7 @@ This brings up in the Actions Bar, in addition to Properties and Export, icons f
 [![Tour Register Test-takers Step 2](http://img.youtube.com/vi/IyysK7UNDy8/0.jpg)](http://www.youtube.com/watch?v=IyysK7UNDy8)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/IyysK7UNDy8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/IyysK7UNDy8?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** In the Test-taker Library, click on a desired class, or on the Test-taker folder itself.
 
@@ -26,7 +26,7 @@ If a new class (folder) is required, click on New Class and rename the label (fo
 [![Tour Register Test-takers Step 3](http://img.youtube.com/vi/Kmhv2gV4ynw/0.jpg)](http://www.youtube.com/watch?v=Kmhv2gV4ynw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/Kmhv2gV4ynw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Kmhv2gV4ynw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** After clicking on the class within which the new Test-takers are to be stored, click *New Test-taker* to create new profiles.
 
@@ -36,7 +36,7 @@ This brings up the *Edit Subject* pane for a newly created Test-taker with eight
 [![Tour Register Test-takers Step 4](http://img.youtube.com/vi/8ATRWaWxGVI/0.jpg)](http://www.youtube.com/watch?v=8ATRWaWxGVI)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/8ATRWaWxGVI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/8ATRWaWxGVI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** To be complete, fill in the first four fields (despite the fact that they are not required).
 
@@ -46,7 +46,7 @@ The first field asks for a label, or profile name. This can be a good place to p
 [![Tour Register Test-takers Step 5](http://img.youtube.com/vi/-CQiKr6MCc8/0.jpg)](http://www.youtube.com/watch?v=-CQiKr6MCc8)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/-CQiKr6MCc8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/-CQiKr6MCc8?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 5:** Fill in all the required fields (the last four).
 

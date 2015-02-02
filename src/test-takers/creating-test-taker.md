@@ -6,7 +6,7 @@
 [![New Test-taker Step 1](http://img.youtube.com/vi/aXgQ4iRwJHc/0.jpg)](http://www.youtube.com/watch?v=aXgQ4iRwJHc)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/aXgQ4iRwJHc?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/aXgQ4iRwJHc?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** In the Assessment Builder Bar, select Test-takers (third from the left). In the Test-taker Library, click on a desired class, or on the Test-taker folder itself.
 
@@ -16,7 +16,7 @@ This brings up in the Actions Bar, in addition to Properties and Export, icons f
 [![New Test-taker Step 2](http://img.youtube.com/vi/x3UMNHLdGRE/0.jpg)](http://www.youtube.com/watch?v=x3UMNHLdGRE)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/x3UMNHLdGRE?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/x3UMNHLdGRE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** After clicking on the class within which the new test-takers are to be stored, click New Test-taker to create new profiles.
 
@@ -30,7 +30,7 @@ Required fields include those for the Interface Language (which includes Danish,
 [![New Test-taker Step 3](http://img.youtube.com/vi/M5K0vYrv0mM/0.jpg)](http://www.youtube.com/watch?v=M5K0vYrv0mM)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/M5K0vYrv0mM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/M5K0vYrv0mM?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Place test-taker in a group
 

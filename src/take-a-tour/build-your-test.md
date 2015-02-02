@@ -6,7 +6,7 @@
 [![Tour Build Test Step 1](http://img.youtube.com/vi/tFXuuS5yljU/0.jpg)](http://www.youtube.com/watch?v=tFXuuS5yljU)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/tFXuuS5yljU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/tFXuuS5yljU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** In TAO's Assessment Builder Bar, select Items and examine the test Items that are available for your pop-quiz.
 
@@ -16,7 +16,7 @@ If you do not have enough ready-to-go Items, then you will need to create new on
 [![Tour Build Test Step 2](http://img.youtube.com/vi/xDbWs9ROr8A/0.jpg)](http://www.youtube.com/watch?v=xDbWs9ROr8A)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/xDbWs9ROr8A?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/xDbWs9ROr8A?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Going back to TAO's Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
@@ -26,7 +26,7 @@ This brings up in the blue Actions Bar, among other icons, an icon to create a n
 [![Tour Build Test Step 3](http://img.youtube.com/vi/ptcB7ik--BI/0.jpg)](http://www.youtube.com/watch?v=ptcB7ik--BI)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/ptcB7ik--BI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/ptcB7ik--BI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Click New Test in the Action Bar to create a new test.
 
@@ -36,7 +36,7 @@ This brings up a *Test Properties* pane where you can rename the *label* (file n
 [![Tour Build Test Step 4](http://img.youtube.com/vi/J_bqV9gUJQw/0.jpg)](http://www.youtube.com/watch?v=J_bqV9gUJQw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/J_bqV9gUJQw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/J_bqV9gUJQw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Click *Authoring* to insert Items into Test.
 
@@ -48,7 +48,7 @@ Tip -> Tests can be divided on two subordinated levels: Test parts, and sections
 [![Tour Build Test Step 5](http://img.youtube.com/vi/w666kCCH4ek/0.jpg)](http://www.youtube.com/watch?v=w666kCCH4ek)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/w666kCCH4ek?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/w666kCCH4ek?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 5:** Add new sections by clicking on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
 
@@ -60,7 +60,7 @@ Tip -> At the start of any section, a *Rubric Block* or explanatory text can be 
 [![Tour Build Test Step 6](http://img.youtube.com/vi/YQn1QCUdRP0/0.jpg)](http://www.youtube.com/watch?v=YQn1QCUdRP0)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/YQn1QCUdRP0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/YQn1QCUdRP0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 6:** Add new items by selecting them from the Test Library.
 
@@ -74,7 +74,7 @@ Unwanted items can be deleted by clicking on the trash can icon. (Applying test 
 [![Tour Build Test Step 7](http://img.youtube.com/vi/F2A5F1qU7m0/0.jpg)](http://www.youtube.com/watch?v=F2A5F1qU7m0)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/F2A5F1qU7m0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/F2A5F1qU7m0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 7:** Determine which properties will need to be adjusted.
 
@@ -84,7 +84,7 @@ There are four levels in which properties may be assigned: Test level, Test part
 [![Tour Build Test Step 8](http://img.youtube.com/vi/8it7dF7JTBw/0.jpg)](http://www.youtube.com/watch?v=8it7dF7JTBw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/8it7dF7JTBw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/8it7dF7JTBw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 8:** Click on the test level properties icon.
 
@@ -96,7 +96,7 @@ Time limits set for the test can be added at the Item level, or at the test leve
 [![Tour Build Test Step 9](http://img.youtube.com/vi/6fIC7NnxMs4/0.jpg)](http://www.youtube.com/watch?v=6fIC7NnxMs4)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/6fIC7NnxMs4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/6fIC7NnxMs4?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 9:** Click on the test part level properties icon.
 
@@ -110,7 +110,7 @@ The time limits section is similar in nature to the time limits section for the 
 [![Tour Build Test Step 10](http://img.youtube.com/vi/NavKeD9nWSk/0.jpg)](http://www.youtube.com/watch?v=NavKeD9nWSk)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/NavKeD9nWSk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/NavKeD9nWSk?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 10:** Click on the section level properties icon.
 
@@ -124,7 +124,7 @@ Ordering contains only one property setting, and that is *Shuffle*, a function t
 [![Tour Build Test Step 11](http://img.youtube.com/vi/gSVwXtd8Ehw/0.jpg)](http://www.youtube.com/watch?v=gSVwXtd8Ehw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/gSVwXtd8Ehw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/gSVwXtd8Ehw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 11:** Click on the item level properties icon.
 
@@ -136,7 +136,7 @@ Identifier and references generally do not require modification. Categories act 
 [![Tour Build Test Step 12](http://img.youtube.com/vi/bhsAEpXGj54/0.jpg)](http://www.youtube.com/watch?v=bhsAEpXGj54)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/bhsAEpXGj54?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/bhsAEpXGj54?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 12:** Give your Test a trial run.
 

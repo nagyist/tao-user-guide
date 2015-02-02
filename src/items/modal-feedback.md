@@ -6,7 +6,7 @@
 [![Modal Feedback Step 1](http://img.youtube.com/vi/jeYTED8lvkE/0.jpg)](http://www.youtube.com/watch?v=jeYTED8lvkE)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/jeYTED8lvkE?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/jeYTED8lvkE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** In many of the interaction types, the option to select *Modal Feedback* will show itself in the Properties Panel. Where it does, click on the *Add a Modal Feedback* text.
 
@@ -16,7 +16,7 @@ This results in the opening of a modal feedback panel that sets an initial condi
 [![Modal Feedback Step 2](http://img.youtube.com/vi/C82pHLPsJaQ/0.jpg)](http://www.youtube.com/watch?v=C82pHLPsJaQ)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/C82pHLPsJaQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/C82pHLPsJaQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Populate the Modal Feedback "if-then-else" statement.
 
@@ -30,7 +30,7 @@ If an alternative feedback for the opposite condition is required, click the *Fe
 [![Modal Feedback Step 3](http://img.youtube.com/vi/U5YBwCoVCWU/0.jpg)](http://www.youtube.com/watch?v=U5YBwCoVCWU)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/U5YBwCoVCWU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/U5YBwCoVCWU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** If additional modal feedback is required, then click the *Add a Modal Feedback* hypertext below and enter in the conditions as done in the first Modal Feedback message.
 

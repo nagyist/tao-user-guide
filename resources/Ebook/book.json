@@ -12,7 +12,10 @@
     "include": [
       { "id":"ncx", "path":"toc.ncx" },
       "*.png",
+      "*.PNG",
       "*.jpg",
+      "*.JPG",
+      "*.JPEG",
       "*.jpeg",
       "style.css",
       "*.md"

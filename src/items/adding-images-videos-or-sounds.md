@@ -6,7 +6,7 @@
 [![Adding Images 1](http://img.youtube.com/vi/_20fajjhhrM/0.jpg)](http://www.youtube.com/watch?v=_20fajjhhrM)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/_20fajjhhrM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_20fajjhhrM?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 1:** All text blocks have a tab with an icon attached that governs changes to text. The icon is basically a capital letter *A*. Click on this icon.
@@ -17,7 +17,7 @@ This displays a menu bar with several icons. The first group changes the letteri
 [![Adding Images 2](http://img.youtube.com/vi/7_fmiOg_3Aw/0.jpg)](http://www.youtube.com/watch?v=7_fmiOg_3Aw)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/7_fmiOg_3Aw?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7_fmiOg_3Aw?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 2:** Click on the picture icon.
@@ -34,7 +34,7 @@ This allows you to navigate your computer system and find a desired still image 
 [![Adding Images 4](http://img.youtube.com/vi/b_HeSQlb3_k/0.jpg)](http://www.youtube.com/watch?v=b_HeSQlb3_k)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/b_HeSQlb3_k?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/b_HeSQlb3_k?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 4:** Click the green *Select* button.

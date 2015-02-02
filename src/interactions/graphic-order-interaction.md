@@ -8,7 +8,7 @@
 [![Graphic Order 0](http://img.youtube.com/vi/DboCR86C2W8/0.jpg)](http://www.youtube.com/watch?v=DboCR86C2W8)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/DboCR86C2W8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DboCR86C2W8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 >For the Graphic Order interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
@@ -17,7 +17,7 @@
 [![Graphic Order 1](http://img.youtube.com/vi/4KXKkF1vF1w/0.jpg)](http://www.youtube.com/watch?v=4KXKkF1vF1w)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/4KXKkF1vF1w?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4KXKkF1vF1w?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 1:** Fill in the question field. 
@@ -28,7 +28,7 @@ This should cover such important information as what the graphic represents, and
 [![Graphic Order 2](http://img.youtube.com/vi/2C0Aha4RRzQ/0.jpg)](http://www.youtube.com/watch?v=2C0Aha4RRzQ)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/2C0Aha4RRzQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/2C0Aha4RRzQ?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 2:** Insert the *Associable Hotspots* onto the graphic.
@@ -41,7 +41,7 @@ After the Hotspots are added in, the minimum and maximum number of choices that 
 [![Graphic Order 3](http://img.youtube.com/vi/gSflKVOC-QY/0.jpg)](http://www.youtube.com/watch?v=gSflKVOC-QY)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/gSflKVOC-QY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gSflKVOC-QY?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 3:** Click Response in the header bar to set the hot spots in the order required by the question.
@@ -52,7 +52,7 @@ This will bring up the same screen, but it is now possible to associate the nume
 [![Graphic Order 4](http://img.youtube.com/vi/wf9NnTPLKbM/0.jpg)](http://www.youtube.com/watch?v=wf9NnTPLKbM)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/wf9NnTPLKbM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wf9NnTPLKbM?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 4:** Associate the order numbers with the appropriate Hotspot.
@@ -63,7 +63,7 @@ To do this, click on the number, then the Hotspot. Repeat until all the numbers 
 [![Graphic Order 5](http://img.youtube.com/vi/tTZisygiBOc/0.jpg)](http://www.youtube.com/watch?v=tTZisygiBOc)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/tTZisygiBOc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tTZisygiBOc?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 5:** Click the blue *Done* button.

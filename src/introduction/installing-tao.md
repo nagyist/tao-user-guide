@@ -16,7 +16,7 @@ Doing this step will initiate the download. Select on your computer where you wa
 [![Install 2](http://img.youtube.com/vi/JROOkwVT9Rc/0.jpg)](http://www.youtube.com/watch?v=JROOkwVT9Rc)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/JROOkwVT9Rc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JROOkwVT9Rc?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 2:** When the selected extractable is downloaded, double-click on it to begin the extraction.

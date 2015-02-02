@@ -6,7 +6,7 @@
 [![Tour Create Item Step 1](http://img.youtube.com/vi/96uVjhCcrwQ/0.jpg)](http://www.youtube.com/watch?v=96uVjhCcrwQ)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/96uVjhCcrwQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/96uVjhCcrwQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** In the Assessment Assembly Bar, click the *Items* icon.
 
@@ -18,7 +18,7 @@ Questions and other forms of *interaction* are considered *item* components of l
 [![Tour Create Item Step 2](http://img.youtube.com/vi/xbDUFWBliZQ/0.jpg)](http://www.youtube.com/watch?v=xbDUFWBliZQ)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/xbDUFWBliZQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/xbDUFWBliZQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** In the *Library*, click the *class* or folder that the interaction (and associated test) applies. 
 
@@ -28,7 +28,7 @@ This will bring up a new Actions Bar that includes the following options: Proper
 [![Tour Create Item Step 3](http://img.youtube.com/vi/gYuZEpFxmB4/0.jpg)](http://www.youtube.com/watch?v=gYuZEpFxmB4)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/gYuZEpFxmB4?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/gYuZEpFxmB4?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Click on *New Item* in the Actions Bar.
 
@@ -38,7 +38,7 @@ This will bring up a new dialog box that gives you the option to name, or *label
 [![Tour Create Item Step 4](http://img.youtube.com/vi/yAEmnUk_Ub8/0.jpg)](http://www.youtube.com/watch?v=yAEmnUk_Ub8)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/yAEmnUk_Ub8?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/yAEmnUk_Ub8?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** After naming and selecting model type, save.
 
@@ -48,7 +48,7 @@ This produces an empty item that you can now populate with questions. Close the 
 [![Tour Create Item Step 5](http://img.youtube.com/vi/c3eh_nBKfJs/0.jpg)](http://www.youtube.com/watch?v=c3eh_nBKfJs)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/c3eh_nBKfJs?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/c3eh_nBKfJs?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 5:** In the Actions Bar, find the option that reads *Authoring* and click it.
 

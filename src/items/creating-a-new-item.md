@@ -8,7 +8,7 @@ There are more than 17 types of interactions that TAO will allow test-authors to
 [![New Item Step 1](http://img.youtube.com/vi/fF5eJjUOOhU/0.jpg)](http://www.youtube.com/watch?v=fF5eJjUOOhU)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/fF5eJjUOOhU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/fF5eJjUOOhU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** Click the *Items* icon.
 
@@ -19,7 +19,7 @@ This will bring you to the Items page, likely showing the last interaction in wh
 [![New Item Step 2](http://img.youtube.com/vi/wU4IIW1ArHY/0.jpg)](http://www.youtube.com/watch?v=wU4IIW1ArHY)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/wU4IIW1ArHY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/wU4IIW1ArHY?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** In the *Library*, click the *class* or folder that the interaction (and associated test) applies. 
 
@@ -30,7 +30,7 @@ This will bring up a new Actions Bar that includes the following options: Proper
 [![New Item Step 3](http://img.youtube.com/vi/b9Uo0ywR0r0/0.jpg)](http://www.youtube.com/watch?v=b9Uo0ywR0r0)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/b9Uo0ywR0r0?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/b9Uo0ywR0r0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Click on *New Item* in the Actions Bar.
 
@@ -41,7 +41,7 @@ This will bring up a new dialog box that gives you the option to name, or *label
 [![New Item Step 4](http://img.youtube.com/vi/q0vsz6ADm9M/0.jpg)](http://www.youtube.com/watch?v=q0vsz6ADm9M)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/q0vsz6ADm9M?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/q0vsz6ADm9M?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** After naming and selecting model type, save.
 
@@ -52,7 +52,7 @@ This produces an empty item that you can now populate with questions. Close the 
 [![New Item Step 5](http://img.youtube.com/vi/2nWShb6PK1E/0.jpg)](http://www.youtube.com/watch?v=2nWShb6PK1E)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/2nWShb6PK1E?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/2nWShb6PK1E?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 5:** In the Actions Subheader menu, find the option that reads *Authoring* and click it.
 

@@ -9,7 +9,7 @@ Previewing typically takes place after clicking *Done* for the completed interac
 [![Preview Step 1](http://img.youtube.com/vi/XYTAj88LSkw/0.jpg)](http://www.youtube.com/watch?v=XYTAj88LSkw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/XYTAj88LSkw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/XYTAj88LSkw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** On the Actions Bar, click *Preview*.
 
@@ -19,7 +19,7 @@ Clicking *Save* before *Preview* is certainly good practice, but it’s not comp
 [![Preview Step 2](http://img.youtube.com/vi/MdIpVao6VIQ/0.jpg)](http://www.youtube.com/watch?v=MdIpVao6VIQ)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/MdIpVao6VIQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/MdIpVao6VIQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Click the blue *Save* button in the pop-up window.
 
@@ -31,7 +31,7 @@ One example of an effective testing method begins with a review of the interacti
 [![Preview Step 3](http://img.youtube.com/vi/MxKBvj1onJw/0.jpg)](http://www.youtube.com/watch?v=MxKBvj1onJw)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/MxKBvj1onJw?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/MxKBvj1onJw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Once testing is completed, click the *Close* button at the top of the page.
 

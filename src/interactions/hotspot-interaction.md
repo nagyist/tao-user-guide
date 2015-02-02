@@ -8,7 +8,7 @@
 [![Hotspot Step 0](http://img.youtube.com/vi/wZbOP1maAaE/0.jpg)](http://www.youtube.com/watch?v=wZbOP1maAaE)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/wZbOP1maAaE?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/wZbOP1maAaE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 >For the Hotspot interaction, a new authoring window will appear with the graphic in the center of the canvas. Above the graphic will be a field for writing in the question associated with this interaction. To the left will be an Associable Hotspot Panel for inserting selected shapes that will represent *Associable Hotspots* into the graphic (these include four different shapes: rectangle, circle, oval, and polygon). Below the Hotspot Panel will be a trash can icon, which allows the user to delete a poorly-placed or misshaped Hotspot. Below the graphic is a gap match field for entering in answers (in the form of graphic elements).
 
@@ -16,7 +16,7 @@
 [![Hotspot Step 1](http://img.youtube.com/vi/dVmuYmAq7Pg/0.jpg)](http://www.youtube.com/watch?v=dVmuYmAq7Pg)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/dVmuYmAq7Pg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/dVmuYmAq7Pg?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** Fill in the question field. 
 
@@ -26,7 +26,7 @@ This should cover such important information as what the graphic represents, and
 [![Hotspot Step 2](http://img.youtube.com/vi/Mw5WgU5rC7U/0.jpg)](http://www.youtube.com/watch?v=Mw5WgU5rC7U)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/Mw5WgU5rC7U?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Mw5WgU5rC7U?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Insert the Associable Hotspots onto the graphic.
 
@@ -38,7 +38,7 @@ After the Hotspots are added in, the minimum and maximum number of choices that 
 [![Hotspot Step 3](http://img.youtube.com/vi/MQKgCL3uDTM/0.jpg)](http://www.youtube.com/watch?v=MQKgCL3uDTM)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/MQKgCL3uDTM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/MQKgCL3uDTM?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Click Response in the header bar to set the hot spots in the order required by the question.
 
@@ -48,7 +48,7 @@ This will bring up the same screen, but the Hotspots are now able to be assigned
 [![Hotspot Step 4](http://img.youtube.com/vi/7Qdv7SIb7DI/0.jpg)](http://www.youtube.com/watch?v=7Qdv7SIb7DI)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/7Qdv7SIb7DI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/7Qdv7SIb7DI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Based on the number of responses that the Test-taker can answer, assign scores or correct answers.
 
@@ -62,7 +62,7 @@ To assign scores to Hotspots, click on those that are considered correct answers
 [![Hotspot Step 5](http://img.youtube.com/vi/XamLaZabONU/0.jpg)](http://www.youtube.com/watch?v=XamLaZabONU)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/XamLaZabONU?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/XamLaZabONU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 5:** Click the blue *Done* button.
 

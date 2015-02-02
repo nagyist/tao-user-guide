@@ -6,7 +6,7 @@
 [![Import Items Step 1](http://img.youtube.com/vi/sCPzMEilB6k/0.jpg)](http://www.youtube.com/watch?v=sCPzMEilB6k)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/sCPzMEilB6k?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/sCPzMEilB6k?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** Upon opening *Items* from the Assessment Builder Bar, click on the Item class (folder) in its library. On the Actions Bar, click *Import*.
 
@@ -16,7 +16,7 @@ This opens a pane that asks, among the supported input formats (Open Web Item or
 [![Import Items Step 2](http://img.youtube.com/vi/Mq8oZWtNnVA/0.jpg)](http://www.youtube.com/watch?v=Mq8oZWtNnVA)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/Mq8oZWtNnVA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/Mq8oZWtNnVA?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Once the Item is selected, hit the blue Import button.
 

@@ -6,7 +6,7 @@
 [![Item Scoring Rules 1](http://img.youtube.com/vi/q6EWjxP5r1w/0.jpg)](http://www.youtube.com/watch?v=q6EWjxP5r1w)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/q6EWjxP5r1w?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/q6EWjxP5r1w?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 1:** While selecting responses (answers) for an interaction, look within the Response Properties panel for a pull-down choice box offering the two options of *Response Processing*: Match Correct and Map Response.
 
@@ -18,7 +18,7 @@
 [![Item Scoring Rules 2](http://img.youtube.com/vi/sYzuHZ9_WDI/0.jpg)](http://www.youtube.com/watch?v=sYzuHZ9_WDI)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/sYzuHZ9_WDI?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/sYzuHZ9_WDI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Select the Response Property that is appropriate for the question.
 
@@ -28,7 +28,7 @@ This is going to depend in large part on the preference of the test author, part
 [![Item Scoring Rules 3](http://img.youtube.com/vi/UbuAJ9GIXco/0.jpg)](http://www.youtube.com/watch?v=UbuAJ9GIXco)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/UbuAJ9GIXco?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/UbuAJ9GIXco?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** If Match Correct is selected, stop here - scoring for this interaction is complete. If Map Response is selected, review the responses in the interaction and determine the scores to be assigned to potential responses.
 
@@ -38,7 +38,7 @@ This is where partial credit is given. Find within the interaction displayed in 
 [![Item Scoring Rules 4](http://img.youtube.com/vi/roNAc-YeTSA/0.jpg)](http://www.youtube.com/watch?v=roNAc-YeTSA)
 </div>
 
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/roNAc-YeTSA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube.com/embed/roNAc-YeTSA?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Within the Response Properties, review the Score Range fields.
 

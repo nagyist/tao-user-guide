@@ -7,7 +7,7 @@ Style sheets limitations as per Dieter’s article
 [![Style Editor 1](http://img.youtube.com/vi/zuusdJFRwUE/0.jpg)](http://www.youtube.com/watch?v=zuusdJFRwUE)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/zuusdJFRwUE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zuusdJFRwUE?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 1:**  To access the Style Editor, click on the Style Editor button in the Action Bar above the Properties Panel.
@@ -18,7 +18,7 @@ This will turn the Properties Panel into a Style Editor panel. There are two par
 [![Style Editor 2](http://img.youtube.com/vi/QL-vgTzw80E/0.jpg)](http://www.youtube.com/watch?v=QL-vgTzw80E)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/QL-vgTzw80E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QL-vgTzw80E?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 2:** If you have a style sheet ready for upload, click on the *Add Style Sheet* button. This will provide an interface similar to that of adding a graphic into a Graphic Interaction. In all other cases, if you will be editing styles in a way that is special for this Item only, focus on the Style Editor below.
@@ -31,7 +31,7 @@ The Style Editor, meanwhile, has three segments, governing: (1) color, (2) Font,
 [![Style Editor 3](http://img.youtube.com/vi/vl1JQdsV0jQ/0.jpg)](http://www.youtube.com/watch?v=vl1JQdsV0jQ)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/vl1JQdsV0jQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vl1JQdsV0jQ?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 3:** Adjust colors as you'd like them.
@@ -46,7 +46,7 @@ The four swatches cover specific parts of any Item and its interactions. The Bac
 [![Style Editor 4](http://img.youtube.com/vi/IaISn87vT5k/0.jpg)](http://www.youtube.com/watch?v=IaISn87vT5k)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/IaISn87vT5k?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/IaISn87vT5k?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 4:** Adjust fonts as you'd like them.
@@ -59,7 +59,7 @@ The other control allows Item authors to change the font size, pretty much to an
 [![Style Editor 5](http://img.youtube.com/vi/G7xLI5B5ffM/0.jpg)](http://www.youtube.com/watch?v=G7xLI5B5ffM)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/G7xLI5B5ffM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/G7xLI5B5ffM?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 5:** Item width is set so that it adapts to the width of the user's screen. It is highly recommended that you use this setting only.
@@ -70,7 +70,7 @@ Because the QTI standard requires the ability to set an Item width on screens, t
 [![Style Editor 6](http://img.youtube.com/vi/2d8Q677kc2k/0.jpg)](http://www.youtube.com/watch?v=2d8Q677kc2k)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/2d8Q677kc2k?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/2d8Q677kc2k?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 **Step 6:** If you don't like any of the settings you've selected, click on the eraser icon on the right of the control (the swatch or the text box), and the item will be restored to its default setting.
