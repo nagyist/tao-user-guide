@@ -2,7 +2,12 @@
 
 >There are currently two TAO installation packages available on the OAT server, one for Automatic Installation, and the other for Manual Installation. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of control by the institution for the data that is generated. Automatic installation involves setting up a permanent connection to TAO's own server, and affords greater ease of operations, leaving all technical issues to OAT.
 
-![Install 1][media_bma228]
+<div class="hidden-video">
+[![Install 1](http://img.youtube.com/vi/2CWMj2gye08/0.jpg)](http://www.youtube.com/watch?v=2CWMj2gye08)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/2CWMj2gye08?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
 **Step 1:** On the OAT download page, click on the package appropriate for the computer on which you'll be using TAO.
 

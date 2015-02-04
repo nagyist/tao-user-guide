@@ -24,7 +24,12 @@ This displays a menu bar with several icons. The first group changes the letteri
 
 This opens a window that provides access to the Resource Manager. This window consists of three panels. As with the main window, the left panel is a Library, the Resource Library. The middle panel serves as a list of pictures that are available within the highlighted Class in the Resource Library. The right panel provides a preview and properties. If your picture is already in the Resource Library, click on that picture and skip to Step 4. If it is not, then carry out Step 3.
 
-![Adding Images 3][media_bma225]
+<div class="hidden-video">
+[![Adding Images 3](http://img.youtube.com/vi/-dWxaJlWRYA/0.jpg)](http://www.youtube.com/watch?v=-dWxaJlWRYA)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/-dWxaJlWRYA?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
 **Step 3:** To add a new picture from your desktop, click the blue *Add file(s)* button. After that, click the blue *Browse...* button.
 
