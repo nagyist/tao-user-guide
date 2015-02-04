@@ -746,7 +746,7 @@ main .guide-content {
     margin-left: 5%;
     padding: 40px; }
 
-.embed-container {
+.embed-container, figure {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
@@ -754,7 +754,7 @@ main .guide-content {
     max-width: 100%;
 }
 
-.embed-container iframe, .embed-container object, .embed-container embed {
+.embed-container iframe, .embed-container object, .embed-container embed, figure img {
     position: absolute;
     top: 0;
     left: 0;
