@@ -22,10 +22,10 @@
     - { title: 'Item scoring rules', id: 'i_0018'}
     - { title: 'Modal feedback', id: 'i_0019'}
     - { title: 'Preview', id: 'i_0020'}
-    - { title: 'Customizing the item layout', id: 'i_0021'}
-    - { title: 'Control user access', id: 'i_0022'}
+#    - { title: 'Customizing the item layout', id: 'i_0021'}
+#    - { title: 'Control user access', id: 'i_0022'}
     - { title: 'Style Editor', id: 'i_0023'}
-    - { title: 'Applying themes', id: 'i_0024'}
+#    - { title: 'Applying themes', id: 'i_0024'}
     - { title: 'Lti admin', id: 'i_0073'}
     - { title: 'Lti teacher', id: 'i_0074'}
 'Interactions':
@@ -64,17 +64,17 @@
     - { title: 'Exporting deliveries', id: 'i_0053'}
 'Results':
     - { title: 'Exporting Results', id: 'i_0054'}
-    - { title: 'Generate Reports', id: 'i_0055'}
+#    - { title: 'Generate Reports', id: 'i_0055'}
 'Advanced features':
-    - { title: 'Advanced items', id: 'i_0056'}
+#    - { title: 'Advanced items', id: 'i_0056'}
     - { title: 'The CSS SDK', id: 'i_0057'}
-    - { title: 'Create branching tests', id: 'i_0058'}
+#    - { title: 'Create branching tests', id: 'i_0058'}
     - { title: 'User Management', id: 'i_0059'}
     - { title: 'Role Management', id: 'i_0060'}
-    - { title: 'Control user access', id: 'i_0061'}
+#    - { title: 'Control user access', id: 'i_0061'}
     - { title: 'Add an extension', id: 'i_0062'}
-    - { title: 'Ontology', id: 'i_0063'}
-    - { title: 'Branching Tests', id: 'i_0064'}
+#    - { title: 'Ontology', id: 'i_0063'}
+#    - { title: 'Branching Tests', id: 'i_0064'}
 #'FAQ':
 #    - { title: 'Installation', id: 'i_0065'}
 #    - { title: 'Items', id: 'i_0066'}

@@ -12,7 +12,12 @@ Other roles are specific to a particular function (such as LTI) or customized.
 
 The following steps are applicable to the assignment of managerial roles required by the *back office*.
 
-![Role Management 1][media_bma203]
+<div class="hidden-video">
+[![Role Management 1](http://img.youtube.com/vi/zTKiQDRDlS8/0.jpg)](http://www.youtube.com/watch?v=zTKiQDRDlS8)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/zTKiQDRDlS8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
 **Step 1:** Within the Assessment Builder Bar, select the icon for Users settings (two heads side-by-side). A pull-down menu will appear. Select *Manage Roles*.
 
