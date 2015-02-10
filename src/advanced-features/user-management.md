@@ -40,10 +40,10 @@ The following are typical mini-procedures that involve User Management:
 *Removing users:* Click on the *Manage Users* tab. Find the profile that you wish to remove. Click on the *Remove* button, and then after double-checking that you've clicked on the right line, confirm the removal in the resulting pop-up window.
 
 <div class="hidden-video">
-[![User Management 4](http://img.youtube.com/vi/zTKiQDRDlS8/0.jpg)](http://www.youtube.com/watch?v=zTKiQDRDlS8)
+[![User Management 4](http://img.youtube.com/vi/MGTrfNdzMCc​/0.jpg)](http://www.youtube.com/watch?v=MGTrfNdzMCc​)
 </div>
 <div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/zTKiQDRDlS8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://www.youtube.com/embed/MGTrfNdzMCc​?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
 *Customizing or editing access rights for different roles:* Click on the *Manage Access Rights* tab. In the resulting menu within the first column in the canvas area, select the role in which you wish to adjust. Review the Modules list in the second column. Check the appropriate boxes for those modules you want the role to access (or de-check those boxes you don't want the role to access any longer). 
