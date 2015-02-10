@@ -1,6 +1,6 @@
 # Style editor
 
->White, black, grey, and blue, all done up in a san-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an Item window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the CSS SDK.
+>White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an Item window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the CSS SDK.
 Style sheets limitations as per Dieter’s article
 
 <div class="hidden-video">
