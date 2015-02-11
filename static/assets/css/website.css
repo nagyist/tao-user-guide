@@ -673,6 +673,7 @@ header .sidebar h1 img {
     padding: 0px 0;
     display: block;
     box-sizing: content-box;
+    width: 220px; height: 111px;
     margin: auto; }
 header .search-area {
     display:none;
