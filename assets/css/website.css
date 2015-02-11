@@ -6,7 +6,7 @@ html {
     font-size: 62.5%;
     line-height: 1.4;
     box-sizing: border-box;
-    background: url(../img/forest-bg.jpg) no-repeat center center fixed;
+    background: url(../img/blue.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -670,11 +670,13 @@ header .sidebar {
 header .sidebar h1 {
     margin: 0; }
 header .sidebar h1 img {
-    padding: 20px 0;
+    padding: 0px 0;
     display: block;
     box-sizing: content-box;
+    width: 220px; height: 111px;
     margin: auto; }
 header .search-area {
+    display:none;
     -ms-order: 0;
     -webkit-order: 0;
     order: 0;
