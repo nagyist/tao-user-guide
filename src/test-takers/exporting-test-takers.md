@@ -18,7 +18,7 @@ Creating a new class, or a new folder, allows the user to place un-organized gro
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/J6htgEmbQfI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** In the Test-taker Library, move the items to be transferred to the class.
+**Step 2:** In the Test-taker Library, move the Test-takers to be transferred to the class.
 
 This selects the test-takers that will be exported.
 

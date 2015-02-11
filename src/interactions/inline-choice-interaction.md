@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/KNzARKo21-M?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
->This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section). In order to begin creating either an *Inline Choice* or *Text Entry* item, it is first necessary to select the Inline Interactions bar, and then drag the *Block* Item, represented by a letter *A* icon, out of the left-hand Library Panel and into the canvas area, dropping it into the blue text block that will appear. This will create a field in which text may be cut and pasted from a favorite source (a Word document or website, for instance), or typed in. 
+>This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section). In order to begin creating either an *Inline Choice* or *Text Entry* interaction, it is first necessary to select the Inline Interactions bar, and then drag the *Block* interaction, represented by a letter *A* icon, out of the left-hand Library Panel and into the canvas area, dropping it into the blue text block that will appear. This will create a field in which text may be cut and pasted from a favorite source (a Word document or website, for instance), or typed in. 
 
 <div class="hidden-video">
 [![Inline Choice Step 1](http://img.youtube.com/vi/oA4_llgOgtg/0.jpg)](http://www.youtube.com/watch?v=oA4_llgOgtg)

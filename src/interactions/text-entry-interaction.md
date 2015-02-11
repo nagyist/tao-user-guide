@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/5U8hUv7ZXKc?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-In order to begin creating either an *Inline Choice* or *Text Entry* item, it is first necessary to select the Inline Interactions bar, and then drag the *Block* Item, represented by a letter *A* icon, out of the left-hand Library Panel and into the canvas area, dropping it into the blue text block that will appear. This will create a field in which text may be cut and pasted from a favorite source (a Word document or website, for instance), or typed in. 
+In order to begin creating either an *Inline Choice* or *Text Entry* item, it is first necessary to select the Inline Interactions bar, and then drag the *Block* interaction, represented by a letter *A* icon, out of the left-hand Library Panel and into the canvas area, dropping it into the blue text block that will appear. This will create a field in which text may be cut and pasted from a favorite source (a Word document or website, for instance), or typed in. 
 
 <div class="hidden-video">
 [![Text Entry Step 1](http://img.youtube.com/vi/kT2rNUsAfb0/0.jpg)](http://www.youtube.com/watch?v=kT2rNUsAfb0)
@@ -26,7 +26,7 @@ This creates a pop-up window showing the blank to be adjusted. In the default Qu
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/uQ7Tunh64k0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** Click Response in the pop-up header.
+**Step 2:** Click Response in the interaction header.
 
 This opens the response entry window, in which you can enter in the correct answer. Note that the test author will need to produce an answer that the test-taker will be expected to exactly match, character-for-character, including spaces. The maximum size of an answer that can be entered into a single field is X characters. Repeat steps 1 and 2 until all the desired text entry blanks have been inserted into the text.
 

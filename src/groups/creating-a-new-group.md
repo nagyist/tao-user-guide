@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/ewgPpeRW2Ys?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 1:** In the Assessment Builder Bar, select Groups (fourth from the left). In the Groups Library, click on a desired class, or on the Groups folder itself.
+**Step 1:** In the Assessment Builder Bar, select Groups. In the Groups Library, click on a desired class, or on the Groups folder itself.
 
 This brings up in the Actions Bar, in addition to Properties, icons for new classes, new deliveries, export, and import. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly (do not get class confused with group – *class* in this instance means a folder, while a *group* can mean a class, section, or any other desired cohort of students). Otherwise, continue to the next step.
 

@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/aXgQ4iRwJHc?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 1:** In the Assessment Builder Bar, select Test-takers (third from the left). In the Test-taker Library, click on a desired class, or on the Test-taker folder itself.
+**Step 1:** In the Assessment Builder Bar, select Test-takers. In the Test-taker Library, click on a desired class, or on the Test-taker folder itself.
 
 This brings up in the Actions Bar, in addition to Properties and Export, icons for new classes, new test-takers, and imports. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
 
@@ -18,7 +18,7 @@ This brings up in the Actions Bar, in addition to Properties and Export, icons f
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/x3UMNHLdGRE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** After clicking on the class within which the new test-takers are to be stored, click New Test-taker to create new profiles.
+**Step 2:** After clicking on the class within which the new Test-takers are to be stored, click New Test-taker to create new profiles.
 
 This brings up an *Edit Subject* pane for a newly created test-taker with eight fields to fill in. The first four fields may be left untouched, while the last four require input before hitting the blue *Save* button below. However, entering in as much information as possible is recommended.
 
@@ -32,6 +32,6 @@ Required fields include those for the Interface Language (which includes Danish,
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/M5K0vYrv0mM?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 3:** Place test-taker in a group
+**Step 3:** Place Test-taker in a group
 
 This can also be done from within the Groups section, but for convenience, it is possible to select an existing group in the *Add to group* pane on the right, and associate the test-taker with that group by clicking (placing a check mark) on it. Click the blue *Save* button at the bottom of the pane to complete the assignment.

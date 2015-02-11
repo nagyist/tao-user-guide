@@ -20,7 +20,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/sYzuHZ9_WDI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** Select the Response Property that is appropriate for the question.
+**Step 2:** Select the Response Processing that is appropriate for the question.
 
 This is going to depend in large part on the preference of the test author, particularly with respect to partial credit.
 
@@ -40,7 +40,7 @@ This is where partial credit is given. Find within the interaction displayed in 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/roNAc-YeTSA?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** Within the Response Properties, review the Score Range fields.
+**Step 4:** Within the Response Properties panel, review the Score Range fields.
 
 It is here that minimum and maximum scores can be entered, setting these as the bounds by which the Test-taker can do no better or no worse in this interaction. Its use is optional. If the correct response involves selecting more than one response, the maximum should be set as the sum of anticipated scores. If only one response is expected, the maximum should equal that of the highest score. It should be noted that these can be set higher or lower to any arbitrary level, if required by the interaction author.
 

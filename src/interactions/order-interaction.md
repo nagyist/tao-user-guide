@@ -1,6 +1,6 @@
 # Order Interaction
 
->The Order item gives test-takers the opportunity to demonstrate knowledge of a particular order of elements. These can include chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
+>The Order interaction gives Test-takers the opportunity to demonstrate knowledge of a particular order of elements. These can include chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
 <div class="hidden-video">
 [![Order Step 1](http://img.youtube.com/vi/785fdX45DBU/0.jpg)](http://www.youtube.com/watch?v=785fdX45DBU)
@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/785fdX45DBU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 1:** From the Common Interactions menu in the Library Panel, drag the *Order* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
+**Step 1:** From the Common Interactions menu in the Library Panel, drag the *Order* icon onto the blank Item and drop the resulting box in the blue field that appears when the interaction is dragged over it.
 
 This creates a new Order Interaction window. There will be a field for placing in a question at the top, and two side-by-side panels, the left of which provides fields for the options to be placed in an appropriate order.
 
@@ -20,7 +20,7 @@ This creates a new Order Interaction window. There will be a field for placing i
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the test-taker ("Place the following in chronological order", etc.).
+This will describe the task given to the Test-taker ("Place the following in chronological order", etc.).
 
 <div class="hidden-video">
 [![Order Step 3](http://img.youtube.com/vi/TKxpisbMans/0.jpg)](http://www.youtube.com/watch?v=TKxpisbMans)
@@ -38,7 +38,7 @@ Options may be added by clicking the blue *Add choice* field if three options is
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/2EfixkGFrtc?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** Fill in the answers after clicking *Response* in the blue item header.
+**Step 4:** Fill in the answers after clicking *Response* in the blue interaction header.
 
 To do this, click on each option in its correct order as requested by the question field.
 
@@ -50,4 +50,4 @@ To do this, click on each option in its correct order as requested by the questi
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Order item looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Order interaction looks like. For more on how to preview, review its section.

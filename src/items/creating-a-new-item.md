@@ -10,7 +10,7 @@ There are more than 17 types of interactions that TAO will allow test-authors to
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/fF5eJjUOOhU?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 1:** Click the *Items* icon.
+**Step 1:** Click the *Items* icon in the Assessment Builder Bar.
 
 This will bring you to the Items page, likely showing the last interaction in which you, or the user before you, edited. However, in this tour, you are creating a new Item.
 
@@ -54,6 +54,6 @@ This produces an empty item that you can now populate with questions. Close the 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/2nWShb6PK1E?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 5:** In the Actions Subheader menu, find the option that reads *Authoring* and click it.
+**Step 5:** In the Actions Bar, find the option that reads *Authoring* and click it.
 
 This will produce the empty Items page upon which you’ll place your interaction. Your focus should next rest on the *Library*, which shows as a default the *Common Interaction* catalogue. Below this are the *Inline Interactions* and *Graphic Interactions* and *Custom Interactions* catalogues. 

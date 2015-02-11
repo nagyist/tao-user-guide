@@ -1,6 +1,6 @@
 # Media Interaction
 
->The Media item allows the test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction item.
+>The Media item allows the test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
 
 <div class="hidden-video">
 [![Media Step 1](http://img.youtube.com/vi/X6gkm0td-ZQ/0.jpg)](http://www.youtube.com/watch?v=X6gkm0td-ZQ)
@@ -8,7 +8,7 @@
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/X6gkm0td-ZQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 1:** From the Common Interactions menu in the Library Panel, drag the *Media* icon onto the blank Item and drop the resulting box in the blue field that appears when the item is dragged over it.
+**Step 1:** From the Common Interactions menu in the Library Panel, drag the *Media* icon onto the blank Item and drop the resulting box in the blue field that appears when the interaction is dragged over it.
 
 This creates a Resource Manager upload window, through which the test author may select a media file that is already in the resource library, or upload to the library a new media file from elsewhere on that user's personal computer (note that size and file type restrictions apply). Alternatively, the user may close out of this resource window and in the Interaction Properties panel set in the web address of an online video or audio resource (such as in YouTube, etc.).
 
@@ -40,9 +40,9 @@ These property options will affect how the test-taker views the media object whi
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/rFkJMNsaYwE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** If desired, add a further interaction below the media item.
+**Step 4:** If desired, add a further interaction below the Media interaction.
 
-Usually, a media item is used to present a film or sound clip, from which a series of questions may be added. To do this, drag the appropriate other Item from the Interactions menu on the right.
+Usually, a Media interaction is used to present a film or sound clip, from which a series of questions may be added. To do this, drag the appropriate other interaction from the menu on the right.
 
 <div class="hidden-video">
 [![Media Step 5](http://img.youtube.com/vi/XSdtnWnAQLg/0.jpg)](http://www.youtube.com/watch?v=XSdtnWnAQLg)
