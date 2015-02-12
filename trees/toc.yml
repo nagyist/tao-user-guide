@@ -67,7 +67,7 @@
 #    - { title: 'Generate Reports', id: 'i_0055'}
 'Advanced features':
 #    - { title: 'Advanced items', id: 'i_0056'}
-    - { title: 'The CSS SDK', id: 'i_0057'}
+    - { title: 'CSS SDK', id: 'i_0057'}
 #    - { title: 'Create branching tests', id: 'i_0058'}
     - { title: 'User Management', id: 'i_0059'}
     - { title: 'Role Management', id: 'i_0060'}

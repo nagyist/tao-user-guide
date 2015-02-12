@@ -1,7 +1,6 @@
 # Style editor
 
->White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an Item window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the CSS SDK.
-Style sheets limitations as per Dieter’s article
+>White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an interaction window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the CSS SDK.
 
 <div class="hidden-video">
 [![Style Editor 1](http://img.youtube.com/vi/zuusdJFRwUE/0.jpg)](http://www.youtube.com/watch?v=zuusdJFRwUE)
@@ -62,7 +61,7 @@ The other control allows Item authors to change the font size, pretty much to an
 <iframe src="https://www.youtube.com/embed/G7xLI5B5ffM?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-**Step 5:** Item width is set so that it adapts to the width of the user's screen. It is highly recommended that you use this setting only.
+**Step 5:** Item width is set so that it adapts to the width of the user's screen. It is highly recommended that you use not use this setting.
 
 Because the QTI standard requires the ability to set an Item width on screens, the option to set a width is made available on TAO. However, setting a width that doesn't adapt to screen size will mean that different sized computer screens may have problems with the setting. There really isn't a need to adjust this under normal test authoring situations.
 

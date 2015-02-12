@@ -1,6 +1,6 @@
 # Associate Interaction #
 
->The Associate Interaction Item demonstrates the test-taker's ability to match words or phrases that are associative with each other. 
+>The Associate Interaction demonstrates the Test-taker's ability to match words or phrases that are associative with each other. 
 
 <div class="hidden-video">
 [![Associate Step 1](http://img.youtube.com/vi/v1KteiYDXBM/0.jpg)](http://www.youtube.com/watch?v=v1KteiYDXBM)
@@ -28,7 +28,7 @@ This could be in the form of a question ("Which country goes with which capital 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/kkHjVc0mGvA?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 3:** Fill in the *answer tiles* for the question. If more than two are needed (as will often be the case), select *Add choice* however many times is needed to provide all the options to be made available for the test-taker.
+**Step 3:** Fill in the *answer tiles* for the question. If more than two are needed (as will often be the case), select *Add choice* however many times is needed to provide all the options to be made available for the Test-taker.
 
 Often the best strategy is to add the appropriate matches first (in the example above, the correct countries and capitals) in separate tiles, and then add the incorrect (unmatched) options after that. 
 
@@ -38,7 +38,7 @@ Often the best strategy is to add the appropriate matches first (in the example 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/XIVUegKKblw?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** Click Response in the Item Header to shift to Response mode.
+**Step 4:** Click Response in the interaction header to shift to Response mode.
 
 This will provide all the Option tiles created in the previous step, and the first associate pair to be filled in the next step.
 
@@ -50,7 +50,7 @@ This will provide all the Option tiles created in the previous step, and the fir
 
 **Step 5:** Click the first item to be associated, and then on the first box. Click its match (association), and then on the second box.
 
-This will provide the first set of correct responses, and open up the option to fill in a second set of associated items. Fill in all the correct associations, leaving unmatched the incorrect associations.
+This will provide the first set of correct responses, and open up the option to fill in a second set of associated elements. Fill in all the correct associations, leaving unmatched the incorrect associations.
 
 <div class="hidden-video">
 [![Associate Step 6](http://img.youtube.com/vi/6IA-YWpYDGY/0.jpg)](http://www.youtube.com/watch?v=6IA-YWpYDGY)
@@ -70,4 +70,4 @@ This will help disguise the matched pairs entered in for the question. If this i
 
 **Step 7:** Click the blue *Done* button.
 
-After this step, preview what your Associate item looks like using the steps given in the Preview instructions.
+After this step, preview what your Associate interaction looks like using the steps given in the Preview instructions.

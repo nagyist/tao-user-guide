@@ -68,7 +68,7 @@ Inside the TAO platform this is currently not possible. All external resources n
 <pre>
 // code has been shortened for readability
 html body div.qti-item {
-    background-image: url(data:;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCA⤸
+    background-image: url(data:;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCA
     YAAABWKLW/AAAAEUlEQVR42mNgYGD4z4AGMAUANfEC/pPYlKYAAAAASUVORK5CYII=);
 }
 </pre>

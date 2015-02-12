@@ -50,7 +50,7 @@ This will create a *magic wand* button that, if pressed, confirms that you want 
 
 **Step 5:** Click the *magic wand* button.
 
-This creates a gap in the text, and places its match into the field of match words. It's possible to repeat Steps 4 and 5 as many times as needed to adequately assess the Test-taker*s knowledge of the passage.
+This creates a gap in the text, and places its match into the field of match words. It's possible to repeat Steps 4 and 5 as many times as needed to adequately assess the Test-taker's knowledge of the passage.
 
 <div class="hidden-video">
 [![Gap Match Step 6](http://img.youtube.com/vi/Wr4WYyz8acs/0.jpg)](http://www.youtube.com/watch?v=Wr4WYyz8acs)
@@ -60,7 +60,7 @@ This creates a gap in the text, and places its match into the field of match wor
 
 **Step 6:** If desired, add extra options into the match words field by clicking the *add choice* button.
 
-Additional words placed into the field may prevent the successful use of the "process of elimination" test-taker strategy. The test author may add as many extra words as desired. In the Properties Panel to the left, be sure to hit the *Shuffle choices* box if the order in which the match words are presented is not important. This prevents Test-takers from successfully cheating or making guesses based on that order.
+Additional words placed into the field may prevent the successful use of the "process of elimination" Test-taker strategy. The test author may add as many extra words as desired. In the Properties Panel to the left, be sure to hit the *Shuffle choices* box if the order in which the match words are presented is not important. This prevents Test-takers from successfully cheating or making guesses based on that order.
 
 <div class="hidden-video">
 [![Gap Match Step 7](http://img.youtube.com/vi/BPGDgH_qg1Y/0.jpg)](http://www.youtube.com/watch?v=BPGDgH_qg1Y)
