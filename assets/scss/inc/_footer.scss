@@ -1,0 +1,28 @@
+@import "bootstrap";
+
+// Footer
+footer, .content-wrap:after {
+    // must be the same height as footer
+    // excl top/bottom padding
+    height: $footerHeight * 1px;
+}
+
+footer {
+    padding: 0 20px;
+    background: #24221e;
+    line-height: $footerHeight * 1px;
+    color: white(.5);
+    @include font-size(12);
+    .copyrights {
+        float: right;
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAYCAYAAAC7v6DJAAADbklEQVR42u1YDVMaMRCFAwrWDxQspaVaRkEoZ6UwoMChogW1gv//59DNzGMmbpPcJQfTzlRm3njmNtnNu2T3JYnEf/RbLpc/CC8SRom33+bII5si4ZCwQ9glvEN7/o288D4nhC7Iu8L/+4S7N/LC++QJp3juEKqEJmFg6pQilAh1gg+I54+E9AYnuIWAxXYpYKt4/wh53wgV/PVVxlnCd8IzcyRjTmiLia5hQhl8TbElngz+AgSedPDxYoFb9EnbOikbJqCCILgSg7gciLGZXLBK2hsmL2Pj4AthYelohWoMAicO/sY2K9CFPJsJ7GtWwAKBdoFbjUNhd+hIXl0aZ0roI2348DnT+Dyy8NEHpmyMR+ndCr5N8EkNKT1VTkMCHyrs7x3z0XtCg7BtiK+q2BXjvy6SUT05ERfS+x0EL7ArTain6PeZjZ1Gkj+Fn2SMOFuK1Z5mNnvQYV/FR4lDHgrnMcYr6Iw6bMDpShqgJHOCWhIxD3y1slTA309cKzSI4bFsS+/bCnJrLuSJRaBQG0INpLghzwNn0gC6pFqBTZO1z9DuGXJVoNFS54QbVu2fQHgXq5ePdYD+VUOsH2zIEx/EoADOwypRCe2XhoCuYFPi73TtDFvS6u06VniBIsa5Nth0LMmrG8Z6CiPvEO2BYZBr6dDM33nIc6ZJ76H/MAZxMnn3BptLS/JaJp/cmO/tY7T7hkF8SRu+Es1SkdH1/YWjnyotTEB8DkUphWpcxrbWkWdavWeW5JnS1Q03HjODgVRtVHlLtOVg09PJB1GxTYIamopLnZSl2C1KeUp1MvopnxQikpfU7Lr5H1pWfBmFYVk6pHdRNR/wvMpXBUW/OgtClPk7TOxaljIKbdmIoAeV5EkE9iB8Z6i+2ZBqGxguRVoopiL2gVKugKC5YmuVDBM5QJD8y+RiHMvOQ+x9E3kRfV6o1EFcoaxLkn3kgF3ksTJ0oeoM3LD02Vd8sLxmG9VNBcPCZ1MlP6T5feLaMMqgniL32WBoe3pAoKozch9k1bD1ZmHV1vLWKGwuI5fVl3EkcGB1ffPaZ8/Cz+UayPNQRNZLnjR4I+Id2zNWR5zzqodtswiRNidhBcPymDeNogtdJ5UFMSMmAR6x0k5cV5vh6r2GlRjAbwcH/Ix0GjliyDr6S+PQ35avomwvL34D/NUD46OusPYAAAAASUVORK5CYII=) no-repeat left center;
+        padding-left: 90px;
+    }
+    a {
+       color: white(.5);
+       padding: 0 20px;
+       &:hover {
+          color: white(.8);
+       }
+    }
+}

@@ -1,0 +1,39 @@
+//fonts
+$monospaceFont: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace;
+//$regularFont: 'Lucida Sans','Lucida Grande','Lucida Sans Unicode',sans-serif;
+//$regularFont: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+
+//$headingFont: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+
+//$headingFont: 'Yanone Kaffeesatz',sans-serif;
+$headingFont: montserratlight,sans-serif;
+$regularFont: 'Roboto',sans-serif;
+
+// colors
+$success: rgb(14, 145, 75);
+$info: rgb(14, 93, 145);
+$error: rgb(186, 18, 43);
+$warning: rgb(216, 174, 91);
+
+$taoColor: #c1152f;
+
+$borderColor: #666;
+$textColor: #083552;
+$textHighlight: #448799;
+
+$linkColor: $textHighlight;
+
+$gridGutter: 16;
+
+$blockHeight: 150;
+
+$menuColor: $textColor;
+$menuLightColor: #edf1f4;
+
+$iconBg: #d89e16;
+$iconHighlightBg: #cc0033;
+
+$footerHeight: 50;
+
+$naviLightBlue: #094a6f;
+$naviDarkBlue: #06324c;

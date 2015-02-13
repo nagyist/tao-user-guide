@@ -1,0 +1,152 @@
+@import "inc/bootstrap";
+@import "inc/base";
+@import "inc/grid";
+@import "inc/icons";
+@import "inc/montserrat";
+@import "inc/nav";
+@import "inc/footer";
+
+.sidebar {
+    @include simple-flex-box((100 / 6) * 1%);;
+    min-width: 220px;
+}
+
+header {
+    .sidebar {
+        background: white;
+        h1 {
+            margin: 0;
+            background: #0079c2;
+            position: relative;
+            img {
+                padding: 15px 0;
+                display: block;
+                box-sizing: content-box;
+                margin: auto;
+                width: 141px; 
+                height: 91px;
+                padding-right: 32px;
+            }
+            .user-guide {
+                display:block;
+                position: absolute;
+                -webkit-transform: rotate(270deg);
+                transform: rotate(270deg);
+                width: 121px;
+                color: white;
+                @include font-size(15);
+                text-align: center;
+                line-height: 32px;
+                background: black(.2);
+                top: 45px;
+                right: -44px;
+                letter-spacing: 1px;
+            }
+        }
+    }
+    .search-area {
+        @include simple-flex-box();
+        padding-top: 30px;
+        position: relative;
+        input {
+            border: 2px #fefefe solid;
+            @include border-radius(3);
+            background: #fefefe;
+            padding: 1px 20px 1px 5px;
+        }
+        button {
+            width: 24px;
+            height: 24px;
+            background: transparent;
+            display:inline-block;
+            overflow: hidden;
+            position: absolute;
+            top: 30px;
+            right: 0px;
+            .icon-search {
+                &:before { 
+                    @include font-size(11);                   
+                    padding-right: 200px; // hides actual button text
+                    padding-left: 5px;
+                    color: #666;
+                    position: relative;
+                    top: -1px;
+                    right: -1px;
+                }
+            }
+        }
+    }
+}
+
+.wrapper {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.content-wrap {
+    min-height: 100%;
+    // equal to footer height
+    margin-bottom:  $footerHeight * -1px;
+}
+
+.search-results {
+    div {
+        h2 {
+            font-size: 16px;
+            font-size: 1.6rem;
+            margin-top: 25px; 
+        }
+    }
+} 
+
+main {
+
+    @include simple-flex-box();
+    margin-bottom: $footerHeight * 1px;
+
+    .guide-content {
+        background: white(.9);
+        margin-left: 5%;
+        padding: 40px;
+    }
+
+}
+
+.embed-container, figure {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 80%;
+}
+
+.embed-container {
+    iframe, object, .embed-container embed, figure img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 80%;
+        height: 80%;
+    }
+}
+
+h1 {
+    color: $taoColor
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+blockquote {
+    padding: 10px 20px 0 20px;
+    margin: 0;
+    @include font-size(16);
+    font-style: italic;
+    p {
+        padding: 0;
+    }
+}
+
+
+//@import "inc/mediaqueries";
