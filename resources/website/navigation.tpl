@@ -1,8 +1,7 @@
 <nav class="sidebar">
-    <h1>
-        <ins class="icon-menu"></ins>
-        Menu
-    </h1>
+    <span class="menu">Menu
+              <span class="icon-arrow-down"></span>
+            </span>
     <ul>
         {loop="$tree"}
             <li  class=" {if="strpos($active, $value.attributes.href)===0"} active {/if} ">
