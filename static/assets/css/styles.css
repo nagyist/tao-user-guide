@@ -817,6 +817,12 @@ blockquote {
   blockquote + blockquote {
     padding-top: 0; }
 
+pre {
+  background: #ddd;
+  padding: 10px;
+  border: 1px #aaa solid;
+  margin: 10px; }
+
 @media only screen and (max-width: 1280px) {
   main {
     margin-right: 10px; }
