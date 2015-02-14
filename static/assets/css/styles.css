@@ -786,10 +786,13 @@ main {
   -ms-flex-item-align: stretch;
   -webkit-align-self: stretch;
   align-self: stretch;
-  max-width: 83.33333%;
-  -ms-flex: 0 0 83.33333%;
-  -webkit-flex: 0 0 83.33333%;
-  flex: 0 0 83.33333%;
+  max-width: auto;
+  -ms-flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  -ms-flex: 1 1;
+  -webkit-flex: 1 1;
+  flex: 1 1;
   margin-bottom: 50px;
   max-width: 1060px; }
   main .guide-content {

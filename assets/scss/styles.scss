@@ -101,7 +101,7 @@ header {
 
 main {
 
-    @include simple-flex-box(100 - (100 / 6) * 1%);
+    @include simple-flex-box();
     margin-bottom: $footerHeight * 1px;
     max-width: $mainWidth * 1px;
     .guide-content {
