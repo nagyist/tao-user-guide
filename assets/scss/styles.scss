@@ -7,8 +7,8 @@
 @import "inc/footer";
 
 .sidebar {
-    @include simple-flex-box((100 / 6) * 1%);;
-    min-width: 220px;
+    @include simple-flex-box((100 / 6) * 1%);
+    min-width: $sidebarWidth * 1px;
 }
 
 header {
@@ -16,7 +16,7 @@ header {
         background: white;
         h1 {
             margin: 0;
-            background: #0079c2;
+            background: #117dbb;
             position: relative;
             img {
                 padding: 15px 0;
@@ -79,7 +79,7 @@ header {
 }
 
 .wrapper {
-    max-width: 1280px;
+    max-width: $fullWidth * 1px;
     margin: auto;
 }
 
@@ -101,11 +101,11 @@ header {
 
 main {
 
-    @include simple-flex-box();
+    @include simple-flex-box(100 - (100 / 6) * 1%);
     margin-bottom: $footerHeight * 1px;
-
+    max-width: $mainWidth * 1px;
     .guide-content {
-        background: white(.9);
+        background: white(.95);
         margin-left: 5%;
         padding: 40px;
     }
@@ -117,17 +117,22 @@ main {
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .embed-container {
     iframe, object, .embed-container embed, figure img {
         position: absolute;
-        top: 0;
-        left: 0;
-        width: 80%;
-        height: 80%;
+        top: 5%;
+        left: 5%;
+        width: 90%;
+        height: 90%;
     }
+}
+
+img {
+    display:inline;
+    max-width: 90%;
 }
 
 h1 {
@@ -139,9 +144,9 @@ p {
 }
 
 blockquote {
-    padding: 10px 20px 0 20px;
+    padding: 10px 10px 0 10px;
     margin: 0;
-    @include font-size(16);
+    @include font-size(14);
     font-style: italic;
     p {
         padding: 0;

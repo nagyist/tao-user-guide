@@ -1,70 +1,85 @@
 @font-face {
-	font-family: 'userguide';
-	src:url('../fonts/userguide.eot?eygqi2');
-	src:url('../fonts/userguide.eot?#iefixeygqi2') format('embedded-opentype'),
-		url('../fonts/userguide.woff?ksjfwk') format('woff'),
-		url('../fonts/userguide.ttf?ksjfwk') format('truetype'),
-		url('../fonts/userguide.svg?ksjfwk#userguide') format('svg');
-	font-weight: normal;
-	font-style: normal;
-	
+    font-family: 'userguide';
+    src:url('../fonts/userguide.eot?-n0eepd');
+    src:url('../fonts/userguide.eot?#iefix-n0eepd') format('embedded-opentype'),
+        url('../fonts/userguide.woff?-n0eepd') format('woff'),
+        url('../fonts/userguide.ttf?-n0eepd') format('truetype'),
+        url('../fonts/userguide.svg?-n0eepd#userguide') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'userguide';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
+    font-family: 'userguide';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
 
-	/* Better Font Rendering =========== */
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-introduction:before {
+    content: "\e600";
 }
 
 .icon-arrow-down:before {
-    content: "\e600"; }
+    content: "\e601";
+}
 
 .icon-take-a-tour:before {
-    content: "\e601"; }
-
-.icon-introduction:before {
-    content: "\e602"; }
+    content: "\e602";
+}
 
 .icon-terminology:before {
-    content: "\e603"; }
+    content: "\e603";
+}
 
 .icon-appendix:before {
-    content: "\e604"; }
+    content: "\e604";
+}
 
 .icon-advanced-features:before {
-    content: "\e605"; }
+    content: "\e605";
+}
 
 .icon-search:before {
-    content: "\e606"; }
+    content: "\e606";
+}
 
 .icon-faq:before {
-    content: "\e607"; }
+    content: "\e607";
+}
 
 .icon-test-takers:before {
-    content: "\e608"; }
+    content: "\e608";
+}
 
 .icon-groups:before {
-    content: "\e609"; }
+    content: "\e609";
+}
 
 .icon-items:before {
-    content: "\e60a"; }
+    content: "\e60a";
+}
 
 .icon-tests:before {
-    content: "\e60b"; }
+    content: "\e60b";
+}
 
 .icon-deliveries:before {
-    content: "\e60c"; }
+    content: "\e60c";
+}
 
 .icon-results:before {
-    content: "\e60d"; }
+    content: "\e60d";
+}
 
 .icon-interactions:before {
-    content: "\e60e"; }
+    content: "\e60e";
+}
+
