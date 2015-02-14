@@ -534,30 +534,7 @@ nav {
   z-index: 1000;
   background: #083552 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAEUlEQVR42mNgYGD4z4AGMAUANfEC/pPYlKYAAAAASUVORK5CYII=); }
   nav .menu {
-    background: #d89e16;
-    color: white;
-    position: absolute;
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg);
-    line-height: 24px;
-    padding: 0 50px 0 30px;
-    top: 85px;
-    right: -70px;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-    display: none;
-    font-size: 14px;
-    font-size: 1.4rem; }
-    nav .menu .icon-arrow-down {
-      -webkit-transform: rotate(180deg);
-      transform: rotate(180deg);
-      position: relative;
-      display: block;
-      width: 16px;
-      line-height: 16px;
-      position: absolute;
-      right: 25px;
-      top: 6px; }
+    display: none; }
   nav li ul {
     opacity: 0; }
   nav li.active [class^="icon-"], nav li.active [class*=" icon-"] {
@@ -687,11 +664,11 @@ footer {
   -ms-flex-item-align: stretch;
   -webkit-align-self: stretch;
   align-self: stretch;
-  max-width: 16.66667%;
-  -ms-flex: 0 0 16.66667%;
-  -webkit-flex: 0 0 16.66667%;
-  flex: 0 0 16.66667%;
-  min-width: 220px; }
+  max-width: 220px;
+  -ms-flex: 0 0 220px;
+  -webkit-flex: 0 0 220px;
+  flex: 0 0 220px;
+  width: 220px; }
 
 header .sidebar {
   background: white; }
@@ -699,29 +676,29 @@ header .sidebar {
     margin: 0;
     background: #117dbb;
     position: relative; }
-    header .sidebar h1 img {
-      padding: 15px 0;
-      display: block;
-      box-sizing: content-box;
-      margin: auto;
-      width: 141px;
-      height: 91px;
-      padding-right: 32px; }
-    header .sidebar h1 .user-guide {
-      display: block;
-      position: absolute;
-      -webkit-transform: rotate(270deg);
-      transform: rotate(270deg);
-      width: 121px;
-      color: white;
-      font-size: 15px;
-      font-size: 1.5rem;
-      text-align: center;
-      line-height: 32px;
-      background: rgba(0, 0, 0, 0.2);
-      top: 45px;
-      right: -44px;
-      letter-spacing: 1px; }
+  header .sidebar img {
+    padding: 15px 0;
+    display: block;
+    box-sizing: content-box;
+    margin: auto;
+    width: 141px;
+    height: 91px;
+    padding-right: 32px; }
+  header .sidebar .user-guide {
+    display: block;
+    position: absolute;
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+    width: 121px;
+    color: white;
+    font-size: 15px;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 32px;
+    background: rgba(0, 0, 0, 0.2);
+    top: 45px;
+    right: -44px;
+    letter-spacing: 1px; }
 header .search-area {
   -ms-order: 0;
   -webkit-order: 0;
@@ -737,8 +714,9 @@ header .search-area {
   -ms-flex: 1 1;
   -webkit-flex: 1 1;
   flex: 1 1;
-  padding-top: 30px;
-  position: relative; }
+  padding-top: 30px; }
+  header .search-area form {
+    position: relative; }
   header .search-area input {
     border: 2px #fefefe solid;
     -moz-border-radius: 3px;
@@ -753,7 +731,7 @@ header .search-area {
     display: inline-block;
     overflow: hidden;
     position: absolute;
-    top: 30px;
+    top: 0;
     right: 0px; }
     header .search-area button .icon-search:before {
       font-size: 11px;
@@ -794,29 +772,32 @@ main {
   -webkit-flex: 1 1;
   flex: 1 1;
   margin-bottom: 50px;
-  max-width: 1060px; }
+  max-width: 1060px;
+  position: relative;
+  z-index: 100;
+  overflow: hidden; }
   main .guide-content {
     background: rgba(255, 255, 255, 0.95);
     margin-left: 5%;
     padding: 40px; }
 
-.embed-container, figure {
+.embed-container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   max-width: 100%; }
 
-.embed-container iframe, .embed-container object, .embed-container .embed-container embed, .embed-container figure img {
+.embed-container iframe, .embed-container object, .embed-container .embed-container embed {
   position: absolute;
   top: 5%;
   left: 5%;
   width: 90%;
   height: 90%; }
 
-img {
-  display: inline;
-  max-width: 90%; }
+figure {
+  width: 90%;
+  margin: auto; }
 
 h1 {
   color: #c1152f; }
@@ -831,4 +812,88 @@ blockquote {
   font-size: 1.4rem;
   font-style: italic; }
   blockquote p {
-    padding: 0; }
+    padding: 0;
+    margin: 0 0 10px 0; }
+  blockquote + blockquote {
+    padding-top: 0; }
+
+@media only screen and (max-width: 1280px) {
+  main {
+    margin-right: 10px; }
+
+  .search-area form {
+    position: relative;
+    margin-right: 10px; } }
+@media only screen and (max-width: 767px) {
+  header .sidebar {
+    width: 32px;
+    flex: none;
+    min-width: auto; }
+    header .sidebar img {
+      width: 0px; }
+
+  .clearfix.flex-area .sidebar {
+    width: 32px;
+    flex: none;
+    min-width: auto; }
+    .clearfix.flex-area .sidebar ul {
+      overflow: hidden; }
+      .clearfix.flex-area .sidebar ul .icon-arrow-down {
+        display: none; }
+      .clearfix.flex-area .sidebar ul a {
+        white-space: nowrap; }
+      .clearfix.flex-area .sidebar ul ul {
+        height: 0px;
+        overflow: hidden; }
+  .clearfix.flex-area .menu {
+    display: block;
+    background: #d89e16;
+    color: white;
+    position: absolute;
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+    line-height: 24px;
+    padding: 0 50px 0 30px;
+    top: 85px;
+    left: -13px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    font-size: 14px;
+    font-size: 1.4rem; }
+    .clearfix.flex-area .menu .icon-arrow-down {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+      position: relative;
+      display: block;
+      width: 16px;
+      line-height: 16px;
+      position: absolute;
+      right: 25px;
+      top: 6px; }
+
+  .navi-open header .sidebar {
+    width: 220px; }
+    .navi-open header .sidebar img {
+      width: auto; }
+  .navi-open .clearfix.flex-area .sidebar {
+    flex: none;
+    min-width: auto;
+    width: 220px; }
+    .navi-open .clearfix.flex-area .sidebar .active ul {
+      overflow: visible;
+      display: block;
+      height: auto !important; }
+      .navi-open .clearfix.flex-area .sidebar .active ul a {
+        white-space: normal; }
+      .navi-open .clearfix.flex-area .sidebar .active ul .icon-arrow-down {
+        display: block; }
+  .navi-open .clearfix.flex-area .menu {
+    display: block;
+    left: 174px; }
+    .navi-open .clearfix.flex-area .menu .icon-arrow-down {
+      -webkit-transform: rotate(180deg);
+      transform: rotate(180deg); }
+  .navi-open main {
+    margin-left: -188px; } }
+
+/*# sourceMappingURL=styles.css.map */

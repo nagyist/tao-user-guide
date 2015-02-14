@@ -7,8 +7,9 @@
 @import "inc/footer";
 
 .sidebar {
-    @include simple-flex-box((100 / 6) * 1%);
-    min-width: $sidebarWidth * 1px;
+    @include simple-flex-box($sidebarWidth * 1px);
+    width: $sidebarWidth * 1px;
+    //@include vendor-prefix(transition, width $menuSpeed, property);
 }
 
 header {
@@ -18,36 +19,38 @@ header {
             margin: 0;
             background: #117dbb;
             position: relative;
-            img {
-                padding: 15px 0;
-                display: block;
-                box-sizing: content-box;
-                margin: auto;
-                width: 141px; 
-                height: 91px;
-                padding-right: 32px;
-            }
-            .user-guide {
-                display:block;
-                position: absolute;
-                -webkit-transform: rotate(270deg);
-                transform: rotate(270deg);
-                width: 121px;
-                color: white;
-                @include font-size(15);
-                text-align: center;
-                line-height: 32px;
-                background: black(.2);
-                top: 45px;
-                right: -44px;
-                letter-spacing: 1px;
-            }
+        }
+        img {
+            padding: 15px 0;
+            display: block;
+            box-sizing: content-box;
+            margin: auto;
+            width: 141px; 
+            height: 91px;
+            padding-right: 32px;
+        }
+        .user-guide {
+            display:block;
+            position: absolute;
+            -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+            width: 121px;
+            color: white;
+            @include font-size(15);
+            text-align: center;
+            line-height: 32px;
+            background: black(.2);
+            top: 45px;
+            right: -44px;
+            letter-spacing: 1px;
         }
     }
     .search-area {
         @include simple-flex-box();
         padding-top: 30px;
-        position: relative;
+        form {
+            position: relative;
+        }
         input {
             border: 2px #fefefe solid;
             @include border-radius(3);
@@ -61,7 +64,7 @@ header {
             display:inline-block;
             overflow: hidden;
             position: absolute;
-            top: 30px;
+            top: 0;
             right: 0px;
             .icon-search {
                 &:before { 
@@ -99,11 +102,15 @@ header {
     }
 } 
 
-main {
 
+
+main {
     @include simple-flex-box();
     margin-bottom: $footerHeight * 1px;
     max-width: $mainWidth * 1px;
+    position: relative;
+    z-index: 100;
+    overflow: hidden;
     .guide-content {
         background: white(.95);
         margin-left: 5%;
@@ -112,7 +119,7 @@ main {
 
 }
 
-.embed-container, figure {
+.embed-container {
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
@@ -121,7 +128,7 @@ main {
 }
 
 .embed-container {
-    iframe, object, .embed-container embed, figure img {
+    iframe, object, .embed-container embed {
         position: absolute;
         top: 5%;
         left: 5%;
@@ -130,9 +137,10 @@ main {
     }
 }
 
-img {
-    display:inline;
-    max-width: 90%;
+
+figure {
+    width:90%;
+    margin:auto;
 }
 
 h1 {
@@ -150,8 +158,11 @@ blockquote {
     font-style: italic;
     p {
         padding: 0;
+        margin: 0 0 10px 0;
+    }
+    & + blockquote {
+        padding-top: 0;
     }
 }
 
-
-//@import "inc/mediaqueries";
+@import "inc/mediaqueries";

@@ -5,20 +5,6 @@
     var $window = $(window);
 
 
-    function hamburgerInit() {
-        var $nav = $('nav'),
-            $ul = $nav.find('ul');
-        if(!$nav.find('.icon-menu').is(':visible')){
-            return;
-        }
-        $nav.find('h1').on('click', function () {
-            $ul.slideToggle();
-        });
-        $nav.find('a, span').on('click', function () {
-            $ul.slideToggle();
-        });
-    }
-
     function navHeightInit() {
 
         var $nav = $('nav');
@@ -67,8 +53,16 @@
         $('.hidden-video').hide();
     }
 
+    function menuToggleInit() {
+        $('.menu').on('click', function() {
+            $('body').toggleClass('navi-open');
+        })
+    }
+
+
+
     hideFallbackVideo();
-    hamburgerInit();
+    menuToggleInit();
     navHeightInit();
     initSearch();
     $window.on('resize orientationchange', navHeightInit);
