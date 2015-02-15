@@ -830,7 +830,7 @@ pre {
   .search-area form {
     position: relative;
     margin-right: 10px; } }
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 767px) {
   header .sidebar {
     width: 32px;
     flex: none;
