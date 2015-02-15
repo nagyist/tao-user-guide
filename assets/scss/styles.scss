@@ -165,4 +165,11 @@ blockquote {
     }
 }
 
+pre {
+    background: #ddd;
+    padding: 10px;
+    border: 1px #aaa solid;
+    margin: 10px;
+}
+
 @import "inc/mediaqueries";
