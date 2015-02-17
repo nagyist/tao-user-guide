@@ -60,7 +60,7 @@ This will provide the first set of correct responses, and open up the option to 
 
 **Step 6:** In the Properties Panel, check the box instructing to *Shuffle Answers*. 
 
-This will help disguise the matched pairs entered in for the question. If this is not clicked, how you've entered the tiles in will be how they will appear to the test-taker.
+This will help disguise the matched pairs entered in for the question. If this is not clicked, how you've entered the tiles in will be how they will appear to the Test-taker.
 
 <div class="hidden-video">
 [![Associate Step 7](http://img.youtube.com/vi/gePcS1b0Hpk/0.jpg)](http://www.youtube.com/watch?v=gePcS1b0Hpk)
@@ -70,4 +70,4 @@ This will help disguise the matched pairs entered in for the question. If this i
 
 **Step 7:** Click the blue *Done* button.
 
-After this step, preview what your Associate interaction looks like using the steps given in the Preview instructions.
+After this step, preview what your Associate interaction looks like using the steps given in the [Preview instructions][i_0020].

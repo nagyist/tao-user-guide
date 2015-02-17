@@ -10,7 +10,7 @@
 
 **Step 1:** Upon opening *Tests* from the Assessment Builder Bar, either click on an existing Test class (folder) in the Test Library panel, or click on the Test folder itself. In the Actions Bar, click New Class. 
 
-Creating a new class, or a new folder, allows the user to place Tests in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says “Edit test class” in the canvas area, find the field marked *Label*. Here the Test class can be renamed, if desired.  Hitting the blue *Save* button will create the class.
+Creating a new class, or a new folder, allows the user to place Tests in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says *Edit test class* in the canvas area, find the field marked *Label*. Here the Test class can be renamed, if desired.  Hitting the blue *Save* button will create the class.
 
 <div class="hidden-video">
 [![Export Test Step 2](http://img.youtube.com/vi/5ZX8Hf3z-pI/0.jpg)](http://www.youtube.com/watch?v=5ZX8Hf3z-pI)
@@ -42,4 +42,4 @@ The pane that comes up on the canvas will ask that you confirm that the folder h
 
 **Step 4:** Select the location on which to export your Test, and then save.
 
-The Test will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is to import the Test onto the desired computer.
+The Test will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is to [import the Test onto the desired computer][i_0043].

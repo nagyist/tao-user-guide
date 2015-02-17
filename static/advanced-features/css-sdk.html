@@ -28,7 +28,7 @@
       </h1>
     </a>
 
-    <div class="search-area">
+    <div class="search-area" style="display: none;">
       <form class="rgt" action="/search">
         <input type="search" name="q" placeholder="Search the User Guide" />
         <button type="submit"><span class="icon-search"></span>Search</button>
@@ -324,7 +324,7 @@
                     <ul>
                         
                             <li><a href="../advanced-features/css-sdk.html" id="advanced-features-advanced-features-css-sdk"
-                                   class="active">CSS SDK</a></li>
+                                   class="">CSS SDK</a></li>
                         
                             <li><a href="../advanced-features/user-management.html" id="advanced-features-advanced-features-user-management"
                                    class="">User Management</a></li>
@@ -360,13 +360,13 @@
 <div class="guide-content">
   <h1 id="css-sdk">CSS SDK</h1>
   <blockquote>
-  <p>The TAO platform offers different ways to change the look of an Item. The Item Style Editor provides the means of customizing a small number of Items. The use of this tool is described more fully in its own section.</p>
+  <p>The TAO platform offers different ways to change the look of an Item. The Item Style Editor provides the means of customizing a small number of Items. The use of this tool is described more fully <a href="../items/style-editor.html">in its own section</a>.</p>
   </blockquote>
   <blockquote>
   <p>For larger numbers of Items, there is the Cascading Style Sheet Software Development Kit (CSS SDK). The CSS SDK is based on a set of files that use the same CSS selectors that are used inside TAO, and these allow you to easily overwrite the default theme. In future versions of TAO, OAT plans to expand this SDK to make easier the task of adding the same stylesheet to a large number of items.</p>
   </blockquote>
   <blockquote>
-  <p>The decision on whether to use the Item Style Editor or the CSS SDK depends on what the user is trying to achieve, and that person's prior knowledge of Cascading Style Sheets (CSS).</p>
+  <p>The decision on whether to use the <a href="../items/style-editor.html">Item Style Editor</a> or the CSS SDK depends on what the user is trying to achieve, and that person's prior knowledge of Cascading Style Sheets (CSS).</p>
   </blockquote>
   <h3 id="simple-design-modifications">Simple design modifications</h3>
   <p>For most simple changes, the test author is better off using the built-in Item Style Editor. This feature allows you to change colors within the Item's background, text, borders, and table headers. It also allows you to change font type and size, and, in accordance with QTI standards, to modify Item widths (though this latter feature isn't recommended, as within the TAO platform, Items are responsive, or rather they automatically adapt to the size of device you are using).</p>

@@ -35,7 +35,7 @@ This should cover such important information as what the graphic represents, and
 
 To place a rectangle, click on one corner and drag across the intended area the Hotspot is supposed to cover. To place a circle or oval, select its center and drag outward or inward until the Hotspot is at the right size. To place a polygon, begin at one corner, then click on each corner in succession until the Hotspot is completed. All the shapes can be edited, but if necessary, click on the problem Hotspot, then click the trash can to delete it, and then try again. 
 
-After the Hotspots are added in, the minimum and maximum number of choices that a test-taker can provide will need to be entered in the field located at the bottom of the Properties Panel. A minimum above zero requires that the Test-taker provide an answer to the question before moving off the interaction, while the maximum should be above zero in order that the Test-taker can provide at least one answer to the question.
+After the Hotspots are added in, the minimum and maximum number of choices that a Test-taker can provide will need to be entered in the field located at the bottom of the Properties Panel. A minimum above zero requires that the Test-taker provide an answer to the question before moving off the interaction, while the maximum should be above zero in order that the Test-taker can provide at least one answer to the question.
 
 <div class="hidden-video">
 [![Graphic Order 3](http://img.youtube.com/vi/gSflKVOC-QY/0.jpg)](http://www.youtube.com/watch?v=gSflKVOC-QY)
@@ -68,4 +68,4 @@ To do this, click on the number, then the Hotspot. Repeat until all the numbers 
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Order interaction looks like. For more on previewing, review its section.
+When this is done, you can preview what your Graphic Order interaction looks like. For more on previewing, [review its section][i_0020].

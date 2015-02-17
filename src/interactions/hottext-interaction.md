@@ -1,6 +1,6 @@
 # Hottext Interaction
 
->The Hottext interaction gives test-takers the opportunity to demonstrate knowledge by showing, among several selections within a body of text, a specific type of word or phrase (i.e., grammatically incorrect element, misspelling, main character in a story, capital city).
+>The Hottext interaction gives Test-takers the opportunity to demonstrate knowledge by showing, among several selections within a body of text, a specific type of word or phrase (i.e., grammatically incorrect element, misspelling, main character in a story, capital city).
 
 <div class="hidden-video">
 [![Hottext Step 1](http://img.youtube.com/vi/ljpxTiU49EA/0.jpg)](http://www.youtube.com/watch?v=ljpxTiU49EA)
@@ -50,7 +50,7 @@ This will create a Hottext element within the text. Typically, there will be one
 
 **Step 5:** Once all the Hottext fields are activated, set in the Properties Panel to the left the minimum number of answers the Test-taker can take, and the maximum.
 
-Setting the minimum to 0 allows the test-taker to skip the question. It is necessary to set the maximum to a number above zero to allow the Test-taker to provide an answer.
+Setting the minimum to 0 allows the Test-taker to skip the question. It is necessary to set the maximum to a number above zero to allow the Test-taker to provide an answer.
 
 <div class="hidden-video">
 [![Hottext Step 6](http://img.youtube.com/vi/OJsyf0WXON4/0.jpg)](http://www.youtube.com/watch?v=OJsyf0WXON4)
@@ -68,7 +68,7 @@ This will produce the same window, but the test author will be given the option 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/jsullMQ1Os0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 7:** In the Properties Panel, select the Response Processing to be used for this interaction.
+**Step 7:** In the Properties Panel, [select the Response Processing][i_0018] to be used for this interaction.
 
 There are two choices, *match correct* and *map response*. In the first choice, the Test-taker is expected to get everything right in order to receive credit for the answer. In the second choice, additional entries will be required for the *score range*. 
 
@@ -76,7 +76,7 @@ A minimum score that the Test-taker can receive must be selected, as must a maxi
 
 In the passage, for each correct response, the check box in front of the answer should be checked, and the weighted score should be entered in. Again, all scores should equal the maximum score if the full score weights are to be taken into consideration. 
 
-If modal feedback is desired for this interaction, it is possible to enter it at this point. For more details on how to do this, see the Modal Feedback section.
+If modal feedback is desired for this interaction, it is possible to enter it at this point. For more details on how to do this, [see the Modal Feedback section][i_0019].
 
 <div class="hidden-video">
 [![Hottext Step 8](http://img.youtube.com/vi/_EUwooalaHE/0.jpg)](http://www.youtube.com/watch?v=_EUwooalaHE)
@@ -86,4 +86,4 @@ If modal feedback is desired for this interaction, it is possible to enter it at
 
 **Step 8.** Click the blue *Done* button.
 
-When this is done, you can preview what your Hottext interaction looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Hottext interaction looks like. For more on how to preview, [review its section][i_0020].

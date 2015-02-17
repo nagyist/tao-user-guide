@@ -1,6 +1,6 @@
 # Gap Match Interaction
 
->The Gap Match item gives test-takers the opportunity to demonstrate knowledge in a manner similar to a normal Match interaction. The difference between the normal Match and a Gap Match, however, is that a set of match words are provided, to which some will fit into gaps within a selected text passage. In essence, this is a combination of a match Item and a "fill the gap" question. 
+>The Gap Match interaction gives Test-takers the opportunity to demonstrate knowledge in a manner similar to a normal Match interaction. The difference between the normal Match and a Gap Match, however, is that a set of match words are provided, to which some will fit into gaps within a selected text passage. In essence, this is a combination of a match interaction and a "fill the gap" question. 
 
 <div class="hidden-video">
 [![Gap Match Step 1](http://img.youtube.com/vi/PpGX81OUFao/0.jpg)](http://www.youtube.com/watch?v=PpGX81OUFao)
@@ -70,7 +70,7 @@ Additional words placed into the field may prevent the successful use of the "pr
 
 **Step 7:** Once the field of match words is adequately populated, click *Response* to select answers. To do this, click an appropriate match selection and then the space in which it is supposed to be placed.
 
-Fill all the gaps with their appropriate matches. If modal feedback is desirable for this interaction, you may enter it at this point. For more details on how to do this, see the *Modal Feedback* section.
+Fill all the gaps with their appropriate matches. If modal feedback is desirable for this interaction, you may enter it at this point. For more details on how to do this, [see the *Modal Feedback* section][i_0019].
 
 <div class="hidden-video">
 [![Gap Match Step 8](http://img.youtube.com/vi/Fy7_lz2DXdg/0.jpg)](http://www.youtube.com/watch?v=Fy7_lz2DXdg)
@@ -80,4 +80,4 @@ Fill all the gaps with their appropriate matches. If modal feedback is desirable
 
 **Step 8.** Click the blue *Done* button.
 
-When this is done, you can preview what your Gap Match interaction looks like. For more on previewing, review its section.
+When this is done, you can preview what your Gap Match interaction looks like. For more on previewing, [review its section][i_0020].

@@ -1,6 +1,6 @@
 # Media Interaction
 
->The Media item allows the test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
+>The Media interaction allows the Test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
 
 <div class="hidden-video">
 [![Media Step 1](http://img.youtube.com/vi/X6gkm0td-ZQ/0.jpg)](http://www.youtube.com/watch?v=X6gkm0td-ZQ)
@@ -22,7 +22,7 @@ Once a video or audio file is uploaded from the resource window, that window wil
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the test-taker ("View carefully the following film", "Listen to the inflections in the following sound bite", etc.).
+This will describe the task given to the Test-taker ("View carefully the following film", "Listen to the inflections in the following sound bite", etc.).
 
 <div class="hidden-video">
 [![Media Step 3](http://img.youtube.com/vi/Ac1qOD6iejM/0.jpg)](http://www.youtube.com/watch?v=Ac1qOD6iejM)
@@ -32,7 +32,7 @@ This will describe the task given to the test-taker ("View carefully the followi
 
 **Step 3:** In the Properties Panel, determine the size of the screen on which the video or audio will play, select if the media device should *autostart* (begin playing on opening the item), *loop* (play over and over again), and be allowed to pause, and if looped, how many times it should play through before stopping. 
 
-These property options will affect how the test-taker views the media object while it is playing.
+These property options will affect how the Test-taker views the media object while it is playing.
 
 <div class="hidden-video">
 [![Media Step 4](http://img.youtube.com/vi/rFkJMNsaYwE/0.jpg)](http://www.youtube.com/watch?v=rFkJMNsaYwE)
@@ -52,4 +52,4 @@ Usually, a Media interaction is used to present a film or sound clip, from which
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Media item looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Media item looks like. For more on how to preview, [review its section][i_0020].

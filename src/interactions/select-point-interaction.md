@@ -31,7 +31,7 @@ This should cover such important information as what the graphic represents, and
 
 **Step 2:** Determine if the question will be time dependent, and check if appropriate in the Interaction Properties window.
 
-Time dependence is useful for limiting the time in which a Test-taker has to get through interactions within the examination. This will be covered in greater detail in Deliveries.
+Time dependence is useful for limiting the time in which a Test-taker has to get through interactions within the examination. [This will be covered in greater detail in Test Settings][i_0045].
 
 <div class="hidden-video">
 [![Select Point Step 3](http://img.youtube.com/vi/xWB4R0unriM/0.jpg)](http://www.youtube.com/watch?v=xWB4R0unriM)
@@ -65,7 +65,7 @@ This interaction scores only using *Map Response* as a response processing metho
 
 Clicking on each Hotspot will bring up a small window asking what score should be assigned for selecting a point within it. Again, all potential sets of maximum scores should equal the maximum score for the item if the full score weight for each answer is to be taken into consideration. 
 
-If modal feedback is desired for this interaction, enter it at this point. For more details on how to do this, see the Modal Feedback section.
+If modal feedback is desired for this interaction, enter it at this point. For more details on how to do this, [see the Modal Feedback section][i_0019].
 
 <div class="hidden-video">
 [![Select Point Step 6](http://img.youtube.com/vi/AdCfMmsoWLU/0.jpg)](http://www.youtube.com/watch?v=AdCfMmsoWLU)
@@ -75,4 +75,4 @@ If modal feedback is desired for this interaction, enter it at this point. For m
 
 **Step 6:** Click the blue *Done* button.
 
-When this is done, you can preview what your Select Point interaction looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Select Point interaction looks like. For more on how to preview, [review its section][i_0020].

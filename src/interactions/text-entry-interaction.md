@@ -1,6 +1,6 @@
 # Text Entry Interaction
 
->Text Entry allows the test-taker to complete a "fill the blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section). 
+>Text Entry allows the Test-taker to complete a "fill the blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section). 
 
 <div class="hidden-video">
 [![Text Entry Step 0](http://img.youtube.com/vi/5U8hUv7ZXKc/0.jpg)](http://www.youtube.com/watch?v=5U8hUv7ZXKc)
@@ -18,7 +18,7 @@ In order to begin creating either an *Inline Choice* or *Text Entry* item, it is
 
 **Step 1:** Once the text is placed, create a Text Entry field by dragging from the Library Panel to a space next to where the test-taker will be expected to *fill the blank*.
 
-This creates a pop-up window showing the blank to be adjusted. In the default Question mode, no changes can be made to the blank, as the test-taker is expected to enter in the answer. However, a correct answer will need to be selected and this is done in the Response mode.
+This creates a pop-up window showing the blank to be adjusted. In the default Question mode, no changes can be made to the blank, as the Test-taker is expected to enter in the answer. However, a correct answer will need to be selected and this is done in the Response mode.
 
 <div class="hidden-video">
 [![Text Entry Step 2](http://img.youtube.com/vi/uQ7Tunh64k0/0.jpg)](http://www.youtube.com/watch?v=uQ7Tunh64k0)
@@ -28,7 +28,7 @@ This creates a pop-up window showing the blank to be adjusted. In the default Qu
 
 **Step 2:** Click Response in the interaction header.
 
-This opens the response entry window, in which you can enter in the correct answer. Note that the test author will need to produce an answer that the test-taker will be expected to exactly match, character-for-character, including spaces. The maximum size of an answer that can be entered into a single field is X characters. Repeat steps 1 and 2 until all the desired text entry blanks have been inserted into the text.
+This opens the response entry window, in which you can enter in the correct answer. Note that the test author will need to produce an answer that the test-taker will be expected to exactly match, character-for-character, including spaces. Repeat steps 1 and 2 until all the desired text entry blanks have been inserted into the text.
 
 <div class="hidden-video">
 [![Text Entry Step 3](http://img.youtube.com/vi/FcXU18fum7M/0.jpg)](http://www.youtube.com/watch?v=FcXU18fum7M)
@@ -48,7 +48,7 @@ This necessary step effectively completes the replacement of text by the Text En
 
 **Step 4:** Click anywhere outside of the Work Space. This will produce in the Properties Panel a check box that can be set if the interaction is to be time dependent (completed within a certain interval) by the test-taker. Check if this is the case.
 
-Time dependence is useful for limiting the time in which a test-taker has to get through interactions within the examination. This will be covered in greater detail in Deliveries. 
+Time dependence is useful for limiting the time in which a test-taker has to get through interactions within the examination. [This will be covered in greater detail in Test Settings][i_0045]. 
 
 <div class="hidden-video">
 [![Text Entry Step 5](http://img.youtube.com/vi/zxitkKbixnk/0.jpg)](http://www.youtube.com/watch?v=zxitkKbixnk)
@@ -58,4 +58,4 @@ Time dependence is useful for limiting the time in which a test-taker has to get
 
 **Step 5:** Click the blue *Done* button to finish editing.
 
-When this is done, you can preview what your Text Entry item looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Text Entry item looks like. For more on how to preview, [review its section][i_0020].

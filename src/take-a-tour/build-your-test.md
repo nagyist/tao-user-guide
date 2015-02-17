@@ -10,7 +10,7 @@
 
 **Step 1:** In TAO's Assessment Builder Bar, select Items and examine the test Items that are available for your pop-quiz.
 
-If you do not have enough ready-to-go Items, then you will need to create new ones. Items are the building blocks of Tests assembled in TAO, but as with anything you assemble, there has to be enough of them, and they must cover everything you want to cover. Fortunately, TAO has plenty of easily-authored Item templates to work with. 
+If you do not have enough ready-to-go Items, then you will need [to create new ones][i_0008]. Items are the building blocks of Tests assembled in TAO, but as with anything you assemble, there has to be enough of them, and they must cover everything you want to cover. Fortunately, [TAO has plenty of easily-authored Item templates][i_0014] to work with. 
 
 <div class="hidden-video">
 [![Tour Build Test Step 2](http://img.youtube.com/vi/xDbWs9ROr8A/0.jpg)](http://www.youtube.com/watch?v=xDbWs9ROr8A)
@@ -20,7 +20,7 @@ If you do not have enough ready-to-go Items, then you will need to create new on
 
 **Step 2:** Going back to TAO's Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
-This brings up in the blue Actions Bar, among other icons, an icon to create a new test.
+This brings up in the blue Actions Bar, among other icons, an icon to create a new Test.
 
 <div class="hidden-video">
 [![Tour Build Test Step 3](http://img.youtube.com/vi/ptcB7ik--BI/0.jpg)](http://www.youtube.com/watch?v=ptcB7ik--BI)
@@ -28,7 +28,7 @@ This brings up in the blue Actions Bar, among other icons, an icon to create a n
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/ptcB7ik--BI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 3:** Click New Test in the Action Bar to create a new test.
+**Step 3:** Click New Test in the Action Bar to create a new Test.
 
 This brings up a *Test Properties* pane where you can rename the *label* (file name) of the test, and select between either the QTI 2.1 Test Driver or the alternative simple model (QTI is recommended). After completing test properties, hit *Save*. (It should be noted that at any time, the test assembly can be saved in order to preserve already completed work. Doing so every ten minutes is always a good habit.)
 
@@ -76,7 +76,7 @@ Unwanted items can be deleted by clicking on the trash can icon. (Applying test 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/F2A5F1qU7m0?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 7:** Determine which properties will need to be adjusted.
+**Step 7:** Determine which [properties will need to be adjusted][i_0045].
 
 There are four levels in which properties may be assigned: Test level, Test part level, Section level, and Item level. These properties will appear in the Properties panel when the appropriate properties icon (depicted as three interacting gears) is clicked upon. The test level properties icon will be found within the test bar at the top of the canvas. Test part level properties icons will be found in each darker test part bar, while section level properties icons will be found on the same line as the section label. Item level properties icons will be found next to the interaction’s label.
 

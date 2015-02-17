@@ -42,4 +42,4 @@ The pane that comes up on the canvas will ask that you confirm that the folder h
 
 **Step 4:** Select the location on which to export your item, and then save.
 
-The item will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is to import the item onto the desired computer.
+The item will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is [to import the item onto the desired computer][i_0015].

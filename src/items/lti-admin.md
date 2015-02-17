@@ -1,6 +1,6 @@
 # Setting up a TAO-Moodle delivery as an LTI Administrator
 
->Through the Learning Tool Interaction (LTI) standard set forth by IMS Global Learning Consortium, Moodle users can make use of TAO-designed tests and deliver them to students through the Moodle platform. Setting up the interface between TAO and Moodle takes only a couple steps to complete. However, you must have administrator privileges on both TAO and Moodle.
+>Through the [Learning Tool Interaction (LTI) standard set forth by IMS Global Learning Consortium](http://developers.imsglobal.org/), Moodle users can make use of TAO-designed tests and deliver them to students through the Moodle platform. Setting up the interface between TAO and Moodle takes only a couple steps to complete. However, you must have administrator privileges on both TAO and Moodle.
 
 **Step 1:** Ensure TAO is configured for LTI.
 

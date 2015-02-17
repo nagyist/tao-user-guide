@@ -1,6 +1,6 @@
 # Extended Text Interaction
 
->The Extended Text item provides the means of demonstrating the text-taker's ability to recite exactly a phrase, sentence, or passage. The test-taker is required to convey exactly an answer that can be of any length. 
+>The Extended Text interaction provides the means of demonstrating the Text-taker's ability to recite exactly a phrase, sentence, or passage. The Test-taker is required to convey exactly an answer that can be of any length. 
 
 <div class="hidden-video">
 [![Extended Text Step 1](http://img.youtube.com/vi/9ZanPWyCVKA/0.jpg)](http://www.youtube.com/watch?v=9ZanPWyCVKA)

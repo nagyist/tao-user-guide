@@ -58,12 +58,28 @@
         })
     }
 
+    function isExternal(url) {
+        var match = url.match(/^([^:\/?#]+:)?(?:\/\/([^\/?#]*))?([^?#]+)?(\?[^#]*)?(#.*)?/);
+        if (typeof match[1] === "string" && match[1].length > 0 && match[1].toLowerCase() !== location.protocol) return true;
+        if (typeof match[2] === "string" && match[2].length > 0 && match[2].replace(new RegExp(":("+{"http:":80,"https:":443}[location.protocol]+")?$"), "") !== location.host) return true;
+        return false;
+    }
 
+    //external links should be opened in new window
+    function parseLinks(){
+        $('a').each(function () {
+            if (isExternal(this.getAttribute('href'))) {
+                $(this).attr('target', '_blank');
+            }
+        })
+    }
 
     hideFallbackVideo();
     menuToggleInit();
     navHeightInit();
     initSearch();
+    parseLinks();
+
     $window.on('resize orientationchange', navHeightInit);
 
     $window.on('resize orientationchange', navHeightInit);

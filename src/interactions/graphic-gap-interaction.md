@@ -74,7 +74,7 @@ The resulting screen will now allow the test-author to select the correct associ
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/zp6joaONSgE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 6:** By default, the interaction will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the Response Processing drop-down window field to *map response*.
+**Step 6:** By default, the interaction will be set to require all answers to be correct before the interaction is marked correct (*match correct*). If partial credit is to be given for completing only some of the correct associations, in the Response Properties panel on the left, change the [Response Processing][i_0018] drop-down window field to *map response*.
 
 Once the Response Processing is set to *map response*, selected association will be listed in a new window labeled *Pair Scoring*. Each association should be scored according to their importance. For instance, if all associations have the same weight, assigning each a score of 1 would be sufficient. Where some associations are of greater importance than others, the more important ones should be scored higher. The higher the score for an association, the more weighted that particular correct answer.
 
@@ -86,4 +86,4 @@ Once the Response Processing is set to *map response*, selected association will
 
 **Step 7:** Click the blue *Done* button.
 
-When this is done, you can preview what your Graphic Gap interaction looks like. For more on previewing, review its section.
+When this is done, you can preview what your Graphic Gap interaction looks like. For more on previewing, [review its section][i_0020].

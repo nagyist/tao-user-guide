@@ -1,6 +1,6 @@
 # Executing a TAO delivery in Moodle as an LTI Teacher
 
->Learning Tool Interaction (LTI) standard is supported by TAO. As a result, Moodle users can make use of TAO-designed tests, delivering them to students through that platform. This allows test-creators to take advantage of the ease of using TAO and test administrators the familiarity of delivering through the popular Moodle platform. You must have Teacher privileges in Moodle and Test Delivery privileges in TAO. Also, TAO-Moodle interconnectivity must be set up prior to executing the delivery.
+>[Learning Tool Interaction (LTI) standard](http://developers.imsglobal.org/) is supported by TAO. As a result, Moodle users can make use of TAO-designed tests, delivering them to students through that platform. This allows test-creators to take advantage of the ease of using TAO and test administrators the familiarity of delivering through the popular Moodle platform. You must have Teacher privileges in Moodle and Test Delivery privileges in TAO. Also, TAO-Moodle interconnectivity must be set up prior to executing the delivery.
 
 **Step 1:** Complete creating a new delivery within TAO.
 

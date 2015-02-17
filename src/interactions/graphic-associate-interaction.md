@@ -40,11 +40,11 @@ To place a rectangle, click on one corner and drag across the intended area the 
 
 **Step 3:** Click *Response* to select associations between Hotspots (the answers)
 
-The first consideration here is how scoring will take place for this interaction. This is done through the Response Properties panel on the right. If the Test-taker will need to answer everything correct in order to achieve a score, then the test author will need to select *match correct* in the Properties panel, and then begin to select Hotspot pairs (first one, then the other, after which the pair will be connected by a line). 
+The first consideration here is how scoring will take place for this interaction. This is done by [selecting the appropriate Response Processing][i_0018] within the Response Properties panel on the right. If the Test-taker will need to answer everything correct in order to achieve a score, then the test author will need to select *match correct* in the Properties panel, and then begin to select Hotspot pairs (first one, then the other, after which the pair will be connected by a line). 
 
 If the Test-taker can obtain partial credit for getting some of the responses correct, then the test author will need to select *map response*. This will bring up a Pair Scoring panel below the graphic. To use this panel to assign scores to the selection of Associable Hotspot pairs, select pairs of Associable Hotspots where it asks to *Add new pairs*, and then click the blue *Add* button. This will create a line item that can then be scored according to the value of the answer. Everything can be scored with the same weight, or some associations can be scored much heavier than others.
 
-If modal feedback is desirable for this interaction, it is possible to enter it at this point. For more details on how to do this, see the *Modal Feedback* section.
+If modal feedback is desirable for this interaction, it is possible to enter it at this point. For more details on how to do this, [see the *Modal Feedback* section][i_0019].
 
 <div class="hidden-video">
 [![Graphic Associate Step 4](http://img.youtube.com/vi/vE0Pa4jmMf8/0.jpg)](http://www.youtube.com/watch?v=vE0Pa4jmMf8)
@@ -54,4 +54,4 @@ If modal feedback is desirable for this interaction, it is possible to enter it 
 
 **Step 4:** Click the blue *Done* button.
 
-Once finished, you can preview what your Graphic Associate interaction will looks like to the Test-taker. For more on previewing, review its section.
+Once finished, you can preview what your Graphic Associate interaction will looks like to the Test-taker. For more on previewing, [review its section][i_0020].

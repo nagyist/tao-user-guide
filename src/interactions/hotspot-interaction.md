@@ -52,7 +52,7 @@ This will bring up the same screen, but the Hotspots are now able to be assigned
 
 **Step 4:** Based on the number of responses that the Test-taker can answer, assign scores or correct answers.
 
-Within the Properties Panel, below the Response Identifier, is a field for selecting Response Processing. If *match correct* is selected, then the Test-taker will have to select all the correct Hotspots in order for the answer to be marked correct. If *map response* is selected, the Test-taker may receive partial credit for selecting part of the number of right Hotspots. If the latter is selected for response processing, then additional entries will be required for the *score range*. 
+Within the Properties Panel, below the Response Identifier, is a [field for selecting Response Processing][i_0018]. If *match correct* is selected, then the Test-taker will have to select all the correct Hotspots in order for the answer to be marked correct. If *map response* is selected, the Test-taker may receive partial credit for selecting part of the number of right Hotspots. If the latter is selected for response processing, then additional entries will be required for the *score range*. 
 
 A minimum score that the Test-taker can receive (default is 0) must be selected, as must a maximum score. Scores are assigned to each individual Hotspot, and if the weight assigned for each selection is to be reflected in the final score, the total for all correct selections should be entered as a maximum score a value equal to all these values. If the maximum is set to less, any score higher than the maximum will be set to the maximum. The same would be applicable to the minimum; if the score registered is less than this number, the point value will raise to the minimum. The map default is the point value given even if no correct answers are given by the Test-taker. *Define Correct Response* should be checked.
 
@@ -66,4 +66,4 @@ To assign scores to Hotspots, click on those that are considered correct answers
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Hotspot interaction looks like. For more on how to preview, review this function's section.
+When this is done, you can preview what your Hotspot interaction looks like. For more on how to preview, [review this function's section][i_0020].

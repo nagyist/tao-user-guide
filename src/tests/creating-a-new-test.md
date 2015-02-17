@@ -1,6 +1,6 @@
 # Creating a new test
 
->TAO defines a test as a collection of items designed to assess the academic progress of a test-taker. The approach allows for rapid assembly of tests administered across computer networks. If all you have is 30 minutes to create a 10-question quiz for your 8th grade class, TAO can help.
+>TAO defines a [Test][i_0006] as a collection of [Items][i_0005] designed to assess the academic progress of a Test-taker. The approach allows for rapid assembly of Tests administered across computer networks. If all you have is 30 minutes to create a 10-question quiz for your 8th grade class, TAO can help.
 
 <div class="hidden-video">
 [![New Test Step 1](http://img.youtube.com/vi/BagqFfj0Q5E/0.jpg)](http://www.youtube.com/watch?v=BagqFfj0Q5E)
@@ -30,13 +30,13 @@ This brings up a *Test Properties* pane that provides a chance to rename the *la
 
 **Step 3:** Click *Authoring* to insert Items into Test.
 
-This opens a three-part window: the Library contains available Items to place in the test, the canvas area contains the test assembly, and the Properties Panel  provides space where controls will appear if a properties icon (a picture of gears) is clicked. Naturally, the canvas, where items from the library are to be added to the assembled test, is arguably the most important part of this screen. 
+This opens a three-part window: the Library contains available Items to place in the Test, the canvas area contains the test assembly, and the Properties Panel  provides space where controls will appear if a properties icon (a picture of gears) is clicked. Naturally, the canvas, where items from the library are to be added to the assembled test, is arguably the most important part of this screen. 
 
-Tests can be divided on two subordinated levels: Test parts, and sections. A test part is the first tier division of a test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. To add new sections, click on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
+Tests can be divided on two subordinated levels: Test parts, and sections. A test part is the first tier division of a Test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. To add new sections, click on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
 
 At the start of any section, a *Rubric Block* or explanatory text can be entered in prior to insertion of interactions. To do this, click on the icon with the letter “A” in it, and then click on the blue *New Rubric Block* button that appears.
 
-Adding new items is almost as simple. In the Test Library, select the Item that will be needed, and then click on the light blue text block that reads *Add selected item(s) here*. Adding these in the order in which they are desired to appear on the delivered test is useful, but if an item is added out of order, the order can be corrected by clicking the upward or downward arrow buttons that appear after the properties icon behind the item. Unwanted items can be deleted by clicking on the trash can icon. (Applying test properties is covered in its own section.)
+Adding new items is almost as simple. In the Test Library, select the Item that will be needed, and then click on the light blue text block that reads *Add selected item(s) here*. Adding these in the order in which they are desired to appear on the delivered test is useful, but if an Item is added out of order, the order can be corrected by clicking the upward or downward arrow buttons that appear after the properties icon behind the Item. Unwanted Items that have been accidently selected can be deleted by clicking on the trash can icon. (Applying test properties [is covered in its own section][i_0045].)
 
 <div class="hidden-video">
 [![New Test Step 4](http://img.youtube.com/vi/jFny7GKpW68/0.jpg)](http://www.youtube.com/watch?v=jFny7GKpW68)
@@ -46,5 +46,5 @@ Adding new items is almost as simple. In the Test Library, select the Item that 
 
 **Step 4:** Adjust Property panel values as needed.
 
-Suggested methods for setting these are described in the Tests Settings section.
+Suggested methods for setting these are [described in the Tests Settings section][i_0045].
 
