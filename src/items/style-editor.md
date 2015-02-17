@@ -1,6 +1,10 @@
 # Style editor
 
+<<<<<<< HEAD
+>White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an Item window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, [refer to the CSS SDK section][i_0057].
+=======
 >White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an interaction window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the CSS SDK.
+>>>>>>> origin/master
 
 <div class="hidden-video">
 [![Style Editor 1](http://img.youtube.com/vi/zuusdJFRwUE/0.jpg)](http://www.youtube.com/watch?v=zuusdJFRwUE)
@@ -63,7 +67,7 @@ The other control allows Item authors to change the font size, pretty much to an
 
 **Step 5:** Item width is set so that it adapts to the width of the user's screen. It is highly recommended that you use not use this setting.
 
-Because the QTI standard requires the ability to set an Item width on screens, the option to set a width is made available on TAO. However, setting a width that doesn't adapt to screen size will mean that different sized computer screens may have problems with the setting. There really isn't a need to adjust this under normal test authoring situations.
+Some institutions prefer that students take tests only on specifically designated computers that have a specific screen width. In such cases, there is a theoretical advantage to set the screen width, and as such, TAO caters to such needs by presenting the option to set width on a given Item. However, for most schools, setting a width presents a significant disadvantage in that a width setting that doesn't adapt to screen size means different-sized computer screens will have problems properly displaying Items. In the vast majority of cases, under normal test authoring situations, there really isn't a need to set Items to a specific width. Where this is the case, it's very much to the user's advantage to use only the setting that allows the width of the Item to adapt to the Test-taker's screen.
 
 <div class="hidden-video">
 [![Style Editor 6](http://img.youtube.com/vi/2d8Q677kc2k/0.jpg)](http://www.youtube.com/watch?v=2d8Q677kc2k)
@@ -72,7 +76,7 @@ Because the QTI standard requires the ability to set an Item width on screens, t
 <iframe src="https://www.youtube.com/embed/2d8Q677kc2k?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-**Step 6:** If you don't like any of the settings you've selected, click on the eraser icon on the right of the control (the swatch or the text box), and the item will be restored to its default setting.
+**Step 6:** If you don't like any of the settings you've selected, click on the eraser icon on the right of the control (the swatch or the text box), and the Item will be restored to its default setting.
 
 This can be particularly useful if in playing around with the item, the end result turns out to be something wholly unreadable. Default settings are always a click away.
 

@@ -1,10 +1,10 @@
 # CSS SDK
 
->The TAO platform offers different ways to change the look of an Item. The Item Style Editor provides the means of customizing a small number of Items. The use of this tool is described more fully in its own section.
+>The TAO platform offers different ways to change the look of an Item. The Item Style Editor provides the means of customizing a small number of Items. The use of this tool is described more fully [in its own section][i_0023].
 
 >For larger numbers of Items, there is the Cascading Style Sheet Software Development Kit (CSS SDK). The CSS SDK is based on a set of files that use the same CSS selectors that are used inside TAO, and these allow you to easily overwrite the default theme. In future versions of TAO, OAT plans to expand this SDK to make easier the task of adding the same stylesheet to a large number of items.
 
->The decision on whether to use the Item Style Editor or the CSS SDK depends on what the user is trying to achieve, and that person's prior knowledge of Cascading Style Sheets (CSS).
+>The decision on whether to use the [Item Style Editor][i_0023] or the CSS SDK depends on what the user is trying to achieve, and that person's prior knowledge of Cascading Style Sheets (CSS).
 
 ### Simple design modifications
 

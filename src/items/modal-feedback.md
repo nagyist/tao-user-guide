@@ -34,4 +34,4 @@ If an alternative feedback for the opposite condition is required, click the *Fe
 
 **Step 3:** If additional modal feedback is required, then click the *Add a Modal Feedback* hypertext below and enter in the conditions as done in the first Modal Feedback message.
 
-Following the entry of the final feedback condition, you will want to preview the feedback. For that, review the entry for *Preview*.
+Following the entry of the final feedback condition, you will want to preview the feedback. For that, [review the entry for *Preview*][i_0020].

@@ -1,6 +1,6 @@
 # Exporting groups
 
->Formal groups of test-takers, such as laboratory sections or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal test-taker groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. The ability to share test-taker group profiles becomes convenient in just such a situation. Doing this takes only a few easy steps.
+>Formal groups of Test-takers, such as laboratory sections or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal Test-taker Groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. The ability to share test-taker group profiles becomes convenient in just such a situation. Doing this takes only a few easy steps.
 
 <div class="hidden-video">
 [![Export Group Step 1](http://img.youtube.com/vi/yoqqeOh-1BA/0.jpg)](http://www.youtube.com/watch?v=yoqqeOh-1BA)
@@ -10,7 +10,7 @@
 
 **Step 1:** Upon opening *Groups* from the Assessment Builder Bar, either click on an existing test-taker class (folder) in the Test-taker Library panel, or click on the Groups folder itself. In the Actions Bar, click New Class. 
 
-Creating a new class, or a new folder, allows the user to place items in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says “Edit group class” in the canvas area, find the field marked *Label*. Here the group class can be renamed, if desired.  Hitting the blue *Save* button will create the class.
+Creating a new class, or a new folder, allows the user to place items in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says “Edit group class” in the canvas area, find the field marked *Label*. Here the Group class can be renamed, if desired.  Hitting the blue *Save* button will create the class.
 
 <div class="hidden-video">
 [![Export Group Step 2](http://img.youtube.com/vi/PmT1DXY2Z3c/0.jpg)](http://www.youtube.com/watch?v=PmT1DXY2Z3c)
@@ -18,9 +18,9 @@ Creating a new class, or a new folder, allows the user to place items in an orga
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/PmT1DXY2Z3c?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** In the Group Library, move the items to be transferred to the class.
+**Step 2:** In the Group Library, move the Groups selected for transfer to the class.
 
-This selects the groups that will be exported.
+This selects the Groups that will be exported.
 
 <div class="hidden-video">
 [![Export Group Step 3](http://img.youtube.com/vi/cClMCb_LI7Y/0.jpg)](http://www.youtube.com/watch?v=cClMCb_LI7Y)
@@ -40,6 +40,6 @@ The pane that comes up on the canvas will ask that you confirm that the folder o
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/naLtcBbb_Hs?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** Select the location on which to export your group file, and then save.
+**Step 4:** Select the location on which to export your Group file, and then save.
 
-The group metadata will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is to import the item onto the desired computer.
+The Group metadata will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is [to import the Group file][i_0050] onto the desired computer.

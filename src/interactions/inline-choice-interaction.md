@@ -1,6 +1,6 @@
 # Inline Choice Interaction
 
->Inline Choice allows the test-taker to complete a “fill the blank” question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either block interaction).
+>Inline Choice allows the Test-taker to complete a “fill the blank” question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either block interaction).
 
 <div class="hidden-video">
 [![Inline Choice Step 0](http://img.youtube.com/vi/KNzARKo21-M/0.jpg)](http://www.youtube.com/watch?v=KNzARKo21-M)
@@ -28,9 +28,9 @@ Additionally, you'll notice above this in the Interaction Properties pull down f
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/SS8yVMOvTAk?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 2:** Click on each inline choice element, and in the Header bar of the resulting pop-up window, click *Response* to select the right answer.
+**Step 2:** Click on each Inline Choice element, and in the Header bar of the resulting pop-up window, click *Response* to select the right answer.
 
-This produces the same selection of options that the test-taker will see. Simply select the correct response to set the right answer.
+This produces the same selection of options that the Test-taker will see. Simply select the correct response to set the right answer.
 
 <div class="hidden-video">
 [![Inline Choice Step 3](http://img.youtube.com/vi/LVJmYjWxGJc/0.jpg)](http://www.youtube.com/watch?v=LVJmYjWxGJc)
@@ -48,9 +48,9 @@ This necessary step effectively completes the replacement of text by the Inline 
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/JziRzQE9Jrg?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 4:** Click anywhere outside of the Work Space. This will produce in the Properties Panel a check box that can be set if the interaction is to be time dependent (completed within a certain interval) by the test-taker. Check if this is the case.
+**Step 4:** Click anywhere outside of the Work Space. This will produce in the Properties Panel a check box that can be set if the interaction is to be time dependent (completed within a certain interval) by the Test-taker. Check if this is the case.
 
-Time dependence is useful for limiting the time in which a test-taker has to get through interactions within the examination. This will be covered in greater detail in Deliveries. 
+Time dependence is useful for limiting the time in which a Test-taker has to get through interactions within the examination. [This will be covered in greater detail in Test Settings][i_0045]. 
 
 <div class="hidden-video">
 [![Inline Choice Step 5](http://img.youtube.com/vi/6eInaifyCVQ/0.jpg)](http://www.youtube.com/watch?v=6eInaifyCVQ)
@@ -58,6 +58,6 @@ Time dependence is useful for limiting the time in which a test-taker has to get
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/6eInaifyCVQ?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 5:** Now you can click the preview option in the Action Bar to see what your Inline Choice item looks like.
+**Step 5:** Now you can click the preview option in the Action Bar to see what your Inline Choice interaction looks like.
 
-For more on how to preview, review its section.
+For more on how to preview, [review its section][i_0020].

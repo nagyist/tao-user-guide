@@ -50,4 +50,4 @@ To do this, click on each option in its correct order as requested by the questi
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Order interaction looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Order interaction looks like. For more on how to preview, [review its section][i_0020].

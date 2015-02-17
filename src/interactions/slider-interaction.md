@@ -42,7 +42,7 @@ By default, the lower and upper bounds are set for an answer that involves perce
 
 This provides access to the actual slider, so that the answer can be set. This is done by moving the indicator to the correct value.
 
-Response properties are set to *Match Correct* only, but modal feedback can be set for this interaction. If modal feedback is desired, more details on how to do this can be found in the Modal Feedback section.
+Response properties are set to *Match Correct* only, but modal feedback can be set for this interaction. If modal feedback is desired, [more details on how to do this can be found in the Modal Feedback section][i_0019].
 
 <div class="hidden-video">
 [![Slider Step 5](http://img.youtube.com/vi/xspzaY-yJM8/0.jpg)](http://www.youtube.com/watch?v=xspzaY-yJM8)
@@ -52,4 +52,4 @@ Response properties are set to *Match Correct* only, but modal feedback can be s
 
 **Step 5:** Click the blue *Done* button.
 
-When this is done, you can preview what your Slider interaction looks like. For more on how to preview, review its section.
+When this is done, you can preview what your Slider interaction looks like. For more on how to preview, [review its section][i_0020].

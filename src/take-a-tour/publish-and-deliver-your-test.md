@@ -1,6 +1,6 @@
 # Publish and deliver your test
 
->You've just assembled your pop-quiz, and it's just an hour before the start of the day. You've only a few minutes to get this test assigned to your class before preparing to face your first lecture session of the day. TAO saves the day through its assembled delivery system. Assembled deliveries govern when and how long a test will be taken by selected individual or groups of Test-takers. Fortunately, they take only a few moments to put together.
+>You've just assembled your pop-quiz, and it's just an hour before the start of the day. You've only a few minutes to get this test assigned to your class before preparing to face your first lecture session of the day. TAO saves the day through its assembled delivery system. Assembled deliveries govern when and how long a Test will be taken by selected individual or groups of Test-takers. Fortunately, they take only a few moments to put together.
 
 <div class="hidden-video">
 [![Tour Deliver Test Step 1](http://img.youtube.com/vi/6q4bKuQc0b0/0.jpg)](http://www.youtube.com/watch?v=6q4bKuQc0b0)

@@ -1,6 +1,6 @@
 # Importing items
 
->Interactions can be taken from any computer and imported onto any other computer that also has access to TAO. This is done through a specific operation called *Import*.
+>Interactions can be [taken from any computer][i_0016] and imported onto any other computer that also has access to TAO. This is done through a specific operation called *Import*.
 
 <div class="hidden-video">
 [![Import Items Step 1](http://img.youtube.com/vi/sCPzMEilB6k/0.jpg)](http://www.youtube.com/watch?v=sCPzMEilB6k)

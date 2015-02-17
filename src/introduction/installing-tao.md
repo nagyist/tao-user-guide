@@ -9,7 +9,7 @@
 <iframe src="https://www.youtube.com/embed/2CWMj2gye08?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 
-**Step 1:** On the OAT download page, click on the package appropriate for the computer on which you'll be using TAO.
+**Step 1:** On the [OAT download page](http://www.taotesting.com/get-tao/official-tao-packages/), click on the package appropriate for the computer on which you'll be using TAO.
 
 Automatic Package, or *TAO 2.6.7 with server*: Downloads an executable extractable package 24.9 MB in size that expands to 182 MB.
 

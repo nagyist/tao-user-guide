@@ -1,6 +1,6 @@
 # Choice Interaction #
 
->Choice Interaction, most frequently referred to as the multiple choice question (MCQ), presents a test question type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where more test questions need to be fit into a shorter-duration exam period. Where time is of the essence is where this type of testing interaction is particularly useful.
+>Choice Interaction, most frequently referred to as the multiple choice question (MCQ), presents a Test question type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where more test questions need to be fit into a shorter-duration exam period. Where time is of the essence is where this type of testing interaction is particularly useful.
 
 <div class="hidden-video">
 [![Choice Step 1](http://img.youtube.com/vi/7tCAANj5yZY/0.jpg)](http://www.youtube.com/watch?v=7tCAANj5yZY)
@@ -58,7 +58,7 @@ Tips -> Realize that to use this option, you won't want to prefix answers with A
 
 <div class='embed-container'><iframe src="https://www.youtube.com/embed/THa-QzznrGk?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
-**Step 5.** Now to define the answer, on the interaction header, click on *Response* on the far right, (avoid clicking the trash can, as this will lead to deleting the item) 
+**Step 5.** Now to define the answer, on the interaction header, click on *Response* on the far right, (avoid clicking the trash can, as this will lead to deleting the interaction) 
 
 This activates options for setting the correct answer.
 
@@ -80,5 +80,5 @@ You can select more than one answer.
 
 **Step 7.** Click *Done* once you have finish your Choice interaction.
 
-To check that the question appears to the Test-takers as you want them to see it, review the *Preview* entry.
+To check that the question appears to the Test-takers as you want them to see it, [review the *Preview* entry][i_0020].
 

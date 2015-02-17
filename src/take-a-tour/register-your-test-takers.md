@@ -10,7 +10,7 @@
 
 **Step 1:** In the Assessment Builder Bar, select Test-takers. 
 
-This brings up in the Actions Bar, in addition to Properties and Export, icons for new classes, new test-takers, and imports.
+This brings up in the Actions Bar, in addition to Properties and Export, icons for new classes, new Test-takers, and imports.
 
 <div class="hidden-video">
 [![Tour Register Test-takers Step 2](http://img.youtube.com/vi/IyysK7UNDy8/0.jpg)](http://www.youtube.com/watch?v=IyysK7UNDy8)
@@ -50,4 +50,4 @@ The first field asks for a label, or profile name. This can be a good place to p
 
 **Step 5:** Fill in all the required fields (the last four).
 
-Required fields include those for the Interface Language (which includes Danish, English, French, Portuguese, and Swedish), an assigned login (must be unique in the system), and an assigned password (which is to be repeated in the fourth required field to ensure that it has been entered in as intended). Once these are entered in, hit the blue *Save* button. Repeat these steps for all members of your class.
+Required fields include those for the Interface Language (which includes Danish, English, French, Portuguese, and Swedish), an assigned login (must be unique in the system), and an assigned password (which is to be repeated in the fourth required field to ensure that it has been entered in as intended). Once these are entered in, hit the blue *Save* button. Repeat these steps for all members of your class, bearing in mind that the next step is [to organize them into Groups][i_0011].
