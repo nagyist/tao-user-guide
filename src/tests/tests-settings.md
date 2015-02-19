@@ -2,23 +2,11 @@
 
 >After [creating a new Test][i_0042], in most cases it will be necessary to set properties for the assessment and its parts. There are four levels in which properties may be assigned: Test level, Test part level, Section level, and Item level. These properties will appear in the Properties panel when the appropriate properties icon (depicted as three interacting gears) is clicked upon. The test level properties icon will be found within the test bar at the top of the canvas. Test part level properties icons will be found in each darker test part bar, while section level properties icons will be found on the same line as the section label. Item level properties icons will be found next to the interaction’s label.
 
-<div class="hidden-video">
-[![Test Settings Step 1](http://img.youtube.com/vi/C0DVnJzN-e8/0.jpg)](http://www.youtube.com/watch?v=C0DVnJzN-e8)
-</div>
-
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/C0DVnJzN-e8?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
-
 **Step 1:** Click on the test level properties icon.
 
 This brings up in the Properties panel two sections: one governing identifier and title, and the other governing time limits. The Identifier should, in general, be left alone, though this is editable. However, the Test Title can be renamed to make it easier for the test-taker to identify it.
 
 Time limits set for the test can be added at the Item level, or at the test level. To add a limit to the amount of time that the Test-taker has to submit all answers to the test, open the *Time Limits* panel, and enter in the maximum duration (in hours, minutes, and seconds). If a late submission will be accepted, click on the appropriate check mark. If the duration is to be strictly enforced (no late submissions allowed), leave this unmarked.
-
-<div class="hidden-video">
-[![Test Settings Step 2](http://img.youtube.com/vi/WOLid1SBDuI/0.jpg)](http://www.youtube.com/watch?v=WOLid1SBDuI)
-</div>
-
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/WOLid1SBDuI?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 2:** Click on the test part level properties icon.
 
@@ -28,8 +16,6 @@ In the item control section, four properties will need to be addressed. *Max Att
 
 The time limits section is similar in nature to the time limits section for the test level properties, except that the answers apply to the test part.
 
-![Test Settings Step 3][media_bma133]
-
 **Step 3:** Click on the section level properties icon.
 
 This brings up in the Properties panel five sections: general properties, selection properties, ordering, item session control, and time limits. The last two sections are the same as the last two portions of the test part properties, while the first three portions differ from previous levels. The general properties includes an identifier and title: the *Identifier* should generally be kept as defaulted, while the *Title* can be changed to suit the test. In general, the *Visible* checkmark should be checked (else the Test-taker won’t be able to see the section), and *Keep Together* should also be marked if completing the entire section before moving onto the next section is important.
@@ -37,12 +23,6 @@ This brings up in the Properties panel five sections: general properties, select
 The selection portion initially asks if the delivered test section should include only some of the Items assigned it (*Enable selection*), and if so, how many (*Select*). If *With Replacement* is selected while selection mode is enabled, then questions may end up repeated. Normally, they are only allowed to be used once in a test sitting.
 
 Ordering contains only one property setting, and that is *Shuffle*, a function that sets the question order randomly like shuffling a deck of cards.
-
-<div class="hidden-video">
-[![Test Settings Step 4](http://img.youtube.com/vi/is2-Dqhp-fE/0.jpg)](http://www.youtube.com/watch?v=is2-Dqhp-fE)
-</div>
-
-<div class='embed-container'><iframe src="https://www.youtube.com/embed/is2-Dqhp-fE?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Click on the item level properties icon.
 

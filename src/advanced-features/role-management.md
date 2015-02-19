@@ -12,34 +12,13 @@ Other roles are specific to a particular function (such as LTI) or customized.
 
 The following steps are applicable to the assignment of managerial roles required by the *back office*.
 
-<div class="hidden-video">
-[![Role Management 1](http://img.youtube.com/vi/zTKiQDRDlS8/0.jpg)](http://www.youtube.com/watch?v=zTKiQDRDlS8)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/zTKiQDRDlS8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
 **Step 1:** Within the Assessment Builder Bar, select the icon for Users settings (two heads side-by-side). A pull-down menu will appear. Select *Manage Roles*.
 
 Within the canvas, there will be two panels sitting side-by-side. The left panel shows a list of roles appropriate for your system settings. The right panel shows a list of users that are entered in your system, including Test-takers.
 
-<div class="hidden-video">
-[![Role Management 2](http://img.youtube.com/vi/Z5_Kspwn6yg/0.jpg)](http://www.youtube.com/watch?v=Z5_Kspwn6yg)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/Z5_Kspwn6yg?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
 **Step 2:** In the left panel, select either a single role, or a combination of roles intended to be grouped together. In the latter case, create a label (name) for this combination that is easy to remember. Ensure that this single role, or combination, as desired, is selected.
 
 This chooses the role to be assigned to the individual(s) who will be selected in the next step. If creating a combination role, click *Save* at the bottom to continue.
-
-<div class="hidden-video">
-[![Role Management 3](http://img.youtube.com/vi/SGTr2a_XILU/0.jpg)](http://www.youtube.com/watch?v=SGTr2a_XILU)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/SGTr2a_XILU?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 **Step 3:** In the right panel, select users who will be assigned to this selected role. When all the desired users are selected, click *Save*.
 

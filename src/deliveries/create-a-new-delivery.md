@@ -2,31 +2,13 @@
 
 >[Assembled deliveries][i_0007] provide the means of publishing and administering tests. These govern when and how long a Test will be taken by selected individual or groups of Test-takers. As such, putting together a delivery can take place only after creation of interactions, assembly of the Test to be delivered, creation of Test-taker profiles, and collection of Test-takers into formal Groups. All these play a part in putting together a Delivery.
 
-<div class="hidden-video">
-[![New Delivery Step 1](http://img.youtube.com/vi/VAGn4nxlYkY/0.jpg)](http://www.youtube.com/watch?v=VAGn4nxlYkY)
-</div>
-
-<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/VAGn4nxlYkY?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
-
 **Step 1:** In the Assessment Builder Bar, select Deliveries. In the Deliveries Library, click on a desired class, or on the Assembled Delivery folder itself.
 
 This brings up in the Actions Bar, in addition to Properties, icons for *New Class* and *New Delivery*. If a new class (folder) is required, click on New Class and rename the label (folder name) accordingly. Otherwise, continue to the next step.
 
-<div class="hidden-video">
-[![New Delivery Step 2](http://img.youtube.com/vi/GwT2Jm_Y3Mg/0.jpg)](http://www.youtube.com/watch?v=GwT2Jm_Y3Mg)
-</div>
-
-<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/GwT2Jm_Y3Mg?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
-
 **Step 2:** After clicking on the class within which the delivery is supposed to be stored, click New Delivery in the Action Bar to create a new delivery.
 
 This brings up a *Create a New Delivery* pane that asks for a test selection. From the pull-down menu, select the test that is to be sent to test-takers in this delivery. Once selected, click *Publish*.
-
-<div class="hidden-video">
-[![New Delivery Step 3](http://img.youtube.com/vi/XV2PGDDry-k/0.jpg)](http://www.youtube.com/watch?v=XV2PGDDry-k)
-</div>
-
-<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/XV2PGDDry-k?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 3:** Set delivery properties in the Properties pane.
 
@@ -37,12 +19,6 @@ Maximum number of executions: if left unfilled, Test-takers may take the test an
 Start date and end date establishes the earliest date and time and latest date and time that the exam can be open. The format to use is to provide the date and time in the following order: year, month, day, and 24-hour time (YYYY-MM-DD HH:MM)
 
 Lastly, choose where the results should be stored (this defaults to TAO Results Server 2.5, or DB storage).
-
-<div class="hidden-video">
-[![New Delivery Step 4](http://img.youtube.com/vi/rimw_QaTA5U/0.jpg)](http://www.youtube.com/watch?v=rimw_QaTA5U)
-</div>
-
-<div class='embed-container'><iframewidth="560" height="315" src="https://www.youtube.com/embed/rimw_QaTA5U?rel=0" frameborder="0" allowfullscreen="true"></iframe></div>
 
 **Step 4:** Assign the test to a group of Test-takers in the panes below the Properties pane.
 

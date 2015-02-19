@@ -2,27 +2,12 @@
 
 >There are currently two TAO installation packages available on the OAT server, one for Automatic Installation, and the other for Manual Installation. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of control by the institution for the data that is generated. Automatic installation involves setting up a permanent connection to TAO's own server, and affords greater ease of operations, leaving all technical issues to OAT.
 
-<div class="hidden-video">
-[![Install 1](http://img.youtube.com/vi/2CWMj2gye08/0.jpg)](http://www.youtube.com/watch?v=2CWMj2gye08)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/2CWMj2gye08?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
-
 **Step 1:** On the [OAT download page](http://www.taotesting.com/get-tao/official-tao-packages/), click on the package appropriate for the computer on which you'll be using TAO.
 
-Automatic Package, or *TAO 2.6.7 with server*: Downloads an executable extractable package 24.9 MB in size that expands to 182 MB.
+- Automatic Package: Downloads an executable extractable package.
+- Manual Package: Downloads a ZIP package.
 
-Manual Package, or *TAO 2.6.7 build*: Downloads a ZIP package 21.5 MB in size that decompresses to 86.8 MB.
-
-Doing this step will initiate the download. Select on your computer where you want to find the installation file, and hit save.
-
-<div class="hidden-video">
-[![Install 2](http://img.youtube.com/vi/JROOkwVT9Rc/0.jpg)](http://www.youtube.com/watch?v=JROOkwVT9Rc)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/JROOkwVT9Rc?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
+Doing this step will initiate the download. Select the target system and/or folder for the installation file, and hit save.
 
 **Step 2:** When the selected extractable is downloaded, double-click on it to begin the extraction.
 
@@ -31,8 +16,6 @@ This may take some minutes to complete.
 For users installing the automatic package or the manual package on Windows, the next step is to activate the UniController executable installer. This can be found in the TAO_2.6.7_with_server folder. Applications such as Skype will need to be closed during the installation, which begins after clicking the *Start All* button. This will create a TAO Back Office on your computer, which can be accessed through your favorite browser at http://localhost/tao (Login and Password are initially set to "tao").
 
 For users installing the manual package on Linux, there are more steps.
-
-![Install 3][media_bma230]
 
 **Step 3:** (Linux only) Install the following applications: Apache 2 server (recommended version 2.2.17), PHP server configuration (version 5.3 or 5.5, or any version between), MySQL server configuration (greater than version 5.0), and PostgreSQL (greater than version 7.0).
 
