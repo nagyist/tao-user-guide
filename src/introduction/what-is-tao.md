@@ -2,8 +2,6 @@
 
 >TAO is, simply stated, the future of online assessment development.
 
-![Intro 1][media_bma227]
-
 [Open Assessment Technologies (OAT)](http://www.taotesting.com/) takes pride in having developed TAO (*Testing Assisté par Ordinateur*, or "Computer-Based Testing" in French), one of the most advanced test authoring tools on the market using the [Question and Test Interoperability (QTI) standard](http://www.imsglobal.org/question/qtiv2p1/imsqti_implv2p1.html) for E-test development. The company, OAT, and product, TAO, form together what is likely soon to become one of the best remembered palindromes among teachers and test authors. TAO, after all, represents one of the first great steps beyond the domination of expensive and inflexible proprietary testing software.
 
 Almost as easy as taking pen to paper, and with results that are a whole lot more impressive, TAO allows educators and other test-writers the ability to create E-tests on the fly, and smoothly administer them to whole classes of students in minutes. Moments after the last test is submitted, grades can be ready for review and evaluation.
