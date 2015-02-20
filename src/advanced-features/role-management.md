@@ -23,3 +23,54 @@ This chooses the role to be assigned to the individual(s) who will be selected i
 **Step 3:** In the right panel, select users who will be assigned to this selected role. When all the desired users are selected, click *Save*.
 
 This completes the task of assigning roles using TAO's Role Management.
+
+
+----------
+
+
+A list of the some of the roles that might be encountered in the Role Manager:
+
+-  Generis
+-  Anonymous
+-  Back Office
+-  Front Office
+-  Service
+-  Base User
+-  Item Authors Type 2
+-  Item Authors Type 1
+-  Global Manager
+-  TAO Manager
+-  Function ACL Manager
+-  Items Manager
+-  QTI Manager
+-  QTI PCI Manager
+-  Open Web Items Manager
+-  Tests Manager
+-  taoQtiTest Manager
+-  Workflows Manager
+-  Test Takers Manager
+-  Groups Manager
+-  Result Server Manager
+-  taoOutcomeRds Manager
+-  taoWfTest Manager
+-  Delivery Manager
+-  QTI PIC Manager
+-  taoOutcomeUi Manager
+-  taoSimpleDelivery Manager
+-  taoCe Manager
+-  System Administrator
+-  taoDacSimple Manager
+-  taoTestLinear Manager
+-  taoDeliveryTemplate Manager
+-  taoLti Manager
+-  ltiDeliveryProvider Manager
+-  ltiTestConsumer Manager
+-  Test Taker
+-  LTI Base Role
+-  LTI Learner
+-  LTI Instructor
+-  LTI Institution Student
+-  LTI Administrator
+-  LTI Learner
+-  LTI Instructor
+-  LTI Administrator
