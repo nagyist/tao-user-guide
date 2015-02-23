@@ -26,8 +26,6 @@
 #    - { title: 'Control user access', id: 'i_0022'}
     - { title: 'Style Editor', id: 'i_0023'}
 #    - { title: 'Applying themes', id: 'i_0024'}
-    - { title: 'Lti admin', id: 'i_0073'}
-    - { title: 'Lti teacher', id: 'i_0074'}
 'Interactions':
     - { title: 'Choice Interaction', id: 'i_0025'}
     - { title: 'Order Interaction', id: 'i_0026'}
@@ -75,6 +73,8 @@
     - { title: 'Add an extension', id: 'i_0062'}
 #    - { title: 'Ontology', id: 'i_0063'}
 #    - { title: 'Branching Tests', id: 'i_0064'}
+    - { title: 'LTI admin', id: 'i_0073'}
+    - { title: 'LTI teacher', id: 'i_0074'}
 #'FAQ':
 #    - { title: 'Installation', id: 'i_0065'}
 #    - { title: 'Items', id: 'i_0066'}
