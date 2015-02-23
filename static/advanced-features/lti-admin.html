@@ -5,7 +5,7 @@
   <meta name="generator" content="tao-doc">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Exporting tests</title>
+    <title>Lti admin</title>
   <style type="text/css">code{white-space: pre;}</style>
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -215,9 +215,9 @@
                     </ul>
                 </li>
             
-                <li  class="  active  ">
+                <li  class="  ">
                     <a href="../tests/creating-a-new-test.html"
-                            class=" active">
+                            class=" ">
                         <span class="icon-tests"></span>
                         <span class="icon-arrow-down"></span>Tests
                     </a>
@@ -309,9 +309,9 @@
                     </ul>
                 </li>
             
-                <li  class="  ">
+                <li  class="  active  ">
                     <a href="../advanced-features/css-sdk.html"
-                            class=" ">
+                            class=" active">
                         <span class="icon-advanced-features"></span>
                         <span class="icon-arrow-down"></span>Advanced features
                     </a>
@@ -358,19 +358,15 @@
         <main>
 
 <div class="guide-content">
-  <h1 id="exporting-tests">Exporting tests</h1>
+  <h1 id="setting-up-a-tao-moodle-delivery-as-an-lti-administrator">Setting up a TAO-Moodle delivery as an LTI Administrator</h1>
   <blockquote>
-  <p>Tests may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing Tests will be useful. For instance, a department may have standard performance expectations for its most basic courses, and these might be determined by a singular Test distributed to the department’s several teachers . The ability to share Tests becomes essential in just such a situation. Doing this takes only a few easy steps.</p>
+  <p>Through the <a href="http://developers.imsglobal.org/">Learning Tool Interaction (LTI) standard set forth by IMS Global Learning Consortium</a>, Moodle users can make use of TAO-designed tests and deliver them to students through the Moodle platform. Setting up the interface between TAO and Moodle takes only a couple steps to complete. However, you must have administrator privileges on both TAO and Moodle.</p>
   </blockquote>
-  <p><strong>Step 1:</strong> Upon opening <em>Tests</em> from the Assessment Builder Bar, either click on an existing Test class (folder) in the Test Library panel, or click on the Test folder itself. In the Actions Bar, click New Class.</p>
-  <p>Creating a new class, or a new folder, allows the user to place Tests in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says <em>Edit test class</em> in the canvas area, find the field marked <em>Label</em>. Here the Test class can be renamed, if desired. Hitting the blue <em>Save</em> button will create the class.</p>
-  <p><strong>Step 2:</strong> In the Test Library, move the Tests to be transferred to the class.</p>
-  <p>This selects the Tests that will be exported.</p>
-  <p><strong>Step 3:</strong> After clicking on the class select from the Actions Bar <em>Export</em>.</p>
-  <p>Alternatively, an individual Test can be clicked on for exporting, without creating a new class to transfer it in. However, in most instances it is more useful to organize the transfer in a single folder that can be exported in one go.</p>
-  <p>The pane that comes up on the canvas will ask that you confirm that the folder highlighted is the one that should be exported. If the Test is to be exported as a Question and Test Interoperability (.qti) formatted document, it will save the files as a compressed .zip file. Otherwise, the export will be in Resource Description Framework (.rdf) format. Click the blue <em>Export</em> button in the pane to continue with the export.</p>
-  <p><strong>Step 4:</strong> Select the location on which to export your Test, and then save.</p>
-  <p>The Test will then be available to transfer either by data storage device or over a computer network. The next step in the transfer is to <a href="../tests/importing-a-test.html">import the Test onto the desired computer</a>.</p>
+  <p><strong>Step 1:</strong> Ensure TAO is configured for LTI.</p>
+  <p>To do this, you will need to install the required extensions through the Extensions Manager. To use this, review the Extensions Manager section in this guide. You will want to select and install extensions ltiDeliveryProvider and ltiProvider. Once these are in place, reload the TAO page.</p>
+  <p>The last steps to configure TAO is to go back to settings, and then click on the new LTI Consumers tab. Select the LTI Consumer class (folder), and click on Add Consumer. Name the new consumer, and fill in an easy to remember Consumer key and Shared secret (this is used within the integration). The callback URL can be left blank. Finally, click on Create. If the consumer does not immediately appear, reload the page and it should come up. Record the URL of the page – this is your Tool Base URL.</p>
+  <p><strong>Step 2:</strong> Ensure Moodle is correctly configured.</p>
+  <p>Go to Site Administration in the Moodle platform and open under Advanced Features the pull-down menu for Plugins. Pull to Activity modules and then go to Manage activities. Next, open Settings within External Tools and click on Add external tool configuration. Add an appropriate name to the new configuration and then enter the Consumer key and Shared secret set in TAO. Enter the Tool Base URL where it asks for it. Finally, click on Save Changes.</p>
 </div>
     </main>
   </div>
