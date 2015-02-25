@@ -2,9 +2,18 @@
 
 >Choice Interaction, most frequently referred to as the multiple choice question (MCQ), presents a Test question type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where more test questions need to be fit into a shorter-duration exam period. Where time is of the essence is where this type of testing interaction is particularly useful.
 
+For a quick glimpse of how to create a Multiple-Choice item in TAO, please watch the video below.
+
+<div class="hidden-video">
+[![Choice Interaction](http://img.youtube.com/vi/8upgdOSTKK0/0.jpg)](http://www.youtube.com/watch?v=8upgdOSTKK0)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/8upgdOSTKK0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+
 **Step 1:** From the Common Interactions library, drag the *Choice* icon onto the blank Item and drop into the blue block on the canvas.
 
-This provides the selection boxes for your multiple choice interaction. By default, the cursor should be on the question field above three answer *choices*.
+This provides the selection boxes for your multiple-choice interaction. By default, the cursor should be on the question field above three answer *choices*.
 
 **Step 2:** Enter the question in the question field at the top of the interaction. 
 

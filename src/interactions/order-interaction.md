@@ -12,7 +12,7 @@ This will describe the task given to the Test-taker ("Place the following in chr
 
 **Step 3:** Fill in the options pertaining to the question.
 
-Options may be added by clicking the blue *Add choice* field if three options is not enough. If needed, these may be placed in a particular order, or they may be placed in any order and then shuffled (the latter is usually recommended). To shuffle, click *Shuffle choices* in the Interaction Properties panel.
+Options may be added by clicking the blue *Add choice* field if three options are not enough. If needed, these may be placed in a particular order, or they may be placed in any order and then shuffled (the latter is usually recommended). To shuffle, click *Shuffle choices* in the Interaction Properties panel.
 
 **Step 4:** Fill in the answers after clicking *Response* in the blue interaction header.
 

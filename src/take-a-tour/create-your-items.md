@@ -1,4 +1,4 @@
-# Create your items
+# Create Your Items
 
 >It's the night before the big test. You've covered all the standard points of the course you are teaching, and then some. Suddenly, you realize that all the standard questions that you normally use for a test are not enough. You have at least a half dozen other questions that you need to present in tomorrow's examination. TAO offers a solution with intuitively designed testing Item templates.
 
@@ -6,7 +6,7 @@
 
 This opens the Items page, an interface in three parts. The part on the left is called the Library, the part on the right is called the Properties Panel, and in the center is the Canvas. It is in this last part where Item authoring takes place.
 
-Questions and other forms of *interaction* are considered *item* components of larger *tests*. These basic elements are first created, and then combined for use in assessing Test-taker ability to acquire understanding. Each interaction item, and the procedure used to create it, differs to some degree from the other, but the steps detailed here are held in common for authoring any interaction.
+Questions and other forms of *interaction* are considered *item* components of larger *tests*. These basic elements are first created, and then combined for use in assessing Test-taker ability to acquire understanding. Each interaction item, and the procedure used to create it, differs to some degree from the other, but the steps detailed here are common for authoring any interaction.
 
 **Step 2:** In the *Library*, click the *class* or folder that the interaction (and associated test) applies. 
 

@@ -1,4 +1,4 @@
-# Item scoring rules
+# Item Scoring Rules
 
 >Naturally, the first question that a Test-taker has after completing a Test is, "What score did I get?" Scores are generated through performance in the various interactions that make up the Items, that themselves compose the Test. Interactions will generate score numbers, which will determine what the Item provides, and each item will be tallied to produce the final Test result. Knowing how to set up scoring within an interaction is therefore useful for determining the grade achieved by the Test-taker from the Test.
 

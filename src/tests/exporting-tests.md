@@ -1,4 +1,4 @@
-# Exporting tests
+# Exporting Tests
 
 >Tests may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing Tests will be useful. For instance, a department may have standard performance expectations for its most basic courses, and these might be determined by a singular Test distributed to the department’s several teachers . The ability to share Tests becomes essential in just such a situation. Doing this takes only a few easy steps.
 

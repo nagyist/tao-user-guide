@@ -1,4 +1,4 @@
-# What is a delivery?
+# What is a Delivery?
 
 
 *"A delivery is the process that coordinates the rendering and delivery of tests and the evaluation of responses to interactions to produce scores and feedback."* - Based on the Question and Test Interoperability standard, published by IMS Global

@@ -1,4 +1,4 @@
-# Publish and deliver your test
+# Publish and Deliver Your Test
 
 >You've just assembled your pop-quiz, and it's just an hour before the start of the day. You've only a few minutes to get this test assigned to your class before preparing to face your first lecture session of the day. TAO saves the day through its assembled delivery system. Assembled deliveries govern when and how long a Test will be taken by selected individual or groups of Test-takers. Fortunately, they take only a few moments to put together.
 
@@ -22,4 +22,4 @@ At the end, you will need to choose where the results should be stored (the defa
 
 The *Assigned to* pane contains all available groups of test-takers. When a group is selected, hit the blue *Save* button below. If there are test-takers in the group who, for whatever reason, should not be taking this exam (because of absence, remedial assignments, etc.), click the blue button at the bottom of the Test-takers pane that reads *Excluded test-takers*. This brings up a pop-up window that includes windows containing the names of the assigned test-takers in the group, and a window that can hold excluded test-takers. To move a person from assigned status to excluded status, simply click on that person’s name in the assigned column (likewise, click on the name in the excluded column if it has been put there by mistake). 
 
-**Step 5:** To complete the delivery, click save (or, alternatively, to halt the deliver, hit cancel) to close the pop-up window.
+**Step 5:** To complete the delivery, click Save (or, alternatively, to halt the deliver, hit cancel) to close the pop-up window.

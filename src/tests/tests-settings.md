@@ -1,4 +1,4 @@
-# Tests settings
+# Tests Settings
 
 >After [creating a new Test][i_0042], in most cases it will be necessary to set properties for the assessment and its parts. There are four levels in which properties may be assigned: Test level, Test part level, Section level, and Item level. These properties will appear in the Properties panel when the appropriate properties icon (depicted as three interacting gears) is clicked upon. The test level properties icon will be found within the test bar at the top of the canvas. Test part level properties icons will be found in each darker test part bar, while section level properties icons will be found on the same line as the section label. Item level properties icons will be found next to the interaction’s label.
 
@@ -18,7 +18,7 @@ The time limits section is similar in nature to the time limits section for the 
 
 **Step 3:** Click on the section level properties icon.
 
-This brings up in the Properties panel five sections: general properties, selection properties, ordering, item session control, and time limits. The last two sections are the same as the last two portions of the test part properties, while the first three portions differ from previous levels. The general properties includes an identifier and title: the *Identifier* should generally be kept as defaulted, while the *Title* can be changed to suit the test. In general, the *Visible* checkmark should be checked (else the Test-taker won’t be able to see the section), and *Keep Together* should also be marked if completing the entire section before moving onto the next section is important.
+This brings up in the Properties panel five sections: general properties, selection properties, ordering, item session control, and time limits. The last two sections are the same as the last two portions of the test part properties, while the first three portions differ from previous levels. The general properties includes an identifier and title: the *Identifier* should generally be kept as defaulted, while the *Title* can be changed to suit the test. In general, the *Visible* checkmark should be checked (or else the Test-taker won’t be able to see the section), and *Keep Together* should also be marked if completing the entire section before moving onto the next section is important.
 
 The selection portion initially asks if the delivered test section should include only some of the Items assigned it (*Enable selection*), and if so, how many (*Select*). If *With Replacement* is selected while selection mode is enabled, then questions may end up repeated. Normally, they are only allowed to be used once in a test sitting.
 

@@ -1,4 +1,4 @@
-# Importing test-takers
+# Importing Test-Takers
 
 >Test-taker metadata files can be [taken from any computer][i_0048] and imported onto any other computer that also has access to TAO. This is done through a specific operation called *Import*.
 

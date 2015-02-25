@@ -1,4 +1,4 @@
-# Creating a new group
+# Creating a New Group
 
 >Groups are organized collections of test-takers who will be taking the same assessments throughout the duration of a course of study. Examples of a group include Laboratory Sections, Discussion Groups, or just about any cohort or subdivision of students that will be assessed using the same examinations, the same test administrators, and the same grading criteria as others within their group. Since a group is made up of individual Test-takers, it is necessary to have each Test-taker’s meta-data entered in already before assigning them.
 

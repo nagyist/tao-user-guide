@@ -4,6 +4,15 @@
 
 >This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section). In order to begin creating either an *Inline Choice* or *Text Entry* interaction, it is first necessary to select the Inline Interactions bar, and then drag the *Block* interaction, represented by a letter *A* icon, out of the left-hand Library Panel and into the canvas area, dropping it into the blue text block that will appear. This will create a field in which text may be cut and pasted from a favorite source (a Word document or website, for instance), or typed in. 
 
+For a quick glimpse of how to create an Inline Choice item in TAO, please watch the video below.
+
+<div class="hidden-video">
+[![Inline Interactions](http://img.youtube.com/vi/5vplITM3Ah4/0.jpg)](http://www.youtube.com/watch?v=5vplITM3Ah4)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/5vplITM3Ah4?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
+
 **Step 1:** Once the text is placed, create an Inline Choice element by dragging from the Library Panel to a space next to where the test-taker will be expected to *fill the blank*.
 
 This results in a pop-up window that provides three choices by default. Enter in the choices of response by highlighting the default entries (*choice #1*, etc.) and typing in a replacement. If you want fewer choices, click the trash can next to one of the choices. This will cause the choice to disappear. If you wish more choices, click the blue *Add Choice* field below the other choices, and this will add another field. Click either the trash can or blue field as many times as needed to produce the number of entries desired, and replace the default choice text. 

@@ -1,0 +1,145 @@
+@import "bootstrap";
+
+.js {
+    nav {
+        ul {
+            ul {
+                display: none
+            }
+        }
+    }
+}
+
+
+nav {
+    margin-bottom: $footerHeight * 1px;
+    position: relative;
+    z-index: 1000;
+    background: $menuColor url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAEUlEQVR42mNgYGD4z4AGMAUANfEC/pPYlKYAAAAASUVORK5CYII=);
+        
+    .menu {
+        display:none;
+    }
+    li {        
+        ul {
+            opacity: 0;
+        }
+        &.active {
+            [class^="icon-"], [class*=" icon-"] {
+                background: $iconHighlightBg;
+                .icon-arrow-down {
+                    -webkit-transform: rotate(180deg);
+                    -moz-transform: rotate(180deg);
+                    -ms-transform: rotate(180deg);
+                    -o-transform: rotate(180deg);
+                    transform: rotate(180deg); 
+                }
+            }
+            ul {
+                display: block;
+                position: relative;
+                z-index: 1;
+                &:before {
+                    content: '';
+                    top: 0;
+                    left: 0;
+                    bottom: 0;
+                    right: 0;
+                    position: absolute;
+                    z-index: -1;
+                    background: $naviDarkBlue;
+                }
+                a {
+                    line-height: 18px;
+                    padding: 6px 6px 6px 50px;
+                    color: white(.8);
+                    border-color: #2e5166;
+                    position: relative;
+                    &.active {
+                        background: #0a4a6f
+                    }
+                    &:before {
+                        @include font-size(15);
+                        font-weight: bold;
+                        content: '\2022 ';
+                        position: absolute;
+                        top: 6px;
+                        left: 36px;
+                    }
+                    &:after {
+                        background-color: $menuLightColor;
+                        opacity: .1;
+                    }
+                }
+            }
+        }
+    }
+    a {
+        position: relative;
+        display: block;
+        color: white(.8);
+        border-bottom: 1px $menuColor solid;
+        padding-right: 22px;
+        &:hover {
+            text-decoration: none;
+            color: white;
+        }
+        &:after {            
+            content: '';
+            background: $menuColor url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAEUlEQVR42mNgYGD4z4AGMAUANfEC/pPYlKYAAAAASUVORK5CYII=);
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            position: absolute;
+            z-index: -1;  
+        }
+        [class^="icon-"], [class*=" icon-"] {
+            @include font-size(18);
+            line-height: 32px;
+            width: 32px;
+            height: 32px;
+            text-align: center;
+            background: $iconBg;
+            color: white;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+            display:inline-block;
+            margin-right: 5px;
+            &.icon-arrow-down {
+                position: absolute;
+                right: 3px;
+                top: 7px;
+                padding-left: 2px;
+                -moz-border-radius: 10px;
+                -webkit-border-radius: 10px;
+                border-radius: 10px;
+                background: #083552;
+                line-height: 18px;
+                width: 17px;
+                height: 17px;
+                color: rgba(255, 255, 255, 0.7);
+                text-align: center;
+                font-size: 11px;
+                font-size: 1.1rem;
+                -webkit-box-shadow: inset 0 0 7px black(.8);
+                -moz-box-shadow: inset 0 0 7px black(.8);
+                -ms-box-shadow: inset 0 0 7px black(.8);
+                -o-box-shadow: inset 0 0 7px black(.8);
+                box-shadow: inset 0 0 7px black(.8); 
+            }
+        }
+    }
+
+    ins {
+        display: none;
+    }
+
+    span, ins {
+        cursor: default;
+    }
+
+    h1 {
+        display: none;
+        margin: 0;
+    }
+}

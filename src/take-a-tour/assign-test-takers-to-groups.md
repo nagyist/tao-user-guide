@@ -1,4 +1,4 @@
-# Assign test-takers to groups
+# Assign Test-Takers to Groups
 
 >That first day of a new academic semester has come to an end. You took attendance, met your students, and even assigned them to small groups that will all be taking quizzes and tests together throughout the term. [You've entered or uploaded the Test-taker profiles][i_0010] of all your students into the computer, an entire class of students who now have to be sorted in TAO. In the next step, obviously, you will need to assign your Test-takers to Groups.
 
@@ -16,6 +16,6 @@ To do this, change the default name given in the Label field, and hit the blue *
 
 **Step 4:** Populate the Group in the Select Group Test-takers pane.
 
-Review the names of Test-takers and select those assigned to the Group being created. Select by check-mark those who are to be assigned to the Group, and then hit the blue *Save* button for that pane.
+Review the names of Test-takers and select those assigned to the Group being created. Select by check mark those who are to be assigned to the Group, and then hit the blue *Save* button for that pane.
 
 At this point, you have assigned a set of Test-takers to a group. Repeat steps 2-4 until all of your Test-takers have been assigned to their appropriate Groups.

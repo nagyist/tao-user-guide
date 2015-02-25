@@ -51,8 +51,8 @@ $endfor$
       </h1>
     </a>
 
-    <div class="search-area" style="display: none;">
-      <form class="rgt" action="/search">
+    <div class="search-area">
+      <form class="rgt" action="../search/">
         <input type="search" name="q" placeholder="Search the User Guide" />
         <button type="submit"><span class="icon-search"></span>Search</button>
       </form>

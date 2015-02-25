@@ -1,4 +1,4 @@
-# Exporting test-takers
+# Exporting Test-Takers
 
 >Test-taker profiles may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing test-taker profiles will be useful. For instance, a Test-taker may have successfully passed a prerequisite course and is now enrolling in a more advanced study with a different teacher. The ability to share Test-taker profiles becomes convenient in just such a situation. Doing this takes only a few easy steps.
 

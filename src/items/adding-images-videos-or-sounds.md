@@ -1,6 +1,6 @@
-# Adding images, videos or sounds
+# Adding Images, Videos or Sounds
 
->In earlier versions of TAO, inserting images, videos, and sounds was done through a special feature. This is no longer the case. Videos and sounds are inserted through the Media interaction, while still images are handled in a wholly different way. For instructions on how to insert Media (videos or sound files), refer to the Media interaction section. For still images, this section will review the instructions on inserting these into a typical text block.
+>In earlier versions of TAO, inserting images, videos, and sounds was done through a special feature. This is no longer the case. Videos and sounds are inserted through the Media interaction, while still images are handled in a different way. For instructions on how to insert Media (videos or sound files), refer to the Media interaction section. For still images, this section will review the instructions on inserting these into a typical text block.
 
 **Step 1:** All text blocks have a tab with an icon attached that governs changes to text. The icon is basically a capital letter *A*. Click on this icon.
 
@@ -16,4 +16,4 @@ This allows you to navigate your computer system and find a desired still image 
 
 **Step 4:** Click the green *Select* button.
 
-This uploads your still image into the text block. If you begin typing without a return, the text will be centered vertically. If it extends over more than one line, though, it will wrap underneath the image. If a long text follows an uploaded image, it's best to put at least one return in before starting to type.
+This uploads your still image into the text block. If you begin typing without a return, the text will be centered vertically. If it extends over more than one line, though, it will wrap underneath the image. If long text follows an uploaded image, it's best to put at least one return in before starting to type.
