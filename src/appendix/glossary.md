@@ -76,7 +76,7 @@
 
 [**Modal Feedback:**][i_0019] Feedback that is not integrated into an [Item's][i_0004] body during presentation to the Test-taker.
 
-**Multiple Response:** A Response Variable that serves as a Container for multiple values taken from a value set defined by a Base-type. These are processed as an unordered list, and may be empty.
+**Multiple Response:** A Response Variable that serves as a container for multiple values taken from a value set defined by a base-type. These are processed as an unordered list, and may be empty.
 
 **N**
 

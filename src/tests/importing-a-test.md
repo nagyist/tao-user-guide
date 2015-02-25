@@ -1,4 +1,4 @@
-# Importing a test
+# Importing a Test
 
 >Prepared Tests can be [taken from any computer][i_0044] and imported onto any other computer that also has access to TAO. This is done through a specific operation called *Import*.
 

@@ -1,4 +1,4 @@
-# Creating a new test
+# Creating a New Test
 
 >TAO defines a [Test][i_0006] as a collection of [Items][i_0005] designed to assess the academic progress of a Test-taker. The approach allows for rapid assembly of Tests administered across computer networks. If all you have is 30 minutes to create a 10-question quiz for your 8th grade class, TAO can help.
 

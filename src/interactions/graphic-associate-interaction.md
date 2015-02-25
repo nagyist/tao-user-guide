@@ -1,6 +1,6 @@
 # Graphic Associate Interaction
 
->The Graphic Associate interaction gives Test-takers the opportunity to demonstrate knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route planning exercises, connecting the dots to form a missing piece of an image, etc. 
+>The Graphic Associate interaction gives Test-takers the opportunity to demonstrate knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
 
 >All graphic interactions can be found in the Graphic Interactions menu in the Library. All require dragging the appropriate icon, such as the Graphic Associate interaction icon, over the blank Item and dropping it on the blue block that appears when the icon is passed over it. This will result in the Resource Manager window appearing to request the test author to select a graphic. A list of previously uploaded graphics will appear, above which is a blue *Add file(s)* and *browse* buttons to hunt down and add files to the resource manager by clicking the green *Upload* button. If uploading is not necessary, highlight the appropriate graphic in the resource manager list and click the green *Select* button to move toward the first step of setting up this interaction.
 

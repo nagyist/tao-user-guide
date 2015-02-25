@@ -1,10 +1,10 @@
-# Build your test
+# Build Your Test
 
 >The kids are somewhat shaky in their understanding of what you've spent the last couple days teaching, and you aren't sure if they are ready to move on to new material. So what do you do? That's right, give them a pop-quiz! TAO lets instructors do this in very short order.
 
 **Step 1:** In TAO's Assessment Builder Bar, select Items and examine the test Items that are available for your pop-quiz.
 
-If you do not have enough ready-to-go Items, then you will need [to create new ones][i_0008]. Items are the building blocks of Tests assembled in TAO, but as with anything you assemble, there has to be enough of them, and they must cover everything you want to cover. Fortunately, [TAO has plenty of easily-authored Item templates][i_0014] to work with. 
+If you do not have enough ready-to-go Items, then you will need [to create new ones][i_0008]. Items are the building blocks of Tests assembled in TAO, but as with anything you assemble, there has to be enough of them, and they must cover everything you want to cover. Fortunately, [TAO has plenty of easily authored Item templates][i_0014] to work with. 
 
 **Step 2:** Going back to TAO's Assessment Builder Bar, select Tests. In the Test Library, click on a desired class, or on the Test folder itself.
 
@@ -18,7 +18,7 @@ This brings up a *Test Properties* pane where you can rename the *label* (file n
 
 This opens a three-part window: the Library contains available Items to place in the test, the canvas area contains the test assembly, and the Properties Panel provides space where controls will appear if a properties icon (a picture of gears) is clicked.
 
-Tip -> Tests can be divided on two subordinated levels: Test parts, and sections. A test part is the first tier division of a test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. 
+Tip -> Tests can be divided into two subordinated levels: Test parts, and sections. A test part is the first tier division of a test, while the section is the second tier division. Test divisions, however, are optional, and they are added in reverse order. For instance, in the event that a test should not have any divisions, all Items will simply be added to Part 1 Section 1. If only one level of division will be needed, adding sections will allow a test to be divided into two. If both levels of subordination are required, adding new test parts will be needed. 
 
 **Step 5:** Add new sections by clicking on the blue *New section* button below the existing sections in the test. To add new test parts, click on the blue *New test part* button below the existing test parts.
 
@@ -68,5 +68,5 @@ Identifier and references generally do not require modification. Categories act 
 
 **Step 12:** Give your Test a trial run.
 
-This may be done through a dummy Test-taker account that you would have set up at the start of the academic year. Doing a trial-run ensures that everything will run as expected when the students go through their assessment. Once the test has been checked and everything is working as expected, you'll next want to set up delivery.
+This may be done through a dummy Test-taker account that you would have set up at the start of the academic year. Doing a trial run ensures that everything will run as expected when the students go through their assessment. Once the test has been checked and everything is working as expected, you'll next want to set up delivery.
 

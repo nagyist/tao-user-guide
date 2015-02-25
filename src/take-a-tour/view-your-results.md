@@ -1,8 +1,8 @@
-# View your results
+# View Your Results
 
->The last of your students have submitted their tests and the window for submitting further attempts have closed. Now it's time to see how your test-takers did. 
+>The last of your students have submitted their tests and the window for submitting further attempts has closed. Now it's time to see how your test-takers did. 
 
-**Step 1:** In the Assessment Builder Bar, select to Results.
+**Step 1:** In the Assessment Builder Bar, select Results.
 
 This opens a standard TAO interface with a Library of completed Deliveries of Tests to the left, and a canvas showing results associated with a selected Delivery in the center.
 
@@ -28,7 +28,7 @@ For *Grades*, the display shows such information as Completion Status, which in 
 
 **Step 5:** If the testing record is required for display outside of TAO, it is possible to create a character-separated values spreadsheet that presents the Test Results. To do this, either click again on the delivery icon in the Library, or select the Export Delivery Results tab at the top of the Results page, and find the blue *Export Table* button below the table depicting attempts made to take the Test. Click on this button.
 
-This brings up a new table that initially shows only the names of those who had made the attempts to take the Test. Clicking on the blue *Add All Grades* button causes the table to include also not only the scores and modal feedbacks for this test, but also all other tests taken. Clicking on the blue *Add All Responses* button shows all values for Numbers of Attempts, Durations, and Responses. Clicking on the red buttons that replaces either of these removes the information. Clicking on the red *Anonymise* button removes the names from the file.
+This brings up a new table that initially shows only the names of those who had made the attempts to take the Test. Clicking on the blue *Add All Grades* button causes the table to include not only the scores and modal feedbacks for this test, but also all other tests taken. Clicking on the blue *Add All Responses* button shows all values for Numbers of Attempts, Durations, and Responses. Clicking on the red buttons that replaces either of these removes the information. Clicking on the red *Anonymise* button removes the names from the file.
 
 Once all the information that is desired is on the table, find the *Export CSV File* at the bottom and click this. Select where on the computer you want the table saved, and then save the file. You will be able to open this in Excel or any other program that allows you to read a .csv format document.
 

@@ -2,7 +2,7 @@
 
 >TAO concentrates its User Management functions all under the Users icon (two heads), located on the right side of the Assessment Builder Bar. User-related functions, accessible to Global Managers, is organized in five functional tabs: Manage Users, Add A User, Edit A User, Manage Roles, and Manage Access Rights. Managing roles is of such importance that it will be covered [under its own section, *Role Management.*][i_0060] But the remainder of the tabs will be reviewed here.
 
-**Manage Users:** This tab provides an overview of all the users registered in your TAO system. Included are managers, test-takers, and other roles assigned to the accounts of individuals whom you have granted access. From this page, edits can be carried out and reviewed in an easily-read table.
+**Manage Users:** This tab provides an overview of all the users registered in your TAO system. Included are managers, test-takers, and other roles assigned to the accounts of individuals whom you have granted access. From this page, edits can be carried out and reviewed in an easily read table.
 
 **Add a User:** This tab allows the creation of new User accounts on your TAO system. These can include any manager or any Test-taker.
 
