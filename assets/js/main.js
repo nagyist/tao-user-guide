@@ -4,21 +4,6 @@
 
     var $window = $(window);
 
-
-    function hamburgerInit() {
-        var $nav = $('nav'),
-            $ul = $nav.find('ul');
-        if(!$nav.find('.icon-menu').is(':visible')){
-            return;
-        }
-        $nav.find('h1').on('click', function () {
-            $ul.slideToggle();
-        });
-        $nav.find('a, span').on('click', function () {
-            $ul.slideToggle();
-        });
-    }
-
     function navHeightInit() {
 
         var $nav = $('nav');
@@ -67,6 +52,12 @@
         $('.hidden-video').hide();
     }
 
+    function menuToggleInit() {
+        $('.menu').on('click', function() {
+            $('body').toggleClass('navi-open');
+        })
+    }
+
     function isExternal(url) {
         var match = url.match(/^([^:\/?#]+:)?(?:\/\/([^\/?#]*))?([^?#]+)?(\?[^#]*)?(#.*)?/);
         if (typeof match[1] === "string" && match[1].length > 0 && match[1].toLowerCase() !== location.protocol) return true;
@@ -84,10 +75,11 @@
     }
 
     hideFallbackVideo();
-    hamburgerInit();
+    menuToggleInit();
     navHeightInit();
     initSearch();
     parseLinks();
+
     $window.on('resize orientationchange', navHeightInit);
 
     $window.on('resize orientationchange', navHeightInit);

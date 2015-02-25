@@ -2,3 +2,4 @@ distro
 trees/*
 !trees/toc.yml
 !trees/media.yml
+/assets/scss/.sass-cache
