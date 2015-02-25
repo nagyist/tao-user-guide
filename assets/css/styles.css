@@ -458,8 +458,8 @@ audio:not([controls]),
 
 @font-face {
   font-family: 'userguide';
-  src: url("../fonts/userguide.eot?-n0eepdx");
-  src: url("../fonts/userguide.eot?#iefix-n0eepdx") format("embedded-opentype"), url("../fonts/userguide.woff?-n0eepdx") format("woff"), url("../fonts/userguide.ttf?-n0eepdx") format("truetype"), url("../fonts/userguide.svg?-n0eepdx#userguide") format("svg");
+  src: url("../fonts/userguide.eot?-n0eepd");
+  src: url("../fonts/userguide.eot?#iefix-n0eepd") format("embedded-opentype"), url("../fonts/userguide.woff?-n0eepd") format("woff"), url("../fonts/userguide.ttf?-n0eepd") format("truetype"), url("../fonts/userguide.svg?-n0eepd#userguide") format("svg");
   font-weight: normal;
   font-style: normal; }
 [class^="icon-"], [class*=" icon-"] {
@@ -901,5 +901,3 @@ pre {
       transform: rotate(180deg); }
   .navi-open main {
     margin-left: -188px; } }
-
-/*# sourceMappingURL=styles.css.map */
