@@ -1,6 +1,15 @@
 # Associate Interaction #
 
->The Associate Interaction demonstrates the Test-taker's ability to match words or phrases that are associative with each other. 
+>The Associate Interaction demonstrates the Test-taker's ability to match words or phrases that are associated with each other. 
+
+For a quick glimpse of how to create an Associate item in TAO, please watch the video below.
+
+<div class="hidden-video">
+[![Assoiciate Interaction](http://img.youtube.com/vi/qIX3HVNq5L0/0.jpg)](http://www.youtube.com/watch?v=qIX3HVNq5L0)
+</div>
+<div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/qIX3HVNq5L0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Associate* icon onto the blank Item and drop the resulting box in the blue field that appears when you drag the *Choice* element over it.
 

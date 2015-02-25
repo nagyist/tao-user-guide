@@ -1,6 +1,6 @@
 # Extended Text Interaction
 
->The Extended Text interaction provides the means of demonstrating the Text-taker's ability to recite exactly a phrase, sentence, or passage. The Test-taker is required to convey exactly an answer that can be of any length. 
+>The Extended Text interaction provides the means of demonstrating the Test-taker's ability to recite exactly a phrase, sentence, or passage. The Test-taker is required to convey exactly an answer that can be of any length. 
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Extended Text* icon onto the blank Item and drop into the blue block.
 

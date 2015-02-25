@@ -1,4 +1,4 @@
-# Create a new delivery
+# Create a New Delivery
 
 >[Assembled deliveries][i_0007] provide the means of publishing and administering tests. These govern when and how long a Test will be taken by selected individual or groups of Test-takers. As such, putting together a delivery can take place only after creation of interactions, assembly of the Test to be delivered, creation of Test-taker profiles, and collection of Test-takers into formal Groups. All these play a part in putting together a Delivery.
 
@@ -16,7 +16,7 @@ Label: the default name of the delivery is “Delivery of *Test Name*”. This c
 
 Maximum number of executions: if left unfilled, Test-takers may take the test an unlimited number of times. Setting this number to any non-zero integer will limit the test-takers to that many tries on the test.
 
-Start date and end date establishes the earliest date and time and latest date and time that the exam can be open. The format to use is to provide the date and time in the following order: year, month, day, and 24-hour time (YYYY-MM-DD HH:MM)
+Start date and end date establishes the earliest date and time and latest date and time that the exam can be open. Provide the date and time in the following order: year, month, day, and 24-hour time (YYYY-MM-DD HH:MM)
 
 Lastly, choose where the results should be stored (this defaults to TAO Results Server 2.5, or DB storage).
 

@@ -1,4 +1,4 @@
-# Downloading tao
+# Downloading TAO
 
 >Open Assessment Technologies (OAT) packages TAO, its 100 percent web-based test-making software, in two ways: (1) automatic, and (2) manual. Both are available for download from its website.
 
@@ -14,5 +14,5 @@ For more information, contact:
 
 - Phone: +352 54 55 80-595
 - E-mail: [contact@taotesting.com](contact@taotesting.com)
-- Hours: 9:00 17:00 Central European Time.
+- Hours: 9:00 to 17:00 Central European Time
 

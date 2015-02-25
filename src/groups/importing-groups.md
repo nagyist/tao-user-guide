@@ -1,4 +1,4 @@
-# Importing groups
+# Importing Groups
 
 >Group metadata files [can be taken from any computer][i_0051] and imported onto any other computer that also has access to TAO. This is done through a specific operation called *Import*.
 

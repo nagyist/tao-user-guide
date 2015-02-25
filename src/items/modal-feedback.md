@@ -1,4 +1,4 @@
-# Modal feedback
+# Modal Feedback
 
 >Modal feedback is defined as material presented externally of an Item's text when the Test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the Test-taker ("Good job!" "Nailed it!" etc.), or maybe give a hint, etc.
 

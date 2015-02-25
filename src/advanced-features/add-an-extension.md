@@ -1,4 +1,4 @@
-# Add an extension
+# Add an Extension
 
 
 >Extensions add functionality to TAO, providing the means to customize TAO in a variety of ways. Whether for the purpose of interfacing with existing test-taking or test-scoring software, or enhance test elements in some special way required by an institution, extensions improve upon the basic TAO program. Adding extensions is done through the Extensions Manger, accessible through the *Settings* icon (three gear cogs) on the far right of the *Assessment Builder Bar*.
@@ -14,7 +14,7 @@ The Installed Extensions are those extensions that are active and ready for your
 
 **Step 3**: If an Available Extension is desired, click on the check box at the end of that extension's line. When all such extensions are selected, click *Install*.
 
-A confirmation message follows. Once confirmed, this action loads up the extensions selected. Once installed, the page will need to reloaded, but then the new extension will be ready for use. 
+A confirmation message follows. Once confirmed, this action loads up the extensions selected. Once installed, the page will need to reload, but then the new extension will be ready for use. 
 
-Although each extension adds functionality, they can affect the speed of processing. It is therefore advantageous to add only those extensions which you really will need to do your tasks on TAO. Also, it should be noted that there isn't an easy way to remove an extension, once installed, so extension installation should be planned with appropriate caution.
+Although each extension adds functionality, they can affect the speed of processing. It is therefore advantageous to add only those extensions that you really will need to do your tasks on TAO. Also, it should be noted that there isn't an easy way to remove an extension, once installed, so extension installation should be planned with appropriate caution.
 

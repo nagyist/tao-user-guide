@@ -1,6 +1,6 @@
-# Exporting items
+# Exporting Items
 
->Interactions can be put together on almost any computer that has access to TAO. However, there will be situations in which sharing items will be useful. For instance, two teachers might instruct the same course, and as a team they decide to split the duties of creating questions for an upcoming test. The ability to share items becomes essential in just such a situation. Doing this takes only a few easy steps.
+>Interactions can be put together on almost any computer that has access to TAO. However, there will be situations in which sharing items will be useful. For instance, two teachers might instruct the same course, and as a team they decide to split the duties of creating questions for an upcoming test. The ability to share items becomes essential in this situation. Doing this takes only a few easy steps.
 
 **Step 1:** Upon opening *Items* from the Assessment Builder Bar, either click on an existing item class (folder) in the Item Library panel, or click on the Item folder itself. In the Actions Bar, click New Class. 
 

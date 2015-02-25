@@ -1,6 +1,6 @@
-# Register your test-takers
+# Register Your Test-Takers
 
->You've taken attendance on the first day of class and have confirmed your final roster of students. Now you need to convert all those student names into registered Test-takers for use in TAO. In most cases, the instructor or anyone assigned to administer a course's tests will register the test-takers into the assessment system. To do this is relatively painless and only has to be done at the beginning of the course calendar.
+>You've taken attendance on the first day of class and have confirmed your final roster of students. Now you need to convert those student names into registered Test-takers for use in TAO. In most cases, the instructor or anyone assigned to administer a course's tests will register the test-takers into the assessment system. To do this is relatively painless and only has to be done at the beginning of the course calendar.
 
 **Step 1:** In the Assessment Builder Bar, select Test-takers. 
 
