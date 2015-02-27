@@ -19,7 +19,7 @@ $output = array();
 
 if ($q) {
 
-    $indexer = Lucene::open( '../static/_index' );
+    $indexer = Lucene::open( '../_index' );
     $search  = new MultiSearcher( [ $indexer ] );
     $query   = QueryParser::parse( $q );
 
