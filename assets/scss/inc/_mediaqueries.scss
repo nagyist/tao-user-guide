@@ -12,13 +12,14 @@
     }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 800px) {
     header {
         .sidebar {
             width: 32px;
+            -webkit-flex: none;
             flex: none;
             min-width: auto; 
-            //@include vendor-prefix(transition, width $menuSpeed, property);
+            //
             img {
                 width: 0px;
                 //@include vendor-prefix(transition, width $menuSpeed, property);
@@ -31,6 +32,7 @@
         .sidebar {
             width: 32px;
             //@include vendor-prefix(transition, width $menuSpeed, property);
+            -webkit-flex: none;
             flex:none;
             min-width: auto;
             ul {
@@ -92,6 +94,7 @@
 
         .clearfix.flex-area {
             .sidebar {
+                -webkit-flex: none;
                 flex:none;
                 min-width: auto;
                 width: $sidebarWidth * 1px;
