@@ -20,7 +20,6 @@
       "style.css",
       "*.md"
     ],
-    "index": "0001-what-is-tao.md",
     "exclude": [
       "flat-link-map.md",
       "nested-link-map.md"
