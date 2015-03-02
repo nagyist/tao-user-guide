@@ -20,7 +20,7 @@ $output = array();
 if ($q) {
 
     $indexer = Lucene::open( '../_index' );
-    $search  = new MultiSearcher( [ $indexer ] );
+    $search  = new MultiSearcher( array( $indexer ) );
     $query   = QueryParser::parse( $q );
 
     $result = $search->find( $query );
@@ -29,13 +29,13 @@ if ($q) {
         $title = strtolower(str_replace( '-', ' ', $hit->name ));
 
         $resultUrl = "/static/" . $hit->fileName;
-        $output[]  = [
+        $output[]  = array(
             'href' => $resultUrl,
             'name' => ucfirst( $title ),
             'preview' => $query->htmlFragmentHighlightMatches(
                 substr( preg_replace( "/\s+|$title/i", " ", $hit->body ), 0, 300 ) . '...'
             ),
-        ];
+        );
     }
 }
 echo json_encode( $output );
