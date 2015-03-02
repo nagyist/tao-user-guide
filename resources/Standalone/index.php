@@ -18,7 +18,6 @@ header( 'Content-Type: application/json' );
 $output = array();
 
 if ($q) {
-
     $indexer = Lucene::open( '../_index' );
     $search  = new MultiSearcher( array( $indexer ) );
     $query   = QueryParser::parse( $q );
@@ -28,7 +27,7 @@ if ($q) {
     foreach ($result as $hit) {
         $title = strtolower(str_replace( '-', ' ', $hit->name ));
 
-        $resultUrl = "/static/" . $hit->fileName;
+        $resultUrl =  '../'.$hit->fileName;
         $output[]  = array(
             'href' => $resultUrl,
             'name' => ucfirst( $title ),
