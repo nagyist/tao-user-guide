@@ -1,11 +1,17 @@
 {
   "id": "com.taotesting.manual",
-  "title": "Documentation Manual",
+  "title": "TAO User Guide",
   "language": "en",
   "description": "Brief description of the book",
-  "subject": "Assessment, tests, taotesting, test",
+  "subject": "TAO User Guide",
   "date": "2014-12-03",
-  "relation": "http://taotesting.com",
+  "relation": "http://www.taotesting.com/",
+  "authors": [
+    {
+      "name": "Ben M.Angel",
+      "role": "aut"
+    }
+  ],
   "publisher": "OAT",
   "rights": "Copyright (c) 2015, OAT",
   "files": {
