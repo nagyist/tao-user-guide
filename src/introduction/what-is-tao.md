@@ -7,7 +7,7 @@
 Almost as easy as taking pen to paper, and with results that are a lot more impressive, TAO enables educators and other test-writers to create E-tests on the fly, and easily administer them to students - from classroom to nationwide - in just minutes. Furthermore, grades can be ready for review and evaluation moments after the last test is submitted.
 
 <div class="hidden-video">
-[![Why TAO: the Leading Open Source, QTI and LTI-Compliant Assessment Platform](http://img.youtube.com/vi/K0jq27SQzWw/0.jpg)](http://www.youtube.com/watch?v=K0jq27SQzWw)
+[![Why TAO: the Leading Open Source, QTI and LTI-Compliant Assessment Platform][media_promo]](http://www.youtube.com/watch?v=K0jq27SQzWw)
 </div>
 <div class='embed-container'>
 <iframe src="https://www.youtube.com/embed/K0jq27SQzWw?rel=0" frameborder="0" allowfullscreen="true"></iframe>

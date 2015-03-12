@@ -7,7 +7,7 @@
 For a quick glimpse of how to create an Inline Choice item in TAO, please watch the video below.
 
 <div class="hidden-video">
-[![Inline Interactions](http://img.youtube.com/vi/5vplITM3Ah4/0.jpg)](http://www.youtube.com/watch?v=5vplITM3Ah4)
+[![Inline Interactions][media_inline-interactions]](http://www.youtube.com/watch?v=5vplITM3Ah4)
 </div>
 <div class='embed-container'>
 <iframe src="https://www.youtube.com/embed/5vplITM3Ah4?rel=0" frameborder="0" allowfullscreen="true"></iframe>

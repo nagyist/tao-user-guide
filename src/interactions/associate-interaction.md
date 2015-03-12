@@ -5,7 +5,7 @@
 For a quick glimpse of how to create an Associate item in TAO, please watch the video below.
 
 <div class="hidden-video">
-[![Assoiciate Interaction](http://img.youtube.com/vi/qIX3HVNq5L0/0.jpg)](http://www.youtube.com/watch?v=qIX3HVNq5L0)
+[![Assoiciate Interaction][media_associate-interaction]](http://www.youtube.com/watch?v=qIX3HVNq5L0)
 </div>
 <div class='embed-container'>
 <iframe src="https://www.youtube.com/embed/qIX3HVNq5L0?rel=0" frameborder="0" allowfullscreen="true"></iframe>

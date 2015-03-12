@@ -1461,9 +1461,18 @@
 414:
     file: mini-oat.png
     id: media_54e329e04c694
-415:
-    file: Thumbs.db
-    id: media_54e329e04c751
 416:
     file: cover.png
     id: media_550038d49487e
+417:
+    file: images/associate-interaction.jpg
+    id: media_associate-interaction
+418:
+    file: images/choice-interaction.jpg
+    id: media_choice-interaction
+419:
+    file: images/inline-interactions.jpg
+    id: media_inline-interactions
+420:
+    file: images/promo.jpg
+    id: media_promo
