@@ -1,0 +1,85 @@
+code{white-space: pre;}
+
+@import "inc/bootstrap";
+@import "inc/base";
+@import "inc/grid";
+@import "inc/icons";
+@import "inc/epubFont";
+@import "inc/nav";
+@import "inc/footer";
+
+i, .i, em, .em {
+  font-family: "Roboto Italic", sans-serif;
+  font-style: italic;
+}
+
+blockquote {
+  padding: 10px 10px 0 10px;
+  margin: 0;
+  font-family: "Roboto Italic", sans-serif;
+  font-size: 14px;
+  font-size: 1.4rem;
+  font-style: italic;
+}
+
+.wrapper {
+  max-width: $fullWidth * 1px;
+  margin: auto;
+}
+
+.content-wrap {
+  min-height: 100%;
+  // equal to footer height
+  margin-bottom:  $footerHeight * -1px;
+}
+
+main {
+  @include simple-flex-box();
+  margin-bottom: $footerHeight * 1px;
+  max-width: $mainWidth * 1px;
+  position: relative;
+  z-index: 100;
+  overflow: hidden;
+  .guide-content {
+    background: white(.95);
+    margin-left: 5%;
+    padding: 40px;
+  }
+
+}
+
+figure {
+  width:90%;
+  margin:auto;
+}
+
+h1 {
+  color: $taoColor
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+blockquote {
+  padding: 10px 10px 0 10px;
+  margin: 0;
+  @include font-size(14);
+  font-style: italic;
+  p {
+    padding: 0;
+    margin: 0 0 10px 0;
+  }
+  & + blockquote {
+    padding-top: 0;
+  }
+}
+
+pre {
+  background: #ddd;
+  padding: 10px;
+  border: 1px #aaa solid;
+  margin: 10px;
+}
+
+@import "inc/mediaqueries";

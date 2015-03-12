@@ -23,6 +23,8 @@
       "*.JPG",
       "*.JPEG",
       "*.jpeg",
+      "*.ttf",
+      "*.otf",
       "style.css",
       "*.md"
     ],
