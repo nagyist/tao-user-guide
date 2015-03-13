@@ -24,4 +24,4 @@ TAO is the first commercial-grade Open Source assessment development software on
 
 What this means is that TAO test content is entirely portable, secure, and ready for any curricula that embraces technology-centric education models. As of 2015, it has been deployed to more than a million students in over 70 countries.
 
-OAT has selected as its mission to work for the **Common Good in Education**, and [we value your feedback and suggestions](contact@taotesting.com) in helping us meet our commitment to this ideal.
+OAT has selected as its mission to work for the **Common Good in Education**, and [we value your feedback and suggestions] (mailto:contact@taotesting.com) in helping us meet our commitment to this ideal.

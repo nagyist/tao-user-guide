@@ -13,6 +13,6 @@ OAT also offers the chance [to take TAO on a test-drive](http://www.taotesting.c
 For more information, contact:
 
 - Phone: +352 54 55 80-595
-- E-mail: [contact@taotesting.com](contact@taotesting.com)
+- E-mail: [contact@taotesting.com](mailto:contact@taotesting.com)
 - Hours: 9:00 to 17:00 Central European Time
 

@@ -2,7 +2,7 @@
   font-family: 'Roboto';
   font-weight: normal;
   font-style: normal;
-  src: url(../Fonts/Roboto-Regular.ttf);
+  src: url(Roboto-Regular.ttf);
 }
 
 
@@ -10,19 +10,26 @@
   font-family: 'Roboto Italic';
   font-weight: normal;
   font-style: italic;
-  src: url(../Fonts/Roboto-Italic.ttf);
+  src: url(Roboto-Italic.ttf);
 }
 
 @font-face {
   font-family: 'Roboto Condensed';
   font-weight: 300;
   font-style: normal;
-  src: url(../Fonts/RobotoCondensed-Light.ttf);
+  src: url(RobotoCondensed-Light.ttf);
 }
 
 @font-face {
   font-family: 'montserratlight';
   font-weight: normal;
   font-style: normal;
-  src: url(../Fonts/Montserrat-Light.otf);
+  src: url(Montserrat-Light.otf);
+}
+
+@font-face {
+  font-family: 'userguide';
+  url('Fonts/userguide.ttf?-n0eepd') format('truetype'),
+  font-weight: normal;
+  font-style: normal;
 }

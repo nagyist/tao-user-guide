@@ -456,12 +456,6 @@ audio:not([controls]),
   width: 100%;
   margin-right: 0%; }
 
-@font-face {
-  font-family: 'userguide';
-  src: url("../fonts/userguide.eot?-n0eepd");
-  src: url("../fonts/userguide.eot?#iefix-n0eepd") format("embedded-opentype"), url("../fonts/userguide.woff?-n0eepd") format("woff"), url("../fonts/userguide.ttf?-n0eepd") format("truetype"), url("../fonts/userguide.svg?-n0eepd#userguide") format("svg");
-  font-weight: normal;
-  font-style: normal; }
 [class^="icon-"], [class*=" icon-"] {
   font-family: 'userguide';
   speak: none;
@@ -523,6 +517,12 @@ audio:not([controls]),
   font-family: 'montserratlight';
   src: url("../fonts/montserrat-light-webfont.eot");
   src: url("../fonts/montserrat-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat-light-webfont.woff2") format("woff2"), url("../fonts/montserrat-light-webfont.woff") format("woff"), url("../fonts/montserrat-light-webfont.ttf") format("truetype"), url("../fonts/montserrat-light-webfont.svg#montserratlight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'userguide';
+  src: url("../fonts/userguide.eot?-n0eepd");
+  src: url("../fonts/userguide.eot?#iefix-n0eepd") format("embedded-opentype"), url("../fonts/userguide.woff?-n0eepd") format("woff"), url("../fonts/userguide.ttf?-n0eepd") format("truetype"), url("../fonts/userguide.svg?-n0eepd#userguide") format("svg");
   font-weight: normal;
   font-style: normal; }
 .js nav ul ul {
