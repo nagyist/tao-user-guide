@@ -1,1 +1,0 @@
-sass --watch .:../../static/assets/css
