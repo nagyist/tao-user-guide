@@ -6,6 +6,7 @@
   "subject": "TAO User Guide",
   "date": "2014-12-03",
   "relation": "http://www.taotesting.com/",
+  "cover": "cover",
   "authors": [
     {
       "name": "Ben M.Angel",
@@ -15,6 +16,7 @@
   "publisher": "OAT",
   "rights": "Copyright (c) 2015, OAT",
   "files": {
+    "cover": "cover.md",
     "include": [
       { "id":"ncx", "path":"toc.ncx" },
       "*.png",

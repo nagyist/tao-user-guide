@@ -19,7 +19,7 @@
         {if="$BookRights"}<dc:rights>{$BookRights}</dc:rights>{/if}
         {if="$BookDate"}<dc:date>{$BookDate}</dc:date><!-- The format must be YYYY-MM-DD -->{/if}
         {if="$BookRelation"}<dc:relation>{$BookRelation}</dc:relation><!-- ISBN or related book site -->{/if}
-        
+        <meta content="img-cover" name="cover" />
     </metadata>
     
     <!-- List of all the files referenced inside the book, order doesn't matter -->
@@ -45,11 +45,11 @@
     </spine>
     
     <!-- Optional section  -->
-    <!-- <guide>
-        <reference type="cover" title="coverpage" href="coverpage.xhtml" />
-        <reference type="title-page" title="titlepage" href="titlepage.xhtml" />
+    <guide>
+        <reference type="cover" title="cover" href="cover.xhtml" />
+    <!--     <reference type="title-page" title="titlepage" href="titlepage.xhtml" />
         <reference type="toc" title="Index" href="index.xhtml" />
-        <reference type="text" title="content" href="chap01.xhtml" />
-    </guide> -->
-     
+        <reference type="text" title="content" href="chap01.xhtml" /> -->
+    </guide>
+
 </package>

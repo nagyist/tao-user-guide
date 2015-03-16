@@ -1461,9 +1461,6 @@
 414:
     file: mini-oat.png
     id: media_54e329e04c694
-416:
-    file: cover.png
-    id: media_550038d49487e
 417:
     file: images/associate-interaction.jpg
     id: media_associate-interaction
@@ -1476,3 +1473,9 @@
 420:
     file: images/promo.jpg
     id: media_promo
+422:
+    file: cover.md
+    id: media_5502c04dac489
+423:
+    file: img-cover.png
+    id: media_550697de6738f
