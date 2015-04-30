@@ -37,7 +37,7 @@ Additionally, you'll notice above this in the Properties Panel is the option to 
 
 Tips -> Realize that to use this option, you won't want to prefix answers with A., B. … or 1., 2. … etc.
 
-**Step 5.** Now to define the answer, on the interaction header, click on *Response* on the far right, (avoid clicking the trash can, as this will lead to deleting the interaction) 
+**Step 5.** Now to define the answer, on the interaction header, click on *Response* on the far right (avoid clicking the trash can, as this will lead to deleting the interaction).
 
 This activates options for setting the correct answer.
 
@@ -45,7 +45,11 @@ This activates options for setting the correct answer.
 
 You can select more than one answer. 
 
-**Step 7.** Click *Done* once you have finish your Choice interaction.
+**Step 7.** If desired, insert modal feedback into this interaction. You may find this option within the Properties Panel.
+
+For more information on Modal Feedback, [see the *Modal Feedback* section][i_0019].
+
+**Step 8.** Click *Done* once you have finish your Choice interaction.
 
 To check that the question appears to the Test-takers as you want them to see it, [review the *Preview* entry][i_0020].
 

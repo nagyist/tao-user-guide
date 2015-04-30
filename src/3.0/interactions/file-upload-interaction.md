@@ -8,7 +8,7 @@ This opens a new File Upload interaction window. There will be a field for placi
 
 **Step 2:** Fill in the question field. 
 
-This could be anything like *Upload document*, or any variation of instruction for the Test-taker to submit work through this interface.
+This could be anything like *Upload document*, or any variation of instruction for the Test-taker to submit work through this interface. Note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture.
 
 **Step 3:** In the Properties Panel, select within Interaction Properties the Multipurpose Internet Mail Extension (MIME) type desired for the submission, if applicable.
 

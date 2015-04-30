@@ -8,11 +8,11 @@ This creates a new Hottext interaction window. There will be a field for placing
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.).
+This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.). The A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture into your question.
 
 **Step 3:** Cut and paste, or type in, the text within which the Hottext choices will be presented. 
 
-It will be from these Hottext elements that the Test-taker will choose the best option.
+It will be from these Hottext elements that the Test-taker will choose the best option. Again the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture.
 
 **Step 4:** Select a word or phrase and highlight it. When the *magic wand* button comes up, click it to confirm selection of the word or phrase as a Hottext interaction.
 
@@ -26,7 +26,11 @@ Setting the minimum to 0 allows the Test-taker to skip the question. It is neces
 
 This will produce the same window, but the test author will be given the option to place checkmarks on the right answer(s). Check all that apply.
 
-**Step 7:** In the Properties Panel, [select the Response Processing][i_0018] to be used for this interaction.
+**Step 7.** If desired, insert modal feedback into this interaction. You may find this option within the Properties Panel.
+
+For more information on Modal Feedback, [see the *Modal Feedback* section][i_0019].
+
+**Step 8:** In the Properties Panel, [select the Response Processing][i_0018] to be used for this interaction.
 
 There are two choices, *match correct* and *map response*. In the first choice, the Test-taker is expected to get everything right in order to receive credit for the answer. In the second choice, additional entries will be required for the *score range*. 
 

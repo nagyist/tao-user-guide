@@ -1,8 +1,8 @@
 # Modal Feedback
 
->Modal feedback is defined as material presented externally of an Item's text when the Test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the Test-taker ("Good job!" "Nailed it!" etc.), or maybe give a hint, etc.
+>Modal feedback is defined as a message presented externally of an Item's text when the Test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the Test-taker ("Good job!" "Nailed it!" etc.), or maybe give a hint, etc.
 
-**Step 1:** In many of the interaction types, the option to select *Modal Feedback* will show itself in the Properties Panel. Where it does, click on the *Add a Modal Feedback* text.
+**Step 1:** In many of the Interaction types, the option to select *Modal Feedback* will show itself in the Properties Panel. Where it does, click on the *Add a Modal Feedback* text.
 
 This results in the opening of a modal feedback panel that sets an initial conditional "if-then-else" statement.
 

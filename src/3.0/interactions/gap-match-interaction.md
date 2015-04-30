@@ -8,11 +8,11 @@ This opens a new *Gap Match Interaction* window. There will be a field for placi
 
 **Step 2:** Fill in the question field. 
 
-Typically this will be some variation on, "Fill in the gaps from the following word set."
+Typically this will be some variation on, "Fill in the gaps from the following word set." Note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture.
 
 **Step 3:** Cut and paste, or type in, the text within which gaps will be presented. 
 
-It will be from this text that the gap match elements will be extracted.
+It will be from this text that the gap match elements will be extracted. Again, note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture.
 
 **Step 4:** Select a word or phrase and highlight it.
 

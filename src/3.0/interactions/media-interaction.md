@@ -10,7 +10,7 @@ Once a video or audio file is uploaded from the resource window, that window wil
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the Test-taker ("View carefully the following film", "Listen to the inflections in the following sound bite", etc.).
+This will describe the task given to the Test-taker ("View carefully the following film", "Listen to the inflections in the following sound bite", etc.). Note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a still picture.
 
 **Step 3:** In the Properties Panel, determine the size of the screen on which the video or audio will play, select if the media device should *autostart* (begin playing on opening the item), *loop* (play over and over again), and be allowed to pause, and if looped, how many times it should play through before stopping. 
 

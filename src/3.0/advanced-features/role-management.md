@@ -12,7 +12,7 @@ Other roles are specific to a particular function (such as LTI) or customized.
 
 The following steps are applicable to the assignment of managerial roles required by the *back office*.
 
-**Step 1:** Within the Assessment Builder Bar, select the icon for Users settings (two heads side-by-side). A pull-down menu will appear. Select *Manage Roles*.
+**Step 1:** Within the Assessment Builder Bar, hover over the icon for *Users settings* (two heads side-by-side). Select, or click, among the options that appear *Manage Roles*.
 
 Within the canvas, there will be two panels sitting side-by-side. The left panel shows a list of roles appropriate for your system settings. The right panel shows a list of users that are entered in your system, including Test-takers.
 

@@ -4,7 +4,7 @@
 
 **Step 1:** Complete creating a new delivery within TAO.
 
-Follow the steps used to Create a New Delivery. This should create an action without an icon called an LTI export. Copy the URL that this action generates.
+Follow the steps used to [Create a New Delivery][]. This should create an action without an icon called an LTI export. Copy the URL that this action generates.
 
 **Step 2:** Deliver the test in Moodle.
 

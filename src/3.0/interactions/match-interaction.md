@@ -8,11 +8,13 @@ This creates a new Match Interaction window. There will be a field for placing i
 
 **Step 2:** Fill in the question field. 
 
-This should describe the match association task expected of the Test-taker.
+This should describe the match association task expected of the Test-taker. Note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture.
 
 **Step 3:** Insert in the rows the first set of elements, and in the columns the second set of elements that are to be associated with the first.
 
 If necessary, add as many rows and columns as will be needed to cover all the associations. If desired, add in unassociated elements in either the rows or columns to provide additional uncertainty for the Test-taker.
+
+Note that again an A icon appears on the left that allows you to put your text in bold or in italic for instance, or even insert a picture.
 
 **Step 4:** Address the Interaction Properties Panel (on the left).
 

@@ -8,7 +8,7 @@ This creates a new Slider interaction window. There will be a field for placing 
 
 **Step 2:** Fill in the question field. 
 
-This will describe the task given to the Test-taker, typically a question involving numbers or a fraction, etc.
+This will describe the task given to the Test-taker, typically a question involving numbers or a fraction, etc. Note that the A icon on the right allows you to put your text in bold or in italic for instance, and insert a picture. 
 
 **Step 3:** Fill in the interaction properties in the Properties Panel. 
 

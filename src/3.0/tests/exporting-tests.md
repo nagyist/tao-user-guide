@@ -2,7 +2,7 @@
 
 >Tests may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing Tests will be useful. For instance, a department may have standard performance expectations for its most basic courses, and these might be determined by a singular Test distributed to the department’s several teachers . The ability to share Tests becomes essential in just such a situation. Doing this takes only a few easy steps.
 
-**Step 1:** Upon opening *Tests* from the Assessment Builder Bar, either click on an existing Test class (folder) in the Test Library panel, or click on the Test folder itself. In the Actions Bar, click New Class. 
+**Step 1:** Upon opening *Tests* from the Assessment Builder Bar, either click on an existing Test class (folder) in the Test Library panel, or click on the Test folder itself. In the button bank below the Library, click New Class. 
 
 Creating a new class, or a new folder, allows the user to place Tests in an organized location in which they can be made ready to be transferred from one machine to another. When doing this, where it says *Edit test class* in the canvas area, find the field marked *Label*. Here the Test class can be renamed, if desired.  Hitting the blue *Save* button will create the class.
 

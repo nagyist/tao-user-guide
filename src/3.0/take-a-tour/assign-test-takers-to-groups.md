@@ -8,9 +8,9 @@ This opens the Groups window that focuses on the currently highlighted Group. It
 
 **Step 2:** Within the Library, click on a desired *class* or on the Groups folder itself.
 
-This brings up a new Actions Bar directly above the canvas that includes an icon to create New Groups. Clicking on this creates a new Group, and a near identical canvas where the panes focus on the new group. We will be concentrating on the library, and the first two panes only.
+This brings up a new button bank directly below the Library that includes an icon to create New Groups. Clicking on this creates a new Group, and a near identical canvas where the panes focus on the new Group. We will be concentrating on the library, and the first two panes only.
 
-**Step 3:** Rename the new group, if desired.
+**Step 3:** Rename the new Group, if desired.
 
 To do this, change the default name given in the Label field, and hit the blue *Save* button.
 

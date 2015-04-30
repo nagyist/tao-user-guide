@@ -37,7 +37,7 @@ This will bring you to the Items page, likely showing the last interaction in wh
 
 **Step 2:** In the *Library*, click the *class* or folder that the interaction (and associated test) applies. 
 
-This will bring up a new Actions Bar that includes the following options: Properties, New Class, New Item, Export, and Import.
+This will bring up a button bank below the Library that includes the following options: New Class, New Item, Export, and Import. In the Action Bar, you'll find the Properties button.
 
 **Step 3:** Click on *New Item* in the Actions Bar.
 

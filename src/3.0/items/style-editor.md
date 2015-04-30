@@ -18,7 +18,7 @@ There are four color swatches that can be changed in accordance with the needs o
 
 Clicking on the swatch opens a color editor panel that consists of a square surrounded by a ring, and a text box below. The ring provides the user with a color wheel that allows changes to the color. The square provides the ability to adjust contrast (left and right) and brightness (up and down). The textbox provides the ability to save a desired specific color setting when it is found as portions of Red, Green, Blue (in RGB hexidecimal-percent of primary color density).
 
-The four swatches cover specific parts of any Item and its interactions. The Background color provides the color backing the entire item. The text color covers all text within the Item and its constituent interactions. The border color governs that of the borders of interactions. Finally, the table heading color swatch provides color to those interactions that use tables (such as Match).
+The four swatches cover specific parts of any Item and its interactions. The Background color provides the color backing the entire item. The text color covers all text within the Item and its constituent interactions. The border color governs that of the borders of Interactions. Finally, the table heading color swatch provides color to those Interactions that use tables (such as Match).
 
 **Step 4:** Adjust fonts as you'd like them.
 
@@ -28,9 +28,9 @@ The other control allows Item authors to change the font size to any size desire
 
 **Step 5:** Item width is set so that it adapts to the width of the user's screen. It is highly recommended that you do not use this setting.
 
-Some institutions prefer that students take tests only on specifically designated computers that have a specific screen width. In such cases, there is a theoretical advantage to set the screen width, and as such, TAO caters to such needs by presenting the option to set width on a given Item. However, for most schools, setting a width presents a significant disadvantage in that a width setting that doesn't adapt to screen size means different-sized computer screens will have problems properly displaying Items. In the vast majority of cases, under normal test authoring situations, there really isn't a need to set Items to a specific width. Where this is the case, it's very much to the user's advantage to use only the setting that allows the width of the Item to adapt to the Test-taker's screen.
+Some institutions prefer that students take tests only on specifically designated computers that have a specific screen width. In such cases, there is a theoretical advantage to set the screen width, and as such, TAO caters to such needs by presenting the option to set width on a given Item. However, for most schools, setting a width presents a significant disadvantage in that a set width setting that doesn't adapt to screen size means different-sized computer screens might have problems properly displaying Items. In the vast majority of cases, under normal test authoring situations, there really isn't a need to set Items to a specific width. Where there isn't such a need, it's very much to the user's advantage to use only the setting that allows the width of the Item to adapt to the Test-taker's screen.
 
 **Step 6:** If you don't like any of the settings you've selected, click on the eraser icon on the right of the control (the swatch or the text box), and the Item will be restored to its default setting.
 
-This can be particularly useful if in playing around with the item, the end result turns out to be something unreadable. Default settings are always a click away.
+This can be particularly useful if in playing around with the Item, the end result turns out to be something unreadable. Default settings are always a click away.
 

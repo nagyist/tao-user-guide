@@ -10,9 +10,9 @@ Creating a new class, or a new folder, allows the user to place unorganized Grou
 
 This selects the Test-takers that will be exported.
 
-**Step 3:** After clicking on the class select from the Actions Bar *Export*.
+**Step 3:** After clicking on the class select from the button bank below the Library *Export*.
 
-Alternatively, an individual Test-taker can be clicked on for exporting, without creating a new class to transfer it in. However, in most instances it is more useful to organize the transfer in a single folder that can be exported in one go.
+Alternatively, an individual Test-taker can be clicked on for exporting, without creating a new class to transfer it in. However, in most instances it is useful to organize the transfer in a single folder that can be exported in one go.
 
 The pane that comes up on the canvas will ask that you confirm that the folder or Test-taker metadata file highlighted is the one that should be exported as a Resource Description Framework or RDF file. Click the blue *Export* button in the pane to continue with the export.
 

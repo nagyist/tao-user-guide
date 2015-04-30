@@ -1,6 +1,6 @@
 # View Your Results
 
->The last of your students have submitted their tests and the window for submitting further attempts has closed. Now it's time to see how your test-takers did. 
+>The last of your students have submitted their Tests and the window for submitting further attempts has closed. Now it's time to see how your Test-takers did. 
 
 **Step 1:** In the Assessment Builder Bar, select Results.
 
@@ -12,7 +12,7 @@ This will open in the Canvas area a tablet that shows all the instances in which
 
 **Step 3:** Click *View Results*
 
-This opens within the Canvas area a more detailed report on the testing Results associated with the attempt under review. This includes two parts: (1) identifying data on the Test-taker, and (2) a review of test variables. The latter section includes a button that allows the chance to review how the Item appeared to the Test-taker.
+This opens within the Canvas area a more detailed report on the testing Results associated with the attempt under review. This includes two parts: (1) identifying data on the Test-taker, and (2) a review of Test variables. The latter section includes a button that allows the chance to review how the Item appeared to the Test-taker.
 
 **Step 4:** Review each Item in order to determine how the Test-taker answered questions in the exam.
 
