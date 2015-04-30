@@ -6,7 +6,7 @@ Previewing typically takes place after clicking *Done* for the completed Interac
 
 **Step 1:** On the Actions Bar, click *Preview*.
 
-Clicking *Save* before *Preview* is certainly good practice, but it’s not completely necessary as just before the preview beings, a pop-up window will appear reading that the Item must be saved before being previewed (the window will appear whether the Item has been saved already or not, just to ensure that the latest version of the Interaction isn’t lost during testing).
+Clicking *Save* before clicking *Preview* is certainly good practice, but it’s not completely necessary as just before the preview begins, a pop-up window will appear reading that the Item must be saved anyway before being previewed (the window will appear whether the Item has been saved already or not, just to ensure that the latest version of the Interaction isn’t lost during testing).
 
 **Step 2:** Click the blue *Save* button in the pop-up window.
 
