@@ -67,6 +67,7 @@
 #    - { title: 'Advanced items', id: 'i_0056'}
     - { title: 'CSS SDK', id: 'i_0057'}
 #    - { title: 'Create branching tests', id: 'i_0058'}
+    - { title: 'Metadata', id: 'i_0075'}
     - { title: 'User Management', id: 'i_0059'}
     - { title: 'Role Management', id: 'i_0060'}
 #    - { title: 'Control user access', id: 'i_0061'}
