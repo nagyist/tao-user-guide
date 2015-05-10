@@ -2,7 +2,7 @@
 
 >White, black, grey, and blue, all done up in a sans-serif font. That can get boring after awhile. Let the *Style Editor* come to the rescue! The Item Style Editor is found in the same area of the TAO interface as the Properties Panel in an Item window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, [refer to the CSS SDK section][i_0057].
 
-**Step 1:**  To access the Style Editor, click on the Style Editor button in the Action Bar above the Properties Panel.
+**Step 1:**  To access the Style Editor, click on the Style Editor button in the blue Action Bar above the Properties Panel.
 
 This will turn the Properties Panel into a Style Editor panel. There are two parts to the editor, the Style Sheet Manager at the top, and the Item Style Editor down below.
 
