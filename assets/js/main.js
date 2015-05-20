@@ -30,7 +30,7 @@
         function search() {
 
             $.get($form.attr('action'), $form.serialize(), function (result) {
-                var $resultsContainer = $('<div id="search-results"/>');
+                var $resultsContainer = $('<div id="search-results" class="search-results"/>');
                 $resultsContainer.html($('<h1/>').text('Search results'));
                 $.each(result,function(i,e){
                     var $result = $('<div />');
