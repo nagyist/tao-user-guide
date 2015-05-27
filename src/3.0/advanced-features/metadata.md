@@ -2,18 +2,17 @@
 
 
 >As an institution's collection of Items grows, most test authors will find that finding the right set of interactions to be used for a given Test will soon become an unwieldy task. TAO offers a way to easily sort out the Items that are important for your Tests, even if there are hundreds or thousands of Items in your organization's data bank from which to choose. This is done through Metadata. Metadata provides certain descriptive flags that can be filtered through the search box, located above the Library in the blue Action Bar, and can be added to any Item. Metadata are defined using Properties.
->
->First, this entry will describe how to add Metadata to your Items through the Properties window and to define Lists to be used with these Properties, and then second, it will describe how to use flags for filtering.
->
->It is worth noting that although this User Guide entry covers Metadata that apply to *Items*, nearly the same procedures apply also for applying Metadata to *Tests*, *Test-takers*, *Groups*, and *Deliveries*.
+
+**Properties** define the Metadata entered for your items. **Metadata** is useful in that it can help identify Items used in a specific course, for a specific instructor, within a specific Test, etc. **Searches** identify these specific Items so that they can be readily accessed. The importance of these three elements will be highlighted in each of the sections that follow.
+
+It is worth noting that although this User Guide entry covers Metadata that apply to *Items*, nearly the same procedures apply also for applying Metadata to *Tests*, *Test-takers*, *Groups*, and *Deliveries*.
+
 
 ## Inserting or editing Properties
 
-Properties are used to define what Metadata can be entered for you items. This can be used to identify Items used in a specific course, for a specific instructor, within a given Test, etc. 
-
 **Step 1:** Click on an Item class to add or edit properties. 
 
-This brings up to view the class' Properties window. Properties define the Metadata set applying to a given Item. The Properties window for the class you are reviewing allows to modify the label of the class and shows the Properties that comprise the Metadata set for all the Items in that class. For items, the first four Properties listed are not editable: *Item Content*, *Original Filename*, *Item Model*, and *Lock*. Other Properties in the list of class Metadata can be both edited and, if necessary, deleted.
+This brings up to view the class's Properties window. Properties define the Metadata applying to a given Item. The Properties window for the class you are reviewing allows the TAO user to modify the label of the class and shows the Properties that comprise the Metadata set for all the Items in that class. For items, the first four Properties listed are not editable: *Item Content*, *Original Filename*, *Item Model*, and *Lock*. Other Properties in the list of class Metadata can be both edited and, if necessary, deleted.
 
 **Step 2:**  To add a new Property in the class Properties window, click on the blue *Add Property* button below the Property list.
 
@@ -37,19 +36,19 @@ Once you've selected the values that apply to this Property, hit the blue *Save*
 
 This brings up a window showing all the available Lists that can be used with the Properties in your TAO Library. At the top of the window, the user can click on a button to create a new list. In this view, you will find all the lists that might apply to any Item set created in your TAO set-up. These can be edited or deleted here.
 
-## Setting Metadata of an Item
+## Selecting Metadata of an Item for use in a Search
 
-**Step 1:** To set the Metadata of any Item, first select the Item which you would like to edit.
+**Step 1:** Select within the Library the Item that contains Properties you would like to edit.
 
-This will bring up the Item view, which lists out the Properties that can be used to describe the item and that may be used to filter and find flagged Items. Flagging, in the sense it is used here, is the act of setting identifiers into Property fields within specific Items to help separate them from all the other Items quickly and efficiently. These can be set for any Property already described. 
+This will bring up in the canvas a list of the Properties that can be used to describe the item and that may be used to filter and find flagged Items. Flagging, in the sense it is used here, is the act of setting identifiers into Property fields within specific Items to help separate them from all the other Items quickly and efficiently. These can be set for any Property already described. 
 
 **Step 2:** Select the Property that you want to use to filter through your Items, and then enter the information you will use to flag this given Item for future use.
 
 Depending on the Type of the Property selected this can either be an input field, a select box, radio-buttons or even an upload-button. Once the data is entered, you will be able to filter this Item using the Search function.
 
-## Using Metadata to find an Item
+## Using Search to find an Item
 
-**Step 1:** To Search your Items, first click on the Search button in the blue Action Bar.
+**Step 1:** Once your Metadata is selected, click on the Search button in the blue Action Bar.
 
 This brings up a gray search window above the Item library, which gives you various options in which to find the Items you want. These include the ability to filter through the Label field (if you've named your Items a specific way so as to facilitate finding them easier), Language field, Item Model type, or any Properties that you defined for Items in your current Class.
 
